@@ -3,7 +3,7 @@ title: Welcome
 ---
 
 <blockquote class="red">
-  <p>This is a prototype -<strong> work in progress</p>
+  <p>This is a prototype - <strong>work in progress</strong></p>
 </blockquote>
 
 We are trying to do better about **Inclusion and Diversity** in Scottish Enterprise.
