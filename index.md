@@ -3,10 +3,10 @@ title: Welcome
 ---
 
 <blockquote class="red">
-  <p>Still under construction</p>
+  <p>This is a prototype - work in progress</p>
 </blockquote>
 
-In response to this time of extraordinary challenge, this network offers a digital space, for business to meet, engage with each other, and work collaboratively in order to help themselves and other businesses in Scotland.
+
 
 > Learn more about [this network](learn-more.md)
 
