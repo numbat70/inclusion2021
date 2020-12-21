@@ -1,23 +1,23 @@
 # ----
 # Site
 
-title: Mobilising Scotland's Businesses, a Peer to Peer Network
-url: "https://scotentsd.github.io/p2p/"
+title: Inclusion and diversity
+url: "https://scotentsd.github.io/inclusion/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /P2PBN.png
-description: Documentation for Mobilising Scotland's Businesses, a Peer to Peer Network
+#logo: /P2PBN.png
+description: Guidelines for inclusion and diversity
 author: 
   name: 
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Mobilising Scotland's Businesses, a Peer to Peer Network
+  name: Guidelines for inclusion and diversity
   links:
-    - https://scotentsd.github.io/p2p/
+    - https://scotentsd.github.io/inclusion/
 
 # -----
 # Build
