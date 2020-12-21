@@ -9,13 +9,13 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 #logo: /P2PBN.png
-description: Guidelines for inclusion and diversity
+description: Guidelines and resources for inclusion and diversity
 author: 
   name: 
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Guidelines for inclusion and diversity
+  name: Guidelines and resources for inclusion and diversity
   links:
     - https://scotentsd.github.io/inclusion/
 
