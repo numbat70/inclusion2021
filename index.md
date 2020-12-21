@@ -6,19 +6,13 @@ title: Welcome
   <p>This is a prototype - work in progress</p>
 </blockquote>
 
+We are trying to do better about Inclusion and Diversity.
+We are gathering guidelines and resources in one place to help you learn and improve.
 
+This is a prototype to see what type of information would be useful, in what format. 
 
-> Learn more about [this network](learn-more.md)
+If you have any question about this, please get in touch:
 
-Staff from [**Scottish Enterprise**](https://www.scottish-enterprise.com/) will help to facilitate the Network, helping to encourage engagement of relevant business themes as well as offer insights and support when needed.
+Stéphanie Krus
 
-> Read our [Rules of Engagement](rules-of-engagement.md)
-
-### Getting Started
-
-You should have received an invitation to join
-
-1. sign up for your Slack account
-2. create your profile
-3. start engaging with other businesses
-
+by email: [stephanie.krus@scotent.co.uk](mailto:stephanie.krus@scotent.co.uk)
