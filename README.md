@@ -1,8 +1,8 @@
-# This is a potential website to support the Slack forum
+# This is a prototype for a potential website to provide guidance around Inclusion and Diversity for Scottish Enterprise Employees
 
 This is built using Github pages, Jekyll and CloudCannon. By using some markdown language, you can create content which is deployed in the next 2 to 5 min to a website. No hosting needed and it's free.
 
-[See the result here](https://scotentSD.github.io/p2p/)
+[See the prototype here](https://scotentSD.github.io/inclusion/)
 
 
 
