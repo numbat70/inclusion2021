@@ -487,3 +487,8 @@ a.button:hover {
 	font-weight: 600;
 	padding: 0.5em 1em;
 }
+iframe, video {
+  @media only screen and (max-width: 560px) {
+  width: 100%;
+  }
+}
