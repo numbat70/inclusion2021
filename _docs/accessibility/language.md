@@ -123,6 +123,7 @@ If you’re looking for guidance around a specific disability, look for a local 
 ### Some more personal point of views
 - [Whatever You Do Don’t Call Me Differently Abled.](https://medium.com/swlh/whatever-you-do-dont-call-me-differently-abled-d947ac029801) - Medium article by Elizabeth Wright
 - [Disability Pronouns](https://medium.com/age-of-awareness/disability-pronouns-bb7e04b890f3) - Medium article by Sheri Byrne-Habe
+- [Disability language is a nuanced thing](https://incl.ca/disability-language-is-a-nuanced-thing/) - blog post by Nicolas Steenhout 
 
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>
