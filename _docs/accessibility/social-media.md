@@ -42,6 +42,12 @@ We should try not to use them too much. They are read aloud by screen readers. F
 ## Hashtags and mentions should go at the end
 The symbols # and @ are said aloud by screen readers, and makes it harder to understand the sentence they are part of. Adding them after the text, will make it clearer.
 
+> Did you know what #a11y means? This is an abbreviation for Accessibility, it's called a numeronym, it's the first and last letters and there are 11 in between.
+
+![diagram explaining a11y with the number from 1 to 11 undern the central letters](/inclusion/accessibility/files/a11y.png)
+
+
+
 ## Avoid Caps letters
 It’s harder for everyone to read. The ‘shape’ of a word help readers to identify it. The shape is lost with capitals. It can be misinterpreted by screen readers as well and might be read letter by letter.
 
