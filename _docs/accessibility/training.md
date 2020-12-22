@@ -12,11 +12,11 @@ order: 10
 
  - [Global Accessiblity Awareness Day 2020](/files/GAAD-2020-presentation-for-the-public.pdf) - PDF
  
- ## General resources
+## General resources
  
 - [An accessibility reading list](https://accessibility.blog.gov.uk/2017/10/23/an-accessibility-reading-list/) - GOV.UK
  
- ## Web accessibility
+## Web accessibility
  
 - [Curricula on Web Accessibility - A Framework to Build Your Own Courses](https://www.w3.org/WAI/curricula/) - by W3C
 - [EdX - Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction) - free course
