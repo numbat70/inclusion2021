@@ -13,6 +13,7 @@ Quick access:
   - [Dyspraxia](#dyspraxia)
 - [Blindness and visual impairments](#blindness-and-visual-impairments)
 - [Deaf and hearing impairments](#deaf-and-hearing-impairments)
+- [Motricity impairments](#motricity-impairments)
 
 These [posters from the Home Office Digital](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) are a great resource. They are available in many languages.
 
@@ -124,6 +125,7 @@ A good resource of videos to explain the wide range of aspects of Dyslexia: [Dys
 [**Back to top**]()
 
 <blockquote class="red"><p>work in progress</p></blockquote>
+[A Disability That Does Not Count](https://humanparts.medium.com/a-disability-that-does-not-count-656b5e95e6c1)
 
 ## Blindness and visual impairments
 
@@ -138,11 +140,24 @@ How 3 blind women use tech:
 How a screen reader user surf the web - Leonie Watson is an accessiblity specialist:
 <iframe title="How a screen reader user surf the web " width="560" height="315" src="https://www.youtube.com/embed/OUDV1gqs9GA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Kristy Viers is blind**. She has a great [Youtube channel](https://www.youtube.com/c/KristyViers/videos) where you can see her using tech. Below is one where is is using **VoiceOver and a Braille screen input**
+<iframe title="Kristy Viers, using VoiceOver and a Braille screen input on her iPad" width="560" height="315" src="https://www.youtube.com/embed/wueLXCbm_KY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Deaf and hearing impairments
 
 [**Back to top**]()
 
 <blockquote class="red"><p>work in progress</p></blockquote>
+
+## Motricity impairments
+
+[**Back to top**]()
+
+<blockquote class="red"><p>work in progress</p></blockquote>
+
+
+**Todd Stabelfeldt is quadriplegic**. He has a  [Youtube channel](https://www.youtube.com/channel/UCxQnKCHB9_9BXBY13he_LMA) where you can see him using tech. Below  is a video where he did a **Switch control demo at an Apple event**.
+<iframe title="Todd doing an iOS Switch Control Demo" width="560" height="315" src="https://www.youtube.com/embed/kj9UodcwIes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>
