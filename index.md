@@ -16,6 +16,15 @@ There is a lot under the term 'diversity':
 ## Remote working as an opportunity
 Interesting video about **remote working and the opportunity for Inclusion** is worth a watch
 <iframe title="talk about remote working and the opportunity of inclusion"  width="560" height="315" src="https://www.youtube.com/embed/6K-22lQqolo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Gemma Mc Call is the host, Rachel Morgan-Trimmer is a Neurodiversity consultant, Leyla Okhai is a cultural awareness specialist and Janice Sutherland is a woman leadership expert.
+
+Some insights from the video:
+- Neurodiverse people can struggle with tread on social media, especially dyslexic people. Sequence do not always make sense to them
+- Autistic people can struggle online has they have very little to go on to understand others online. They might also struggle to speak when not asked a specific question
+- Asking what could help, can help autistic people to focus on their needs. They don't always realise how they feel and what they need
+- 'User manual for me' can explain what works for someone and what doesn't for them, what might create problems or anxiety 
+
+[more coming soon]
 
 ### User manual for me
 This was addressed in the video above. This in an interesting concept. The idea is for an employee to give instructions about how best to interact with them.
