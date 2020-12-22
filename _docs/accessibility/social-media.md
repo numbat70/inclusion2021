@@ -31,6 +31,7 @@ Capitalising the first letter of each words on hashtags improves readability for
 For example: **#ThisIsHowtoFormatAnAccessibleHashtag**
 
 > Did you know what **#a11y** means? 
+>
 > This is an abbreviation for Accessibility, it's called a numeronym, it's the first and last letters and there are 11 in between.
 
 ![diagram explaining a11y with the number from 1 to 11 undern the central letters](/inclusion/accessibility/files/a11y.png)
