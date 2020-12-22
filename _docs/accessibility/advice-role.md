@@ -27,6 +27,8 @@ Depending on your role, there are some specific things you need to make sure you
 [Poster to explain who to include in your research](/inclusion/accessibility/files/Research-who_to_include_when_.pdf) - PDF
 This poster is a [resource from the Home Office Digital](https://github.com/UKHomeOffice/posters/blob/master/accessibility/researching-access-needs/Research-who_to_include_when%3F.pdf)
 
+[check this link: https://developer.paciellogroup.com/blog/2019/03/think-like-an-accessible-ux-researcher-part-1-defining-your-research-problem/ ]
+
 ## Organising an event
 
 [**Back to top**]()
