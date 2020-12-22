@@ -4,7 +4,7 @@ category: Accessibility
 order: 9
 ---
 
-<blockquote class="red"><p>work in progress - will mention the Champions</p></blockquote>
+<blockquote class="red"><p>work in progress</p></blockquote>
 
 ## Joining the Accessibility Champions Network initiated by the BBC
 
@@ -35,15 +35,15 @@ Some advice from this video:
 - Give talk across the business  
 - Write guidance, case studies  
 - Communicate the successes  
-
-have a percentage of your work time allocated to this  
-
-use your volunteer days to volunteer in associations that support people with disabilities  
+- Have a percentage of your work time allocated to this  
+- Use your volunteer days to volunteer in associations that support people with disabilities  
 
 ### Nothing about us without us
 Challenging companies and assistive technologies to do better
 
 <iframe title="Nothing about us without us" width="560" height="315" src="https://www.youtube.com/embed/eYKe6si3Q9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<blockquote class="red"><p>work in progress - more coming soon</p></blockquote>
 
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>
