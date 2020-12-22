@@ -1,16 +1,14 @@
 ---
-title: Language
+title: Language to use when talking about disabilities  
 category: Accessibility
-order: 2
+order: 3
 ---
-
-# Language to use when talking about disabilities  
 
 <blockquote class="red">
   <p>Work in progress</p>
 </blockquote>
 
-## General guidance 
+# General guidance 
 
 It’s usually best to just ask the person you’re speaking to how they’d prefer you to refer to their disability or accessibility needs. But it's not always possible when addressing a wider audience.
 
@@ -22,7 +20,7 @@ Here are some general best practise guidelines:
 - **Consider if you need to refer to a disability at all**. For example, when pointing users to a video transcript, you can just say ‘If you prefer, you can read a transcript of this video here’ rather than ‘If you’re deaf or hard of hearing, you can read a transcript of this video here’.  
 
  
-## People first or identity first? 
+# People first or identity first? 
 
 **People-first language** means putting the person before their disability – for example, ‘people with disabilities’ or ‘someone with autism’ or ‘a person who is blind’.  
 
@@ -32,29 +30,32 @@ The preferred option in the UK seems to be identity first language. Many people 
 
 When writing or speaking for Scottish Enterprise or our partners, we recommend using identity first language where possible. There are some exceptions, which we’ll explore on this page.  
 
- 
+> **From [Mik Scarlet](https://twitter.com/MikScarlet/status/1319557794643718146)**
+> People do not have disabilities. They are disabled. They have medical conditions, impairments or illnesses. The disability is something society causes because of how it reacts to people with those impairments. 
+>It's really important we use this language as it leads to equality. 
+>
+> We went through PWD (people with disabilities) but changed as we threw off the convention that we were less. Putting people first is part of the journey to pride & awareness. It revolves around how you see "disability". 
 
-Neurodiversity (including Autism, ADHD and dyslexia) 
+
+ 
+# Language per condition
+## Neurodiversity (including Autism, ADHD and dyslexia) 
 
 We recommend taking the 'identity first’ approach when talking about neurodiversity. However, there are some exceptions.  
 
 The terms we recommend using are: 
 
-An autistic person 
-
-A dyslexic person 
-
-Neurodiverse people  
-
-A person with ADHD 
-
-A person with dyspraxia  
+- An autistic person 
+- A dyslexic person 
+- Neurodiverse people  
+- A person with ADHD 
+- A person with dyspraxia  
 
 You can also use the more general term, ‘neurodiverse people’, if you need to.  
 
  
 
-Cognitive impairments 
+## Cognitive impairments 
 
 There can be a lot of overlap between neurodiversity and cognitive impairments. We usually use ‘cognitive impairments’ to refer to specific impairments related to the brain – for example, memory loss, difficulty processing information, cognitive overload or difficulty understanding written language. Both neurodiverse and neurotypical people can experience cognitive impairments. This can be the result of a specific condition like Autism or ADHD, an injury or illness such as a stroke, or just related to ageing.   
 
@@ -62,79 +63,65 @@ We recommend saying ‘people with cognitive impairments’ as it’s simpler th
 
  
 
-Sight conditions 
+## Sight conditions 
 
 Sight conditions can vary greatly, from blindness or partial sight, to colour blindness. The definitions of these can vary too – some legally blind people still have some sight. We recommend using the following terms when talking about people with sight conditions: 
 
-Blind people  
+- Blind people  
+- People with partial sight  
+- People with low vision  
+ -People with colour blindness 
+- People with visual impairments  
 
-People with partial sight  
-
-People with low vision  
-
-People with colour blindness 
-
-People with visual impairments  
-
-Do not use terms like ‘the blind’ or ‘the visually impaired’.  
+**Do not use terms like ‘the blind’ or ‘the visually impaired’.**
 
  
 
-Hearing loss 
+## Hearing loss 
 
 Just like sight conditions, hearing loss can vary from person to person. Some people may not be able to hear at all, while some may still have partial hearing in one or both ears. We recommend using the following terms when talking about people with sight conditions: 
 
-Deaf people 
+- Deaf people 
+- People with hearing loss  
+- People who are hard of hearing  
 
-People with hearing loss  
-
-People who are hard of hearing  
-
-Don’t use terms like ‘the deaf’, unless you’re referring more generally to ‘the Deaf community’.  
+**Don’t use terms like ‘the deaf’, unless you’re referring more generally to ‘the Deaf community'.**
 
  
-
-Physical or motor disabilities 
+## Physical or motor disabilities 
 
 This includes a range of disabilities and accessibility needs. We recommend using the following terms for people with physical or motor disabilities: 
 
-Someone with a physical disability  
-
-People with motor disabilities  
-
-Wheelchair users 
-
-People who experience tremors 
-
-People who experience difficulty with co-ordination  
+- Someone with a physical disability  
+- People with motor disabilities  
+- Wheelchair users 
+- People who experience tremors 
+- People who experience difficulty with co-ordination  
 
 Where possible, try to refer to the specific condition or symptom you mean, because different types of physical and motor disabilities can result in different accessibility needs.  
 
  
 
-Further reading 
+# Further reading 
 
-GOV.UK has a useful list of words to use and words to avoid when talking about disabilities.  
+GOV.UK has a useful [list of words to use and words to avoid when talking about disabilities](https://www.gov.uk/government/publications/inclusive-communication/inclusive-language-words-to-use-and-avoid-when-writing-about-disability#words-to-use-and-avoid).  
 
 If you’re looking for guidance around a specific disability, look for a local or national organisation that can help. The way they talk about disabilities on their own websites gives a good idea of what the best practise may be. Here are a list of sites that may be useful: 
 
-Royal National Institute of Blind People 
+- [Royal National Institute of Blind People](https://www.rnib.org.uk/)
+- [Visibility Scotland](https://visibilityscotland.org.uk/)
+- [Sight Scotland](https://sightscotland.org.uk/)
+- [Deafscotland](https://deafscotland.org/) 
+- [Deaf action](https://www.deafaction.org/) 
+- [Disability information Scotland](https://www.disabilityscot.org.uk/)   
+- [Inclusion Scotland](https://inclusionscotland.org/) 
+- [British Dyslexia Association](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide) 
+- [Scottish Autism](https://www.scottishautism.org/)
+- [Down's Syndrome Association](https://www.downs-syndrome.org.uk/news/mum-launches-new-language-cards/)
 
-Visibility Scotland 
-
-Sight Scotland 
-
-deafscotland 
-
-Deaf action 
-
-Disability information Scotland   
-
-Inclusion Scotland 
-
-British Dyslexia Association 
-
-Scottish Autism 
+## Some more personal point of views
+-[Whatever You Do Don’t Call Me Differently Abled.](https://medium.com/swlh/whatever-you-do-dont-call-me-differently-abled-d947ac029801) - Medium article by Elizabeth Wright
+-[Disability Pronouns](https://medium.com/age-of-awareness/disability-pronouns-bb7e04b890f3) - Medium article by Sheri Byrne-Habe
 
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>
