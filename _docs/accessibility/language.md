@@ -30,11 +30,12 @@ The preferred option in the UK seems to be identity first language. Many people 
 
 When writing or speaking for Scottish Enterprise or our partners, we recommend using identity first language where possible. There are some exceptions, which we’ll explore on this page.  
 
-> **From [Mik Scarlet](https://twitter.com/MikScarlet/status/1319557794643718146)**
-> People do not have disabilities. They are disabled. They have medical conditions, impairments or illnesses. The disability is something society causes because of how it reacts to people with those impairments. 
->It's really important we use this language as it leads to equality. 
+> **From [Mik Scarlet](https://twitter.com/MikScarlet/status/1319557794643718146):**
 >
-> We went through PWD (people with disabilities) but changed as we threw off the convention that we were less. Putting people first is part of the journey to pride & awareness. It revolves around how you see "disability". 
+> "People do not have disabilities. They are disabled. They have medical conditions, impairments or illnesses. The disability is something society causes because of how it reacts to people with those impairments. 
+>It's really important we use this language as it leads to equality." 
+>
+>"We went through PWD (people with disabilities) but changed as we threw off the convention that we were less. Putting people first is part of the journey to pride & awareness. It revolves around how you see disability." 
 
 
  
