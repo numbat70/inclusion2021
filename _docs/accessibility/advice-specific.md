@@ -80,6 +80,8 @@ Neurodiverse people are often seen as a challenge or a problem, but treating the
 ### Autism
 
 Autism is a spectrum condition and affects everyone differently. There are differences in communication, sensory processing, social understanding and how you process information.
+![infinity symbol with rainbow colours](/inclusion/accessibility/files/neurodiversity.jpg)
+The infinity symbol represents autistic pride (Istock art)
 
 A good resource for employers: [DWP Autism and Neurodiversity Toolkit for staff and managers](https://www.autismandneurodiversitytoolkit.org/)
 
