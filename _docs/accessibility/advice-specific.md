@@ -7,11 +7,11 @@ order: 7
 Quick access:
 - [Neurodiversity](#neurodiversity)
   - [Autism](#autism)
-  - [ADHD](/inclusion/accessibility/advice-specific/#adhd) - Attention Deficit Hyperactivity Disorder
-  - [Dyslexia](inclusion/accessibility/advice-specific/#dyslexia)
-  - [Dyspraxia](/#dyspraxia)
-- [Blindness and visual impairments](/#blindness-and-visual-impairments)
-- [Deaf and hearing impairments](/#deaf-and-hearing-impairments)
+  - [ADHD](#adhd) - Attention Deficit Hyperactivity Disorder
+  - [Dyslexia](#dyslexia)
+  - [Dyspraxia](#dyspraxia)
+- [Blindness and visual impairments](#blindness-and-visual-impairments)
+- [Deaf and hearing impairments](#deaf-and-hearing-impairments)
 
 These [posters from the Home Offcice Digital](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) are a great resource. They are available in many languages.
 
@@ -20,7 +20,7 @@ These [posters from the Home Offcice Digital](https://github.com/UKHomeOffice/po
 ## Neurodiversity
 Neurodiversity is not a well known term. It’s used to reflect one the diversity of ways people’s brain functions. There is no ‘normal’ or ‘right’ way. People with autism, ADHD (Attention Deficit Hyperactivity Disorder) or dyslexia are part of this neurodiversity.
 
-Talk from [**Rachel Morgan-Trimmer**](https://sparkleclass.com/): Workshop: What is neurodiversity and why should you care about it?
+Talk from [**Rachel Morgan-Trimmer**](https://sparkleclass.com/)'s Workshop: What is neurodiversity and why should you care about it?
 <iframe title="Workshop: What is neurodiversity and why should you care about it?" width="624" height="468" src="https://www.youtube.com/embed/HdrbrHVD11I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Simple tips
@@ -80,18 +80,17 @@ Neurodiverse people are often seen as a challenge or a problem, but treating the
 
 ### Autism
 
-Autism is a spectrum condition and affects everyone differently. There are differences in communication, sensory processing, social understanding and how you process information.
+Autism is a spectrum condition and affects everyone differently. There are differences in communication, sensory processing, social understanding and how you process information. Women are often diagnosed very late as there are still a lot of misconceptions about what autism is.
+A good resource for employers: [DWP Autism and Neurodiversity Toolkit for staff and managers](https://www.autismandneurodiversitytoolkit.org/)
 
 ![infinity symbol with rainbow colours](/inclusion/accessibility/files/neurodiversity.jpg)
 The infinity symbol represents autistic pride (Istock art)
 
-A good resource for employers: [DWP Autism and Neurodiversity Toolkit for staff and managers](https://www.autismandneurodiversitytoolkit.org/)
 
-Video from the Scottish Goverment: Around 1 in 100 people in Scotland are autistic. Different minds. One Scotland.
-To understand more, visit differentminds.scot #Differentminds
+Video from the Scottish Goverment: Around 1 in 100 people in Scotland are autistic. To understand more, visit [differentminds.scot](https://differentminds.scot/) #Differentminds
 <iframe title="Autism myths - full film" width="560" height="322" src="https://www.youtube.com/embed/0TAuQUlpdvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Women are often diagnosed very late as there are still a lot of misconceptions about what autism is.
+
 
 What women with autism want you to know:
 <iframe title="What women with autism want you to know" width="560" height="322" src="https://www.youtube.com/embed/NwEH9Ui4HV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -110,10 +109,10 @@ A good resource of videos to explain the wide range of aspects of Dyslexia: [Dys
 ## Blindness and visual impairments
 
 How 3 blind women use tech:
-<iframe title="How 3 blind women use tech" width="848" height="477" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="How 3 blind women use tech" width="560" height="315" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 How a screen reader user surf the web - Leonie Watson is an accessiblity specialist:
-<iframe title="How a screen reader user surf the web " width="848" height="477" src="https://www.youtube.com/embed/OUDV1gqs9GA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="How a screen reader user surf the web " width="560" height="315" src="https://www.youtube.com/embed/OUDV1gqs9GA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Deaf and hearing impairments
 
