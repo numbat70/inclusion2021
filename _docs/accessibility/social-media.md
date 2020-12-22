@@ -5,6 +5,7 @@ order: 4
 ---
 
 > This is a great place to start!
+> On Twitter, you can follow disabled people and learn from them. Social Media don't have to keep you in your own little bubble, this can also be a way for you to learn from people very different from you. Give it a try!
 
 To reach your audience, you need to do better to make sure everyone can access your posts on social media. 
 
