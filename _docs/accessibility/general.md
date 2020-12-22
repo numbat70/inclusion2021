@@ -19,7 +19,7 @@ For example: location (noise, slow wifi) health (tired, recovering) equipment (m
 
 ## General awareness
 
-This video from 2017 give some good basic principles
+This video from 2014 give some good basic principles
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gv1aDEFlXq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Some more personal advice:
