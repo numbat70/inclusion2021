@@ -1,7 +1,7 @@
 ---
 title: Disability Positive - MyCommunity
 category: Accessibility
-order: 1
+order: 2
 ---
 
 <span class="tag">Internal only</span>
