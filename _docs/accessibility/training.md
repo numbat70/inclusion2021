@@ -10,7 +10,7 @@ order: 10
 
  We will try to add some resrouces here. For now, there are some presentations you are welcome to reuse:
 
- - [Global Accessiblity Awareness Day 2020](/files/GAAD-2020-presentation-for-the-public.pdf) - PDF
+ - [Global Accessiblity Awareness Day 2020](/inclusion/accessibility/files/GAAD-2020-presentation-for-the-public.pdf) - PDF
  
 ## General resources
  
