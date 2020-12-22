@@ -4,7 +4,43 @@ category: Accessibility
 order: 1
 ---
 
-Will add content
+<blockquote class="red">
+  <p>Work in progress</p>
+</blockquote>
+
+
+In the UK, **1 in 5 people are disabled** – this could be visual, hearing, speaking, motor or cognitive (affecting memory and thinking). But the concept of accessibility doesn’t just apply to disabled people – all users will have different needs at different times and in different circumstances.
+
+For example: location (noise, slow wifi) health (tired, recovering) equipment (mobile or older browser).
+
+> "My needs are different from yours and my needs today might be different tomorrow" - Charles Hall
+
+**Making things more accessible makes things better for everyone**
+
+## General awareness
+
+This video from 2017 give some good basic principles
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gv1aDEFlXq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Some more personal advice:
+- [“I never know when to [offer to] help disabled people”](https://gemturner.com/i-never-know-when-to-offer-to-help-disabled-people/) - by Gem Turner
+- [I've Been Paralyzed Since I Was 3. Here's Why Kindness Toward Disabled People Is More Complicated Than You Think](https://time.com/5881597/disability-kindness/) - by Rebekah Taussig
+- [Teaching your child about disability and difference](https://amp.abc.net.au/article/everyday/11739256) - by Ellen Fraser-Barbour 
+
+
+
+### The social model
+The social model of disability is a way of viewing the world, developed by disabled people. 
+
+The model says that people are disabled by barriers in society, not by their impairment or difference. Barriers can be physical, like buildings not having accessible toilets. Or they can be caused by people's attitudes to difference, like assuming disabled people can't do certain things.
+
+The social model helps us recognise barriers that make life harder for disabled people. Removing these barriers creates equality and offers disabled people more independence, choice and control.
+
+Not everyone uses the social model and that’s ok. How anyone chooses to talk about their impairment is up to them. 
+
+(Source: [Scope](https://www.scope.org.uk/about-us/social-model-of-disability/))
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3m_EbRH1aF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>
