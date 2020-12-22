@@ -16,3 +16,6 @@ Some of our goals:
 - Activities for group members & for external audience 
 - Safe environment for members  
 - To have a collective voice, Peer to Peer Support 
+
+
+<div>Last updated: {{site.time | date_to_string}}</div>
