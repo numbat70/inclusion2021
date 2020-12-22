@@ -14,13 +14,14 @@ There is a lot under the term 'diversity':
 ![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gender & sexuality, disability](/images/diversity.jpg)
 
 ## Remote working as an opportunity
-Interesting video about remote working and the opportunity for Inclusion is worth a watch
+Interesting video about **remote working and the opportunity for Inclusion** is worth a watch
 <iframe title="talk about remote working and the opportunity of inclusion"  width="560" height="315" src="https://www.youtube.com/embed/6K-22lQqolo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### User manual for me
-This was address in the video above. This in an interesting concept. The idea is for an employee to give instructions about how best to interact with them.
+This was addressed in the video above. This in an interesting concept. The idea is for an employee to give instructions about how best to interact with them.
+
 For example:
-- I prefer email to call or team messages
+- I prefer emails to calls or team messages
 - I like to have some focus time in the morning, so prefer not to have meetings before 11am
 - if you need something from me, be explicit about it as I don't always pick up light cues
 
