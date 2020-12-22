@@ -47,8 +47,8 @@ It’s harder for everyone to read. The ‘shape’ of a word help readers to id
 
 ## How people with disabilities use tech
 
-**[How does a deaf or hard of hearing person uses technology?](https://www.levelaccess.com/understanding-assistive-technology-how-does-a-deaf-or-hard-of-hearing-person-use-technology/)**
-**[Videos of people with disabilities using tech](https://axesslab.com/tech-youtubers/)**
+- **[How does a deaf or hard of hearing person uses technology?](https://www.levelaccess.com/understanding-assistive-technology-how-does-a-deaf-or-hard-of-hearing-person-use-technology/)**
+- **[Videos of people with disabilities using tech](https://axesslab.com/tech-youtubers/)**
 
 ### How does a blind person use Twitter?
 <iframe title="Using Twitter with a Screen Reader and VoiceOver" width="560" height="322" src="https://www.youtube.com/embed/DgLLti7pCZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
