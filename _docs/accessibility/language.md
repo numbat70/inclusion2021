@@ -1,5 +1,5 @@
 ---
-title: Language to use when talking about disabilities  
+title: Language to use about disabilities  
 category: Accessibility
 order: 3
 ---
