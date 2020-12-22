@@ -18,6 +18,7 @@ These [posters from the Home Offcice Digital](https://github.com/UKHomeOffice/po
 ![collage of 8 posters from the Home Office showing we you should do / don't do regarding designing for deaf or hard of hearing, users on the autistic spectrum, dyslexia, anxiety, physical or motor disabilities, low vision, or screen readers ](/inclusion/accessibility/files/do-dont.png)
 
 ## Neurodiversity
+[**Back to top**](/)
 Neurodiversity is not a well known term. It’s used to reflect one the diversity of ways people’s brain functions. There is no ‘normal’ or ‘right’ way. People with autism, ADHD (Attention Deficit Hyperactivity Disorder) or dyslexia are part of this neurodiversity.
 
 Talk from [**Rachel Morgan-Trimmer**](https://sparkleclass.com/)'s Workshop: What is neurodiversity and why should you care about it?
@@ -108,8 +109,10 @@ A good resource of videos to explain the wide range of aspects of Dyslexia: [Dys
 
 ## Blindness and visual impairments
 
+
 How 3 blind women use tech:
 <iframe title="How 3 blind women use tech" width="560" height="315" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 How a screen reader user surf the web - Leonie Watson is an accessiblity specialist:
 <iframe title="How a screen reader user surf the web " width="560" height="315" src="https://www.youtube.com/embed/OUDV1gqs9GA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
