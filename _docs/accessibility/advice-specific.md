@@ -4,6 +4,7 @@ category: Accessibility
 order: 7
 ---
 
+<blockquote class="red"><p>work in progress</p></blockquote>
 Quick access:
 - [Neurodiversity](#neurodiversity)
   - [Autism](#autism)
@@ -83,10 +84,13 @@ Neurodiverse people are often seen as a challenge or a problem, but treating the
 
 ### Autism
 
+[**Back to top**]()
+
 Autism is a spectrum condition and affects everyone differently. There are differences in communication, sensory processing, social understanding and how you process information. Women are often diagnosed very late as there are still a lot of misconceptions about what autism is.
 A good resource for employers: [DWP Autism and Neurodiversity Toolkit for staff and managers](https://www.autismandneurodiversitytoolkit.org/)
 
 ![infinity symbol with rainbow colours](/inclusion/accessibility/files/neurodiversity.jpg)
+
 The infinity symbol represents autistic pride (Istock art)
 
 
@@ -103,14 +107,29 @@ A shorter video:
 
 ### ADHD
 
+[**Back to top**]()
+
+<blockquote class="red"><p>work in progress</p></blockquote>
+
 ### Dyslexia
+
+[**Back to top**]()
 
 A good resource of videos to explain the wide range of aspects of Dyslexia: [Dyslexia Bytes](https://www.youtube.com/c/DyslexiaBytes/videos)
 
+<blockquote class="red"><p>work in progress</p></blockquote>
+
 ### Dyspraxia
+
+[**Back to top**]()
+
+<blockquote class="red"><p>work in progress</p></blockquote>
 
 ## Blindness and visual impairments
 
+[**Back to top**]()
+
+<blockquote class="red"><p>work in progress</p></blockquote>
 
 How 3 blind women use tech:
 <iframe title="How 3 blind women use tech" width="560" height="315" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -120,6 +139,10 @@ How a screen reader user surf the web - Leonie Watson is an accessiblity special
 <iframe title="How a screen reader user surf the web " width="560" height="315" src="https://www.youtube.com/embed/OUDV1gqs9GA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Deaf and hearing impairments
+
+[**Back to top**]()
+
+<blockquote class="red"><p>work in progress</p></blockquote>
 
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>
