@@ -1,5 +1,5 @@
 ---
-title: Advice for specific needs
+title: Advices for specific needs
 category: Accessibility
 order: 7
 ---
