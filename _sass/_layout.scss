@@ -439,6 +439,11 @@ blockquote.red {
 	border-color: $warning-colour;
 }
 
+blockquote.info {
+	background-color: $info-colour-light;
+	border-color: $info-colour;
+}
+
 img {
 	max-width: 100%;
 	height: auto;
