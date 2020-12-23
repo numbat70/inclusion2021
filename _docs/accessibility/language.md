@@ -8,14 +8,18 @@ order: 3
 ## General guidance 
 
 <blockquote class="info">
-It’s usually best to just ask the person you’re speaking to how they’d prefer you to refer to their disability or accessibility needs. But it's not always possible when addressing a wider audience.
-
+ <p>
+  It’s usually best to just ask the person you’re speaking to how they’d prefer you to refer to their disability or accessibility needs. But it's not always possible when addressing a wider audience.
+ </p>
+<p>
 Here are some general best practise guidelines: 
-
-- Avoid using terms like ‘disabled’ or ‘disabilities’ too generally – are you really referring to all people with any disability, or do you specifically mean wheelchair users, people with vision impairments, people with hearing loss or another more specific disability?  
-- Avoid using negative terms like ‘suffers from’ or ‘confined to’ (in relation to a wheelchair) 
-- When talking about people without disabilities, don’t use terms like ‘normal’ or ‘healthy’. Just say ‘people without disabilities’ 
-- **Consider if you need to refer to a disability at all**. For example, when pointing users to a video transcript, you can just say ‘If you prefer, you can read a transcript of this video here’ rather than ‘If you’re deaf or hard of hearing, you can read a transcript of this video here’.  
+</p>
+ <ul>
+<li>Avoid using terms like ‘disabled’ or ‘disabilities’ too generally – are you really referring to all people with any disability, or do you specifically mean wheelchair users, people with vision impairments, people with hearing loss or another more specific disability</li>
+<li>Avoid using negative terms like ‘suffers from’ or ‘confined to’ (in relation to a wheelchair)</li>
+<li>When talking about people without disabilities, don’t use terms like ‘normal’ or ‘healthy’. Just say ‘people without disabilities’</li>
+  <li><strong>Consider if you need to refer to a disability at all</strong>. For example, when pointing users to a video transcript, you can just say ‘If you prefer, you can read a transcript of this video here’ rather than ‘If you’re deaf or hard of hearing, you can read a transcript of this video here’</li>
+ </ul>
  </blockquote>
  
 ## People first or identity first? 
@@ -25,7 +29,7 @@ Here are some general best practise guidelines:
 **Identity-first language** means putting how the person identifies first – for example ‘disabled people’ ‘an autistic person’ or ‘a blind person’. 
 
 <blockquote class="info">
-The preferred option in the UK seems to be identity first language. Many people in disabled communities feel this helps them ‘own’ their disabilities, to reduce stigma and promote pride. Of course, everyone has their own preferences, and some people do prefer person-first language. 
+<p>The preferred option in the UK seems to be identity first language. Many people in disabled communities feel this helps them ‘own’ their disabilities, to reduce stigma and promote pride. Of course, everyone has their own preferences, and some people do prefer person-first language.</p>
 </blockquote>
  
 When writing or speaking for Scottish Enterprise or our partners, we recommend using identity first language where possible. There are some exceptions, which we’ll explore on this page.  
