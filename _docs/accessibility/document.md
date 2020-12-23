@@ -5,7 +5,7 @@ order: 5
 ---
 
 
-<blockquote class="rinfo">
+<blockquote class="info">
   <p>Main recommendations: </p>
   <ul>
     <li>avoid using PDF when sharing a text document</li>
@@ -20,10 +20,26 @@ order: 5
     <li>make sure your video are captioned correctly</li>
     <li>provide a transcript for your media files where possible</li>
     <li>use automatic checkers from Word and Adobe</li>
-    <li><a href=""></a></li>
   </ul>
 </blockquote>
 
+## Quick access
+- [PDF are not recommended](#pdf-are-not-recommended)
+- [Tips to make your documents accessible](#tips-to-make-your-documents-accessible)
+  - [Language and content ](#language-and-content)
+  - [Headings and structure](#headings-and-structure)
+  - [Colours and contrast](#colours-and-contrast)
+  - [Alternative (alt) text](#alternative-alt-text)
+  - [Links](#links)
+  - [Checking a Word document for accessibility](#checking-a-word-document-for-accessibility)
+  - [Checking a PDF for accessibility](#checking-a-pdf-for-accessibility)
+  - [Using tables](#using-tables)
+  - [Graphs and charts](#graphs-and-charts)
+  - [Making complex documents accessible](#making-complex-documents-accessible)
+  - [Simplifying a complex document](#simplifying-a-complex-document)
+- [Try a screen reader for yourself](#try-a-screen-reader-for-yourself) 
+- [Media files](#media-files)
+- [Further reading](#further-reading)
 
 ## PDF are not recommended
 
@@ -59,6 +75,8 @@ However, there may be situations where we can’t avoid publishing a document on
 
 **Make sure your content is left aligned**. Avoid justifying your text as this can cause irregular spacing which can be confusing for some users.  
 
+[**Back to top**]()
+
 ### Headings and structure 
 
 Structure the document logically and use headings to break it into meaningful sections. Your headings should be simple and descriptive – avoid ‘clever’ headings and puns.  
@@ -66,8 +84,10 @@ Structure the document logically and use headings to break it into meaningful se
 Headings should also be properly marked as headings – don’t just use large or bold font to signify a heading. This helps screen readers navigate the document. In Microsoft Word, heading styling can be found in ‘Styles’ under the ‘Home’ tab.   
 
 The Microsoft Word toolbar, showing the functionality to mark text as Heading 1, Heading 2 and Heading 3 
+
 ![screenshot of the part of the menu where you can create headings](/inclusion/accessibility/files/heading-word.PNG)
 
+[**Back to top**]()
 
 ### Colours and contrast 
 
@@ -76,6 +96,8 @@ Avoid using colour alone to signify meaning.
 Make sure the text colour you’re using has a high contrast with the background of the document. Tools such as ['Accessible colors'](https://accessible-colors.com/) can help you check.  
 
 Read more about using colours and contrast [Link not ready - but will redirect to the Scottish Enterprise Design System Guidance for this]  
+
+[**Back to top**]()
 
 ### Alternative (alt) text 
 
@@ -86,6 +108,7 @@ You don’t need to add alt text to decorative images.
 Read more about writing alt text [Link not ready - but will redirect to the Scottish Enterprise Design System Guidance for this]  
 A [good link to understand more about alt text](https://axesslab.com/alt-texts/) and how to do a good one. And [a longer guidance](https://webaim.org/techniques/alttext/).
  
+[**Back to top**]()
 
 ### Links 
 
@@ -99,48 +122,59 @@ Make sure you add links as a hyperlink to text within your document. This ‘anc
 
 **And instead of**: To find out more, [click here](https://www.scottish-enterprise.com/learning-zone/business-guides).  
 
- 
-## Checking a Word document for accessibility   
+[**Back to top**]()
 
-The Microsoft word toolbar with the Check Accessibility functionality highlighted in red.Microsoft Word has a built-in accessibility checker. Go to the review tab and click **‘Check accessibility’**. This will highlight errors such as missing alt text or low contrast text and help you fix them.   
+### Checking a Word document for accessibility   
+
+The Microsoft word toolbar with the Check Accessibility functionality highlighted in red.Microsoft Word has a built-in accessibility checker. Go to the review tab and click **‘Check accessibility’**. This will highlight errors such as missing alt text or low contrast text and help you fix them. 
+
 ![screenshot of the part of the menu where you can find the check accessiblity menu](/inclusion/accessibility/files/access-check-word.png)
 
 Good article about word document: [An Accessible Word Document Checklist](https://www.abrightclearweb.com/accessible-word-document-checklist/)
  
+[**Back to top**]()
 
-## Checking a PDF for accessibility  
+### Checking a PDF for accessibility  
 
 If you’re using Adobe Reader, go to Edit -> Accessibility -> Quick check. This will flag up any issues. To fix them, you need to edit the original document in Word or Adobe Acrobat Pro.   
 
-> You can also ask the digital team to help.  
+> You can also ask the digital team to help.
 
-   
-## Try it for yourself   
+[**Back to top**]()
 
-To test how your documents would work with a screen reader, you can download one yourself and try it out. We’d recommend [Non-Visual Desktop Access (NVDA)](https://www.nvaccess.org/). 
- 
-
-## Making complex documents accessible  
-
-It’s likely that you’ll sometimes need to create more complex documents than a Word document or PDF. As much as possible, follow the same accessibility guidelines – use simple language, mark headings properly, use good colour contrast and add alt text.  
-
- 
-## Using tables 
+### Using tables 
 
 If you’re using tables, try to keep them simple and avoid merged or split cells.  
- 
 
-## Graphs and charts 
+[**Back to top**]()
+ 
+### Graphs and charts 
 
 If you’re sharing graphs and charts, try to provide a written version of the same information as well. This could be in a table or as written descriptions.  
 [Key Considerations for Flowchart Accessibility](https://mn.gov/mnit/media/blog/?id=38-436349) - Note that this link will ask you to confirm you're not a robot before going to the correct page
+
+[**Back to top**]()
+
+### Making complex documents accessible  
+
+It’s likely that you’ll sometimes need to create more complex documents than a Word document or PDF. As much as possible, follow the same accessibility guidelines – use simple language, mark headings properly, use good colour contrast and add alt text.  
+
+[**Back to top**]()
  
-## Simplifying a complex document  
+### Simplifying a complex document  
 
 We all process and understand information in different ways, and it’s fine to use whatever tools you need to help you work best – for some people this might be visual tools like a flowchart or an online whiteboard tool. However, if you need to share some of this information, consider whether you can simplify it into a more accessible version to share instead of or alongside the visual information.  
 
 A simple flowchart could be written out in steps. An organisation chart can be broken down using bullets and sub bullets. All the notes and comments left in an interactive space could be summarised in a word document or simple table.  
 
+[**Back to top**]()
+   
+## Try a screen reader for yourself   
+
+To test how your documents would work with a screen reader, you can download one yourself and try it out. We’d recommend [Non-Visual Desktop Access (NVDA)](https://www.nvaccess.org/). 
+
+[**Back to top**]()
+ 
 ## Media files
 
 You need to provide an alternative for people who can’t hear or see.
@@ -167,8 +201,9 @@ Ideally, **provide a transcript** of your media, so people can either read it or
 1. a narrator describes all the visual information
 2. add a separate audio track that describes the visual information
 
- 
-## Further Reading: 
+[**Back to top**]()
+
+## Further reading: 
 
 - [An Accessible Word Document Checklist](https://www.abrightclearweb.com/accessible-word-document-checklist/)
 - [How to publish on GOV.UK - Document accessiblity](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/accessible-pdfs)
@@ -176,6 +211,8 @@ Ideally, **provide a transcript** of your media, so people can either read it or
 - [SCULPT - Shaping your documents and content for accessible and inclusive practice](https://www.worcestershire.gov.uk/sculpt) - Great resource from the Worcestershire county council
 - [Presentations - Readability Guidelines](https://readabilityguidelines.co.uk/audiences-devices-channels/presentations/) - by Content Design London
 - [Make your PowerPoint presentations accessible to people with disabilities](https://support.microsoft.com/en-gb/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-us&rs=en-gb&ad=gb) - Microsoft support
+
+[**Back to top**]()
 
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>
