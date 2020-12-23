@@ -47,6 +47,12 @@ Two articles about the concept and one blog post from the Digital Team:
 - [A user manual for me](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694) - Medium article by Cassie Robinson
 - [A user manual for Lindsay](https://design.scotentblog.co.uk/a-user-manual-for-lindsay/) - blog post from Lindsay Branston
 
+
+## Being one of a kind in the workplace
+
+**Video - Purl | Pixar SparkShorts**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B6uuIHpFkuo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Further reading and extra resources
 
 - [Inclusive recruitment is essential](https://inclusivedesignrecruitment.co.uk/) - By Snook
