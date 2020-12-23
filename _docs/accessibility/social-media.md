@@ -20,6 +20,7 @@ To reach your audience, you need to do better to make sure everyone can access y
     <li><a href="#emoji">don't use too many emojis</a></li>
     <li><a href="#hashtags-and-mentions-should-go-at-the-end">hashtags and mentions should go at the end</a></li>
     <li><a href="#avoid-writing-in-capital-letters">avoid writing in capital letters</a></li>
+ </ul>
 </blockquote>
 
 
