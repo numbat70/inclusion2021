@@ -23,27 +23,30 @@ This is a meetup group who has organised excellent online events in 2020. You ca
 
 <iframe title="Accessibility champions from zero to hero" width="560" height="315" src="https://www.youtube.com/embed/kpm_6opUBh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Some advice from this video:
-- Often people don't know what to do or how to do it well  
-- Encourage volunteers, but don't volunteer them  
-- Provide support and train volunteers  
-- Provide guidelines, things to consider, tips, common pitfalls, have a wiki as a source of knowledge  
-- Have a place to share ideas, ask for help (Yammer for example - we do have that)  
-- Newsletter to communicate the rest of the company and get more volunteer potentially  
-- Create a learner (future champion) pathway  
-- Have this in your development objectives  
-- Give talk across the business  
-- Write guidance, case studies  
-- Communicate the successes  
-- Have a percentage of your work time allocated to this  
-- Use your volunteer days to volunteer in associations that support people with disabilities  
+### Some advice from this video:
+
+Quite often people don't know what to do or how to do it well. We could provide guidelines, things to consider, tips, common pitfalls, have a wiki as a source of knowledge. This prototyped website is a potential way to do this.
+We could also have a place to share ideas, and ask for help - Yammer - Slack or MS Teams?
+
+We need volunteers, and encourage them (they should not be 'volunteered'). We need to support them and train them initially.
+
+We could:
+- have a learner (future champion) pathway  
+- make this part of our development objectives  
+- have a percentage of your work time allocated to this
+- use our volunteer days in associations that support people with disabilities  
+
+**Raise awareness and keep the focus**
+- give talk across the business  
+- write guidance, case studies  
+- communicate the successes  
 
 ### Nothing about us without us
 Challenging companies and assistive technologies to do better
 
 <iframe title="Nothing about us without us" width="560" height="315" src="https://www.youtube.com/embed/eYKe6si3Q9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<blockquote class="red"><p>work in progress - more coming soon</p></blockquote>
+[notes from the video to add here]
 
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>
