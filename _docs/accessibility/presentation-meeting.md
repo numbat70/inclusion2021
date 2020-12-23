@@ -7,19 +7,13 @@ order: 6
 
 It’s important to make sure your presentations, meetings, webinars and events are accessible, especially as more and more of these take place in a virtual environment. This is important both for internal meetings and presentations, as well as webinars, workshops and events with customers. 
 
-> Remember that some of your audience: 
+> Remember that some of your audience may : 
 > 
-> - May not be able to see all or parts of the presentation  
-> - Might struggle to understand parts of the presentation 
-> - May not be able to hear the speakers  
-> - May speak English as a second language 
-> - May be using assistive technology 
-
-<blockquote class="info">
-<p><strong>Ask your participants what they need</strong></p>
-<p> When organising an event, presentation, webinar or meeting, it’s good practise to offer your participants an opportunity to let you know how you can make the session more accessible to them.</p>
- <p>You could provide contact details to get in touch with you, or build it into the booking process – similar to how many booking services let participants add dietary requirements. You could also allow users to respond anonymously to an online survey.</p>
-</blockquote>
+> - not see all or parts of the presentation  
+> - struggle to understand parts of the presentation 
+> - not hear the speakers  
+> - speak English as a second language 
+> - use assistive technology 
 
 
 ## Before the event
@@ -32,7 +26,11 @@ It’s important to make sure your presentations, meetings, webinars and events 
 
 [More advice on this page when this is a physical event](#making-physical-evetns-accessible) (not online)
 
-> **Always ask your participants what they need**. You can't plan for anything. Give them the opportunity to tell you. 
+<blockquote class="info">
+<p><strong>Always ask your participants what they need</strong>. You can't plan for everything. Give them the opportunity to tell you.</p>
+<p> When organising an event, presentation, webinar or meeting, it’s good practice to offer your participants an opportunity to let you know how you can make the session more accessible to them.</p>
+<p>You could provide contact details to get in touch with you, or build it into the booking process (similar to how many booking services let participants add dietary requirements). You could also allow users to respond anonymously to an online survey.</p>
+</blockquote>
 
 ### Share materials ahead of the session 
 
