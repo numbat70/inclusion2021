@@ -4,12 +4,10 @@ category: Accessibility
 order: 3
 ---
 
-<blockquote class="red">
-  <p>Work in progress</p>
-</blockquote>
 
 ## General guidance 
 
+<blockquote class="info">
 It’s usually best to just ask the person you’re speaking to how they’d prefer you to refer to their disability or accessibility needs. But it's not always possible when addressing a wider audience.
 
 Here are some general best practise guidelines: 
@@ -18,7 +16,7 @@ Here are some general best practise guidelines:
 - Avoid using negative terms like ‘suffers from’ or ‘confined to’ (in relation to a wheelchair) 
 - When talking about people without disabilities, don’t use terms like ‘normal’ or ‘healthy’. Just say ‘people without disabilities’ 
 - **Consider if you need to refer to a disability at all**. For example, when pointing users to a video transcript, you can just say ‘If you prefer, you can read a transcript of this video here’ rather than ‘If you’re deaf or hard of hearing, you can read a transcript of this video here’.  
-
+ </blockquote>
  
 ## People first or identity first? 
 
@@ -71,7 +69,7 @@ Sight conditions can vary greatly, from blindness or partial sight, to colour bl
 - Blind people  
 - People with partial sight  
 - People with low vision  
- -People with colour blindness 
+- People with colour blindness 
 - People with visual impairments  
 
 **Do not use terms like ‘the blind’ or ‘the visually impaired’.**
