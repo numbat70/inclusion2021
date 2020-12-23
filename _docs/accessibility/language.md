@@ -24,8 +24,10 @@ Here are some general best practise guidelines:
 
 **Identity-first language** means putting how the person identifies first – for example ‘disabled people’ ‘an autistic person’ or ‘a blind person’. 
 
+<blockquote class="info">
 The preferred option in the UK seems to be identity first language. Many people in disabled communities feel this helps them ‘own’ their disabilities, to reduce stigma and promote pride. Of course, everyone has their own preferences, and some people do prefer person-first language. 
-
+</blockquote>
+ 
 When writing or speaking for Scottish Enterprise or our partners, we recommend using identity first language where possible. There are some exceptions, which we’ll explore on this page.  
 
 > **From [Mik Scarlet](https://twitter.com/MikScarlet/status/1319557794643718146):**
