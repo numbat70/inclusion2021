@@ -11,6 +11,17 @@ order: 4
 
 To reach your audience, you need to do better to make sure everyone can access your posts on social media. 
 
+<blockquote class="info">
+  <p>Main recommendations:</p>
+  <ul>
+    <li><a href="#alt-text">use alt text</a></li>
+    <li><a href="#capitalise-hashtags">capitalise hashtags</a></li>
+    <li><a href="#caption-videos-and-multimedia">caption videos and multimedia</a></li>
+    <li><a href="#emoji">don't use too many emojis</a></li>
+    <li><a href="#hashtags-and-mentions-should-go-at-the-end">hashtags and mentions should go at the end</a></li>
+    <li><a href="#avoid-writing-in-capital-letters">avoid writing in capital letters</a></li>
+</blockquote>
+
 
 ## Alt text
 All pictures (including diagrams) should have an Alt text (alternative text) which will be read by a screen reader for users who can’t see them.
@@ -26,7 +37,7 @@ How to do it if you are [using HootSuite](https://help.hootsuite.com/hc/en-us/ar
 
 A good link to [understand more about alt text](https://axesslab.com/alt-texts/) and how to do a good one. And a [longer guidance here](https://webaim.org/techniques/alttext/).
 
-## Capitalise Hashtags
+## Capitalise hashtags
 Capitalising the first letter of each words on hashtags improves readability for people using screen readers.
 For example: **#ThisIsHowtoFormatAnAccessibleHashtag**
 
@@ -48,7 +59,7 @@ We should try not to use them too much. They are read aloud by screen readers. F
 ## Hashtags and mentions should go at the end
 The symbols # and @ are said aloud by screen readers, and makes it harder to understand the sentence they are part of. Adding them after the text, will make it clearer.
 
-## Avoid Caps letters
+## Avoid writing in capital letters
 It’s harder for everyone to read. The ‘shape’ of a word help readers to identify it. The shape is lost with capitals. It can be misinterpreted by screen readers as well and might be read letter by letter.
 
 ## More general advice
