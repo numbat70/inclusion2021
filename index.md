@@ -51,6 +51,7 @@ Two articles about the concept and one blog post from the Digital Team:
 
 - [Inclusive recruitment is essential](https://inclusivedesignrecruitment.co.uk/) - By Snook
 - [Inclusive recruitment for digital roles – a different way of thinking](https://blogs.gov.scot/digital/2020/08/24/inclusive-recruitment-for-digital-roles-a-different-way-of-thinking/) - Blog post by the Scottish Government
+- [Inclusive language - Writing for and about people in a way that is inclusive and respectful.](https://service-manual.nhs.uk/content/inclusive-language) - By the NHS
 
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>
