@@ -4,6 +4,30 @@ category: Accessibility
 order: 6
 ---
 
+## Quick access
+
+- [Before the event](#before-the-event)
+ - [Share materials ahead of the session](#share-materials-ahead-of-the-session)
+- [During the event](#during-the-event)
+ - [Record the session](#record-the-session)
+ - [Add captions and transcript](#add-captions-and-transcripts)
+ - [Learn how to use your tools well](#learn-how-to-use-your-tools-well)
+- [The presentation](#the-presentation)
+ - [Use large font sizes](#use-large-font-sizes)
+ - [Reduce the amount of text](#reduce-the-amount-of-text)
+ - [Colours and contrasts](#colours-and-contrasts)
+ - [During the presentation](#during-the-presentation)
+  - [Describe visual content](#describe-visual-content)
+  - [Use good lightning](#use-good-lightning)
+  - [Speak slowly and clearly](#speak-slowly-and-clearly)
+  - [Plan breaks](#plan-breaks)
+  - [Managing questions and participation](#managing-questions-and-participation)
+- [Making physical events accessible](#making-physical-events-accessible)
+ - [Physical access](#physical-access)
+ - [Communicate accessibility to your audience](#communicate-accessibility-to-your-audience)
+ - [Recording, captions and translators](#recording-captions-and-translators)
+- [After the event](#after-the-event)
+- [Further reading](#further-reading)
 
 It’s important to make sure your presentations, meetings, webinars and events are accessible, especially as more and more of these take place in a virtual environment. This is important both for internal meetings and presentations, as well as webinars, workshops and events with customers. 
 
