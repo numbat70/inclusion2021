@@ -10,7 +10,7 @@ order: 6
   - [Share materials ahead of the session](#share-materials-ahead-of-the-session)
 - [During the event](#during-the-event)
   - [Record the session](#record-the-session)
- - [Add captions and transcript](#add-captions-and-transcripts)
+  - [Add captions and transcript](#add-captions-and-transcripts)
   - [Learn how to use your tools well](#learn-how-to-use-your-tools-well)
 - [The presentation](#the-presentation)
   - [Use large font sizes](#use-large-font-sizes)
