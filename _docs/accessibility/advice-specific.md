@@ -149,6 +149,16 @@ How a screen reader user surf the web - Leonie Watson is an accessiblity special
 
 <blockquote class="red"><p>work in progress</p></blockquote>
 
+### Advice about how to talk with someone, when there is also a BSL interpreter
+(from [this twitter thread](https://twitter.com/bjfletcher/status/1235947631932817408))
+ <p>
+ <video width="560" height="315" controls>
+ <source src="/images/a11y/advice-BSL.mp4"  type="video/mp4">
+ </video>
+</p>
+
+**Did you know:** American Sign Language is closer to the French Sign Language then the British one, because it was introduced there by French people!    
+
 ## Motricity impairments
 
 [**Back to top**]()
