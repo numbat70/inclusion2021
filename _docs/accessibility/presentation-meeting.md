@@ -16,10 +16,10 @@ It’s important to make sure your presentations, meetings, webinars and events 
 > - May be using assistive technology 
 
 <blockquote class="info">
-<p><strong>Ask your participants what they need </strong></p>
+<p><strong>Ask your participants what they need</strong></p>
 <p> When organising an event, presentation, webinar or meeting, it’s good practise to offer your participants an opportunity to let you know how you can make the session more accessible to them.</p>
  <p>You could provide contact details to get in touch with you, or build it into the booking process – similar to how many booking services let participants add dietary requirements. You could also allow users to respond anonymously to an online survey.</p>
-</blockquotes>
+</blockquote>
 
 
 ## Before the event
