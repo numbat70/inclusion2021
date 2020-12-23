@@ -16,6 +16,9 @@ $brand-colour-light: mix($brand-colour, $content-background-color, 10%);
 $warning-colour: #C30000; // red - these two lines have been added to the code
 $warning-colour-light: mix($warning-colour, $content-background-color, 10%);
 
+$info-colour: ##00427f; // blue - these two lines have been added to the code
+$info-colour-light: mix($warning-colour, $content-background-color, 10%);
+
 $nav-header-background-color: $brand-colour;
 $nav-header-height: 60px;
 $nav-background-color: #f5f5f5;
