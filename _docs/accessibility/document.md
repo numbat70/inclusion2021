@@ -4,25 +4,6 @@ category: Accessibility
 order: 5
 ---
 
-
-<blockquote class="info">
-  <p>Main recommendations: </p>
-  <ul>
-    <li>avoid using PDF when sharing a text document</li>
-    <li>use simple language and avoid jargon</li>
-    <li>explain acronyms the first time you use them</li>
-    <li>avoid writing in block capitals</li>
-    <li>align your text on the left</li>
-    <li>people might not see colours, make sure your document still make sense without them</li>
-    <li>the colour of your text should be contrasted enough against the background colour</li>
-    <li>structure the document logically and use properly marked headings</li>
-    <li>add alt text to your pictures and diagrams</li>
-    <li>make sure your video are captioned correctly</li>
-    <li>provide a transcript for your media files where possible</li>
-    <li>use automatic checkers from Word and Adobe</li>
-  </ul>
-</blockquote>
-
 ## Quick access
 - [PDF are not recommended](#pdf-are-not-recommended)
 - [Tips to make your documents accessible](#tips-to-make-your-documents-accessible)
@@ -40,6 +21,28 @@ order: 5
 - [Try a screen reader for yourself](#try-a-screen-reader-for-yourself) 
 - [Media files](#media-files)
 - [Further reading](#further-reading)
+
+
+## Summary of the main recommendations:
+
+<blockquote class="info">
+  <ul>
+    <li>avoid using PDF when sharing a text document</li>
+    <li>use simple language and avoid jargon</li>
+    <li>explain acronyms the first time you use them</li>
+    <li>avoid writing in block capitals</li>
+    <li>align your text on the left</li>
+    <li>people might not see colours, make sure your document still make sense without them</li>
+    <li>the colour of your text should be contrasted enough against the background colour</li>
+    <li>structure the document logically and use properly marked headings</li>
+    <li>add alt text to your pictures and diagrams</li>
+    <li>make sure your video is captioned correctly</li>
+    <li>provide a transcript for your media files where possible</li>
+    <li>use automatic checkers from Word and Adobe</li>
+  </ul>
+</blockquote>
+
+
 
 ## PDF are not recommended
 
@@ -64,6 +67,8 @@ However, there may be situations where we can’t avoid publishing a document on
 > - Be using a screen reader   
 > - Have low literacy or speak English as a second language 
 > - Find it difficult to read or understand large amounts of text  
+
+[**Back to top**]()
 
 ## Tips to make your documents accessible  
 
