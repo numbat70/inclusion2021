@@ -95,6 +95,7 @@ header {
 
 	h1 {
 		padding: $emblem-vertical-padding $emblem-horizontal-padding;
+		padding-right: 45px; // added so the heading wrap before the menu icon which is 24px width so default 20px + 24px + 1px
 		height: $nav-header-height;
 		box-sizing: border-box;
 		background-color: $brand-colour;
@@ -166,7 +167,7 @@ $nav-image: $baseurl + "/images/menu.svg";
 		content: "";
 		@extend hr;
 		margin: 60px 0;
-	}
+	} // code below added for h2 to align with h3
 	h2::before {
 		content: "";
 		@extend hr;
