@@ -4,8 +4,6 @@ category: Accessibility
 order: 9
 ---
 
-<blockquote class="red"><p>work in progress</p></blockquote>
-
 ## Joining the Accessibility Champions Network initiated by the BBC
 
 The network is about peer support first. It will meet regularly, via a platform where everyone gets to network and chat in smaller groups.
