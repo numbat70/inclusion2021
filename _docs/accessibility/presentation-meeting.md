@@ -24,7 +24,7 @@ It’s important to make sure your presentations, meetings, webinars and events 
 - Make sure the language used in the invitation is inclusive and make people feel safe to share anything thye might request from you
 - If online and using some specific tools, provide some guidance or tutorials for people who might not be familiar with them
 
-[More advice on this page when this is a physical event](#making-physical-evetns-accessible) (not online)
+[More advice on this page when this is a physical event](#making-physical-events-accessible) (not online)
 
 <blockquote class="info">
 <p><strong>Always ask your participants what they need</strong>. You can't plan for everything. Give them the opportunity to tell you.</p>
