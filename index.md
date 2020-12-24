@@ -50,6 +50,11 @@ Two articles about the concept and one blog post from the Digital Team:
 
 ## Being one of a kind in the workplace
 
+<iframe src="https://player.vimeo.com/video/431281808?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/431281808">Clearleft Curates: Farai Madzima, Cultural bias in design(ers)</a> from <a href="https://vimeo.com/clearleft">Clearleft</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+[need to add notes from this talk: From 15min really good examples of how cultural difference can impact communication in the workplace]
+
 **Video - Purl | Pixar SparkShorts**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B6uuIHpFkuo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
