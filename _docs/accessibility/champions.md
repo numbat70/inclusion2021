@@ -1,5 +1,5 @@
 ---
-title: Accessiblity champions
+title: Accessibility champions
 category: Accessibility
 order: 9
 ---
