@@ -19,6 +19,7 @@ This group has a focus on creating an organisation which is inclusive of race, e
 - [Not-racist v anti-racist: what’s the difference?](https://www.bbc.co.uk/bitesize/articles/zs9n2v4)
 - [Black and Scottish - by Stewart Kyasimire](https://www.bbc.co.uk/programmes/m00098n0) - BBC Scotland
 - [Black History Month - SE October 2020 Calendar](BHM-UK-October-Calendar.pdf) - PDF
+- [Human Library - Unjudge someone](https://humanlibrary.org/)
 
 [More to come]
 
