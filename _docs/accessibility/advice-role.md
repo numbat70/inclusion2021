@@ -27,7 +27,7 @@ Don't just turn A4 document up onto A3 paper, when asked for accessible large pr
 > A true large print document is freshly printed, in the font size and in the colour combination (print/paper colour) of the requester's choice, and is formatted correctly to look like the standard print document.
 
 ### Some resources:
--[A Brief Guide to Easy Read: Top Tips](http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.2F5teQP6.dpbs) - From the Scottish Accessible Information Forum
+- [A Brief Guide to Easy Read: Top Tips](http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.2F5teQP6.dpbs) - From the Scottish Accessible Information Forum
 - [A blog post about how to create an Easy read format](https://accessibility.blog.gov.uk/2019/10/11/how-dwp-used-the-easy-read-format-to-make-its-content-more-accessible/) - GOV.UK blog post from the DWP 
 - [DWP guidance for Content designers](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer)
 
@@ -79,7 +79,7 @@ For more information, you can check the [DWP guidance for QA testers](https://ac
 
 [**Back to top**]()
 
-<blockquote class="red"><p>work in progress - will give some general advice - more specific advice for a QA testers will be provided elsewhere </p></blockquote>
+<blockquote class="red"><p>More specific advice for a QA testers will be provided elsewhere </p></blockquote>
 
 
 {% include feedback.html %}
