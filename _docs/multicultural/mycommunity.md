@@ -12,13 +12,12 @@ This group has a focus on creating an organisation which is inclusive of race, e
   <p>Work in progress</p>
 </blockquote>
 
-## Black Lives Matters
 
-### Some resources
+## Some resources
 - [Black Lives in Scotland (and beyond)](https://padlet.com/service_design_in_scotland/aophk3z6qvla7xq8) - Padlet board grouping lots of resources
 - [Not-racist v anti-racist: what’s the difference?](https://www.bbc.co.uk/bitesize/articles/zs9n2v4)
 - [Black and Scottish - by Stewart Kyasimire](https://www.bbc.co.uk/programmes/m00098n0) - BBC Scotland
-- [Black History Month - SE October 2020 Calendar](BHM-UK-October-Calendar.pdf) - PDF
+- [Black History Month - SE October 2020 Calendar](/inclusion/multicultural/BHM-UK-October-Calendar.pdf) - PDF
 - [Human Library - Unjudge someone](https://humanlibrary.org/)
 
 [More to come]
