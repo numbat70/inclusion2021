@@ -13,6 +13,7 @@ This group has the goal to support colleagues across the broad spectrum of diver
 </blockquote>
 
 ## Some resources
+- [Workplace equality index explainer](Workplace-Equality-Index-2022-awards-explainer.pdf) - PDF by Stonewall
 - [Queer families - Hints and tips for services working with LGBTQ families](https://otbds.org/wp-content/uploads/2020/10/Advice-for-Services-working-with-LGBTQ-Families.pdf) - PDF - by Outside the box
 - [Including non-binary people: guidance for service providers and employers](https://www.scottishtrans.org/wp-content/uploads/2016/11/Non-binary-guidance.pdf) - PDF by Scottish Trans
 - [Vaneet speaks about #BisexualMenExist and why bi visibility is so important](https://www.stonewall.org.uk/about-us/news/vaneet-speaks-about-bisexualmenexist-and-why-bi-visibility-so-important) - By Stonewall
