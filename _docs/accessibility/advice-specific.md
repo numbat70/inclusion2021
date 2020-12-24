@@ -19,6 +19,7 @@ Quick access:
 - [Motricity impairments](#motricity-impairments)
 - [Cognitive impairments](#cognitive-impairments)
 - [Invisible disabilities](#invisible-disabilities)
+    -[The spoon theory](#the-spoon-theory)
 
 These [posters from the Home Office Digital](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) are a great resource. They are available in many languages.
 
@@ -196,6 +197,9 @@ There are varying degrees of blindness and the legal definition can vary from co
 **Kristy Viers is blind**. She has a great [Youtube channel](https://www.youtube.com/c/KristyViers/videos) where you can see her using tech. Below is one where is is using **VoiceOver and a Braille screen input**
 <iframe title="Kristy Viers, using VoiceOver and a Braille screen input on her iPad" width="560" height="315" src="https://www.youtube.com/embed/wueLXCbm_KY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[**Back to top**]()
+
+
 ### Partially sighted
 
 This covers a wide range of sight issues, from extreme long or short sightedness, to partial blindness, clouded vision or a small field of vision.  
@@ -211,7 +215,9 @@ This covers a wide range of sight issues, from extreme long or short sightedness
 
 [View the GOV UK poster on designing for users with low vision](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/visually-impaired-low-vision.png) 
 
-### Colour blindless
+[**Back to top**]()
+
+### Colour blindness
 
 Some people with colour blindness won’t find any effect on their ability to use websites. It's sometimes called being "colour blind", although total colour blindness (an inability to see any colour) is very rare. Some may struggle to read text or see images if contrast is not high enough. And some may use additional software like Color Enhancer to change the colours on a site.  
 
@@ -313,15 +319,15 @@ These can come from a wide range of conditions like Fibromyalgia, Crohn’s dise
 
 People with invisible disabilities regularly face problems in public places and at work because others don't realise there are some things they can't do.
 
-#### The spoon theory
+### The spoon theory
 When you live with a chronic disease, your energy is limited. You will have bad days and good days. You need to pace yourself and plan ahead what you will be able to do that day. The [Spoon Theory](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/) was created by Christine Miserandino to explain to a friend how it felt to live with Lupus, making one spoon an energy unit: If you are healthy, you start your day with an unlimited number of spoons, but if you're not, you might start your day with 15 spoons on a 'good day'. Every thing you do will take away some spoons, and when they are gone, you can't do anyhting until the next day. 
 
 This video explains this quite well.
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/VFY81e396ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-**The take away**: don't assume someone can do something because they have done it the day before, they might be low on spoons...
+<blockquote class="info"><p><strong>The take away</strong>: don't assume someone can do something because they have done it the day before, they might be low on spoons...</p> </blockquote>
 
-#### Public places: Priority seats in transports, accessible toilets and disabled parking spaces
+### Public places: Priority seats in transports, accessible toilets and disabled parking spaces
 
 It’s easy to find articles about people with invisible disabilities being treated badly by the public assuming they are abusing the system.
 > _“I have been verbally abused on public transport because I have a white cane & use my phone. I have residual vision like 94% of registered blind people. I use accessible tech to magnify the screen.#BlindPeopleUsePhone”_ — [Dr Amy Kavanagh](https://twitter.com/BlondeHistorian/status/1189790200404348928)
@@ -330,15 +336,15 @@ It’s easy to find articles about people with invisible disabilities being trea
 
 [‘Being fat and ugly doesn’t count as disabled’ note left on a car: Why we need to raise awareness of invisible disabilities](https://metro.co.uk/2015/05/06/being-fat-and-ugly-isnt-a-disability-note-why-we-need-to-raise-awareness-of-invisible-disabilities-5182482/)
 
-#### Some initiatives are trying to help
+### Some initiatives are trying to help
 
-##### Blue badge
+#### Blue badge
 The [Blue Badge scheme has been extended](https://www.gov.uk/government/news/people-with-hidden-disabilities-to-benefit-from-blue-badges) to hidden disabilities, including autism and mental health conditions.
 
-##### In the transports
+#### In the transports
 For example, [Transport for London](https://tfl.gov.uk/transport-accessibility/please-offer-me-a-seat) created a badge and a card stating “Please offer me a seat”. You don’t have to prove you need it. It can empower some people to ask for a seat and if you’re lucky, someone might notice it and you might not even have to ask. But a lot of people using it seem to still feel judged or get weird looks.
 
-> _“I’ve only used it a few times, when I have, I can just feel people staring at me, I’ve never used it when the trains have been particularly busy so couldn’t say whether it actually works or not, but I’ve never felt more judged.”_ — Caitlin
+> “I’ve only used it a few times, when I have, I can just feel people staring at me, I’ve never used it when the trains have been particularly busy so couldn’t say whether it actually works or not, but I’ve never felt more judged.” — Caitlin
 
 ![A badge and a card from Transport London stating: "please offer me a seat"](/images/a11y/Please-Offer-Me-A-Seat.png)
 From the website "[you look ok to me"](https://www.youlookokaytome.com/)
@@ -355,7 +361,7 @@ Or [the initiative from the Heathrow airport](https://www.heathrow.com/at-the-ai
 
 [From Molly Watt's tweet](https://twitter.com/MollyWattTalks/status/1184080487406538755)
 
-##### Toilets access
+#### Toilets access
 [Crohn’s & Colitis UK](https://www.crohnsandcolitis.org.uk/news/not-every-disability-is-visible-campaign-targets-restaurants-and-pubs) has launched [Not Every Disability is Visible](https://www.noteverydisabilityisvisible.org.uk/about-the-campaign) inspired by campaigner Grace Warnock. They ask UK’s major supermarkets, restaurants, pubs and travel hubs to change their accessible toilet signs to highlight that Not Every Disability is Visible.
 
 ![Various toilets signs with the usual symbol for access plus man and woman symbols plus text: Not every disability is visible](/images/a11y/toilets-collage.jpg)
@@ -364,20 +370,22 @@ Photo from [their website](https://www.noteverydisabilityisvisible.org.uk/take-a
 
 You can get involved, [they provide material on their website](https://www.noteverydisabilityisvisible.org.uk/take-action)
 
-#### At work
+### At work
 
 > “I’d rather be thought rude than detail to a colleague why I’m not folding chairs and stacking them against the wall at the end of the meeting.” — [Hope R. Henderson](https://themighty.com/2017/12/coming-out-as-a-person-with-an-invisible-disability/)
 
-**We should always be mindful that we’re all different and offer an alternative or a way out.**
+<blockquote class="info">
+  <p>We should always be mindful that we’re all different and offer an alternative or a way out.</p>
+  <br>
+  <p><strong>Don’t assume. Keep an open mind.</strong></p>
+</blockquote>
 
-**Don’t assume. Keep an open mind.**
-
-#### Why people often do not want to disclose they have an invisible disability?
+### Why people often do not want to disclose they have an invisible disability?
 > “Knowing someone has a disability more often than not changes the way you perceive them. Whether the reaction is discriminatory or empathetic, this unwanted attention can make life feel suffocating. In being open about our disability, we unfortunately have to accept the reality that people will treat us differently.” — [Isabelle Jani-Friend](https://www.theguardian.com/commentisfree/2019/aug/09/disabilities-invisible-prove-stangers-disabled-services-illnesses)
 
 > “Most days, most places, I don’t want to tell. I don’t want to tell the driver or the scowling elderly passengers why I need a seat on the bus. I don’t want to explain that I’m not there to teach the yoga for disabilities class.” From [Coming Out as a Person With an Invisible Disability – by Hope R. Henderson](https://themighty.com/2017/12/coming-out-as-a-person-with-an-invisible-disability/)
 
-#### More on the subject
+### More on the subject
 [Work and disability](https://www.nhs.uk/conditions/social-care-and-support-guide/money-work-and-benefits/work-and-disability/) – NHS
 
 [How do you define invisible disability?](https://invisibledisabilities.org/what-is-an-invisible-disability/) invisible disability definition – Invisibiledisabilities.org
