@@ -3,7 +3,7 @@ title: Welcome
 ---
 
 We are trying to do better about **Inclusion and Diversity** in Scottish Enterprise.
-We are gathering guidelines and resources in one place to help you learn and improve.
+We are gathering guidelines and resources in one place.
 
 <blockquote class="red">
   <p><strong>This website is only a prototype and a work in progress.</strong></p>
