@@ -18,7 +18,7 @@ Depending on your role, there are some specific things you need to make sure you
 
 <blockquote class="red"><p>We will have a section about this in the SE Design System showcase website, but it's not ready yet</p></blockquote>
 
-Have a look at the [Creating document](/inclusion/accessibility/document.md) section.
+Have a look at the [Creating document](/inclusion/accessibility/document) section.
 
 **When asked for large print**:
 
@@ -56,7 +56,7 @@ This poster is a [resource from the Home Office Digital](https://github.com/UKHo
 
 ## Organising an event
 
-> Check the section [Presentations, meetings, events](/inclusion/accessibility/presentation-meeting.md)
+> Check the section [Presentations, meetings, events](/inclusion/accessibility/presentation-meeting)
 
 [**Back to top**]()
 
