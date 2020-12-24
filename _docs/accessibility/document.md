@@ -112,6 +112,7 @@ You don’t need to add alt text to decorative images.
 
 Read more about writing alt text [Link not ready - but will redirect to the Scottish Enterprise Design System Guidance for this]  
 A [good link to understand more about alt text](https://axesslab.com/alt-texts/) and how to do a good one. And [a longer guidance](https://webaim.org/techniques/alttext/).
+A [blog post when you are unsure between a caption and an alt text](https://thoughtbot.com/blog/alt-vs-figcaption)
  
 [**Back to top**]()
 
