@@ -18,6 +18,7 @@ Quick access:
 - [Deaf and hearing impairments](#deaf-and-hearing-impairments)
 - [Motricity impairments](#motricity-impairments)
 - [Cognitive impairments](#cognitive-impairments)
+- [Speach impairments](#speach-impairments)
 - [Invisible disabilities](#invisible-disabilities)
     -[The spoon theory](#the-spoon-theory)
 
@@ -213,6 +214,9 @@ This covers a wide range of sight issues, from extreme long or short sightedness
 > - Use good colour contrasts  
 > - Use a readable font size 
 
+**RNIB averts on Channel 4 to promote National Eye Health Week**
+<iframe width="560" weight="315" src="https://www.youtube.com/embed/64qpW4rbCQw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [View the GOV UK poster on designing for users with low vision](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/visually-impaired-low-vision.png) 
 
 [**Back to top**]()
@@ -295,8 +299,19 @@ Dyslexia, autism, anxiety, dementia, Alzheimer, dyscalculia and dyspraxia for ex
 
 This can affect the way you process information, your memory, your comprehension, your attention and the way you make decisions.
 
+More on this: 
+- [An Introductory Guide to Understanding Cognitive Disabilities](https://www.deque.com/blog/an-introductory-guide-to-understanding-cognitive-disabilities/) - by Deque
+- [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://developer.paciellogroup.com/blog/2018/08/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/) - by the Paciello group
+- [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://developer.paciellogroup.com/blog/2018/11/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/) - by the Paciello group
 
 [**Back to top**]()
+
+## Speach impairments
+
+[How to speak when you don't have a voice](https://www.bbc.co.uk/ideas/videos/how-to-speak-when-you-dont-have-a-voice/p07693kc) - Video from the BBC. Some disabled people have no voice or are hard to understand. That doesn't mean they have nothing to say, explains filmmaker Jemima Hughes.
+
+[**Back to top**]()
+
 
 ## Invisible disabilities
 
