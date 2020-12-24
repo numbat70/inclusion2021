@@ -14,6 +14,7 @@ To reach your audience, you need to do better to make sure everyone can access y
 <blockquote class="info">
   <p>Main recommendations:</p>
   <ul>
+    <li><a href="#write-clearly-and-use-plain-english">be clear</a></li>
     <li><a href="#alt-text">use alt text</a></li>
     <li><a href="#capitalise-hashtags">capitalise hashtags</a></li>
     <li><a href="#caption-videos-and-multimedia">caption videos and multimedia</a></li>
@@ -23,16 +24,21 @@ To reach your audience, you need to do better to make sure everyone can access y
  </ul>
 </blockquote>
 
+## Write clearly and use plain English 
+
+Use plain English like you would with any other content for our services. Avoid jargon and use clear, simple language.  
+
+If you’re creating a longer post on platforms like Facebook or LinkedIn, you should use line breaks to break up your text.  
 
 ## Alt text
-All pictures (including diagrams) should have an Alt text (alternative text) which will be read by a screen reader for users who can’t see them.
+All pictures (including diagrams) should have an Alt text (alternative text)  so users with screen readers know what the image is and get the same level of information as users who can see the image. 
 
 Here how to do this on:
 - [Twitter](https://help.twitter.com/en/using-twitter/picture-descriptions)
 - [LinkedIn](https://www.linkedin.com/help/linkedin/answer/109799)
 - [Facebook](https://www.facebook.com/help/214124458607871)
 
-When **adding a GIF**, describe it [in square brackets]
+Not all platforms let you add alt text to a gif. If you can’t add proper alt text, just describe it within your post in [square brackets]
 
 How to do it if you are [using HootSuite](https://help.hootsuite.com/hc/en-us/articles/204586000-Attach-images-to-messages#3)
 
@@ -55,13 +61,15 @@ For example: **#ThisIsHowtoFormatAnAccessibleHashtag**
 More [advice from the Paciello group here](https://developer.paciellogroup.com/blog/2019/07/captions-and-transcripts-and-audio-descriptions-oh-my/).
 
 ## Emoji
-We should try not to use them too much. They are read aloud by screen readers. For example: 😃 would become: “smiley face emoji”.
+You can use emojis, but be aware that screen readers will describe them out loud. For example: 😃 would become “smiley face emoji”. This means if you use an emoji in the middle of a sentence, it might make it more difficult for someone using a screen reader to follow the sentence.  
+
+Emojis should only be used in addition to written text – never replace a word in a sentence with an emoji.  
 
 ## Hashtags and mentions should go at the end
 The symbols # and @ are said aloud by screen readers, and makes it harder to understand the sentence they are part of. Adding them after the text, will make it clearer.
 
 ## Avoid writing in capital letters
-It’s harder for everyone to read. The ‘shape’ of a word help readers to identify it. The shape is lost with capitals. It can be misinterpreted by screen readers as well and might be read letter by letter.
+Some people rely on the ‘shape’ of a word to read more efficiently. Using all caps means words lose this shape, and in some cases may cause a screen reader to read the word letter by letter.  
 
 ## More general advice
 [Planning, creating and publishing accessible social media campaigns](https://gcs.civilservice.gov.uk/guidance/digital-communication/planning-creating-and-publishing-accessible-social-media-campaigns/) - By the Government Communication Service
