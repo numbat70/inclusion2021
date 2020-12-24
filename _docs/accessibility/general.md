@@ -4,16 +4,12 @@ category: Accessibility
 order: 1
 ---
 
-<blockquote class="red">
-  <p>Work in progress</p>
-</blockquote>
-
-
 In the UK, **1 in 5 people are disabled** – this could be visual, hearing, speaking, motor or cognitive (affecting memory and thinking). But the concept of accessibility doesn’t just apply to disabled people – all users will have different needs at different times and in different circumstances.
 
 For example: location (noise, slow wifi) health (tired, recovering) equipment (mobile or older browser).
 
 ![showing illustrations of permanent, temporary and situational disability for 4 abilities (Touch, See, Hear and Speak)](/images/a11y/inclusive-toolkit-microsoft.png)
+
 ([Source of this diagram: Microsoft Inclusive Design toolkit](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf))
 
 > "My needs are different from yours and my needs today might be different tomorrow" - Charles Hall
