@@ -217,6 +217,7 @@ This covers a wide range of sight issues, from extreme long or short sightedness
 **RNIB averts on Channel 4 to promote National Eye Health Week**
 <iframe width="560" weight="315" src="https://www.youtube.com/embed/64qpW4rbCQw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 [View the GOV UK poster on designing for users with low vision](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/visually-impaired-low-vision.png) 
 
 [**Back to top**]()
@@ -259,6 +260,13 @@ Just like blindness, deafness comes in varying degrees, and people who are legal
 </p>
 
 **Did you know:** American Sign Language is closer to the French Sign Language then the British one, because it was introduced there by French people! 
+
+### More resources:
+- [Congratulations, you’ve hired that Deaf job candidate, now what?](https://medium.com/@bgramer/congratulations-youve-hired-that-deaf-job-candidate-now-what-c505946a0458) - Medium article
+- [Understanding Assistive Technology: How Does a Deaf or Hard of Hearing Person Use Technology?](https://www.levelaccess.com/understanding-assistive-technology-how-does-a-deaf-or-hard-of-hearing-person-use-technology/) - by Level acess
+- [I’m deaf, and this is what happens when I get on a Zoom call](https://www.fastcompany.com/90565930/im-deaf-and-this-is-what-happens-when-i-get-on-a-zoom-call) - Fast Company article
+- [Learning about designing services for deaf / Deaf people](https://medium.com/@vickytnz/learning-about-designing-services-for-deaf-deaf-people-18cc6a7a6f91) - Medium article by Vicky Teinaki
+- [You Talk Real Good](https://longreads.com/2019/10/21/you-talk-real-good/amp/) - Essay by Alison Stine about being Deaf
 
 [**Back to top**]()
 
