@@ -20,7 +20,7 @@ Quick access:
 - [Cognitive impairments](#cognitive-impairments)
 - [Speach impairments](#speach-impairments)
 - [Invisible disabilities](#invisible-disabilities)
-    -[The spoon theory](#the-spoon-theory)
+    - [The spoon theory](#the-spoon-theory)
 
 These [posters from the Home Office Digital](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) are a great resource. They are available in many languages.
 
