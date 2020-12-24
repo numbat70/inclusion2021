@@ -13,9 +13,15 @@ In the UK, **1 in 5 people are disabled** – this could be visual, hearing, spe
 
 For example: location (noise, slow wifi) health (tired, recovering) equipment (mobile or older browser).
 
+![showing illustrations of permanent, temporary and situational disability for 4 abilities (Touch, See, Hear and Speak)](/images/a11y/inclusive-toolkit-microsoft.png)
+([Source of this diagram: Microsoft Inclusive Design toolkit](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf))
+
 > "My needs are different from yours and my needs today might be different tomorrow" - Charles Hall
 
-**Making things more accessible makes things better for everyone**
+<blockquote class="info">
+  <p><strong>Making things more accessible makes things better for everyone</strong></p>
+</blockquote>
+
 
 ## General awareness
 
