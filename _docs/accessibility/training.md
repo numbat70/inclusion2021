@@ -21,6 +21,12 @@ order: 10
 - [Curricula on Web Accessibility - A Framework to Build Your Own Courses](https://www.w3.org/WAI/curricula/) - by W3C
 - [EdX - Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction) - free course
 
+## Learning British Sign Language (BSL)
+
+- [How to sign - Youtube videos](https://www.youtube.com/playlist?list=PLAoW1zMlmOlkU3VqAmNmEQ6kxSs9hxu8D)
+- [Courses for a small fee - online - British Sign](https://www.british-sign.co.uk/)
+- [Courses and training by Sign How](https://www.signhow.co.uk/) - not free
+
 ## For developers
 - [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891) - Udacity
 - [Intro to web development accessibility - part 1](https://docs.google.com/presentation/d/1CY7r_r8Zs6evWuQpGZK_E2zvXqNWbEEd5x5n1OhE6Rg/edit?usp=sharing) - material initially created for [Code your Future](https://codeyourfuture.io/)
