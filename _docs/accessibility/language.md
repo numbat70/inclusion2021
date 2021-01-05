@@ -39,11 +39,13 @@ When writing or speaking for Scottish Enterprise or our partners, we recommend u
 > "People do not have disabilities. They are disabled. They have medical conditions, impairments or illnesses. The disability is something society causes because of how it reacts to people with those impairments. 
 >It's really important we use this language as it leads to equality." 
 >
->"We went through PWD (people with disabilities) but changed as we threw off the convention that we were less. Putting people first is part of the journey to pride & awareness. It revolves around how you see disability." 
+>"We went through PWD (People With Disabilities) but changed as we threw off the convention that we were less. Putting people first is part of the journey to pride & awareness. It revolves around how you see disability." 
 
 
  
 ## Language per condition
+
+There is a [more general section about advice for specific needs](/inclusion/accessibility/advice-specific/). Here, we are focusing on the language we use.
 ### Neurodiversity (including Autism, ADHD and dyslexia) 
 
 We recommend taking the 'identity first’ approach when talking about neurodiversity. However, there are some exceptions.  
@@ -58,6 +60,7 @@ The terms we recommend using are:
 
 You can also use the more general term, ‘neurodiverse people’, if you need to.  
 
+> [More information about neurodiversity](/inclusion/accessibility/advice-specific/#neurodiversity)
  
 
 ### Cognitive impairments 
@@ -66,7 +69,7 @@ There can be a lot of overlap between neurodiversity and cognitive impairments. 
 
 We recommend saying ‘people with cognitive impairments’ as it’s simpler than ‘cognitively impaired people’.  
 
- 
+> [More information about cognitive impairments](/inclusion/accessibility/advice-specific/#cognitive-impairments)
 
 ### Sight conditions 
 
@@ -80,7 +83,7 @@ Sight conditions can vary greatly, from blindness or partial sight, to colour bl
 
 **Do not use terms like ‘the blind’ or ‘the visually impaired’.**
 
- 
+> [More information about sight conditions](/inclusion/accessibility/advice-specific/#blindness-and-visual-impairments)
 
 ### Hearing loss 
 
@@ -92,7 +95,9 @@ Just like sight conditions, hearing loss can vary from person to person. Some pe
 
 **Don’t use terms like ‘the deaf’, unless you’re referring more generally to ‘the Deaf community'.**
 
- 
+> [More information about hearing loss](/inclusion/accessibility/advice-specific/#deaf-and-hearing-impairments)
+
+
 ### Physical or motor disabilities 
 
 This includes a range of disabilities and accessibility needs. We recommend using the following terms for people with physical or motor disabilities: 
@@ -105,7 +110,7 @@ This includes a range of disabilities and accessibility needs. We recommend usin
 
 Where possible, try to refer to the specific condition or symptom you mean, because different types of physical and motor disabilities can result in different accessibility needs.  
 
- 
+> [More information about physical or motor disabilities](/inclusion/accessibility/advice-specific/#motricity-impairments) 
 
 ## Further reading 
 
