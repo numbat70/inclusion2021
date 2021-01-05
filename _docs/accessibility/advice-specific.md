@@ -188,8 +188,8 @@ There are varying degrees of blindness and the legal definition can vary from co
 
 [View the GOV UK poster on designing for users who use screen readers](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/visually-impaired-screenreader.png)
 
-#### How 3 blind women use tech:
-<iframe title="How 3 blind women use tech" width="560" height="315" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### How these blind women use tech:
+<iframe title="How these blind women use tech" width="560" height="315" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### How a screen reader user surf the web - Leonie Watson is an accessiblity specialist:
