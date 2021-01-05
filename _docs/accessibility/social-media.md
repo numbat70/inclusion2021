@@ -82,7 +82,7 @@ Some people rely on the ‘shape’ of a word to read more efficiently. Using al
 ### How does a blind person use Twitter?
 <iframe title="Using Twitter with a Screen Reader and VoiceOver" width="560" height="322" src="https://www.youtube.com/embed/DgLLti7pCZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 3 blind women using tech
+### Blind women using tech
 <iframe title="How 3 blind women use tech" width="560" height="322" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
