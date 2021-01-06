@@ -109,6 +109,7 @@ Neurodiverse people are often seen as a challenge or a problem, but treating the
 ### Further reading about Neurodiversity
 - [What is neurodiversity and why should you care about it?](https://www.bangkokpost.com/life/social-and-lifestyle/1971675/what-is-neurodiversity-and-why-should-you-care-about-it-)
 - [Outside the box: neurodiversity and the changing workplace](https://www.welcometothejungle.com/en/articles/neurodiversity-at-work)
+- [Accessible remote meeting guidelines - neurodivergent participants](https://www.ucl.ac.uk/equality-diversity-inclusion/committees-and-social-networks/neurodivergent-staff-network/accessible-remote-meeting-guidelines)
 
 ### Autism
 
@@ -131,17 +132,36 @@ A shorter video:
 #### Further resources:
 - [The costs of camouflaging autism](https://www.spectrumnews.org/features/deep-dive/costs-camouflaging-autism/)
 - [View the GOV UK poster on designing for users on the autistic spectrum](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/autistic-spectrum.png)
+- A personal point of view: [Am I disabled? - What does it mean to consider yourself a disabled person](https://aeon.co/essays/what-does-it-mean-to-consider-yourself-a-disabled-person) - by Joanne Limburg
 
 [**Back to top**]()
 
 
-### ADHD
+### ADHD (Attention Decificit Disorder)
 
-<blockquote class="red"><p>work in progress - will add more</p></blockquote>
+The symptoms of attention deficit hyperactivity disorder (ADHD) can be categorised into 2 types of behavioural problems: inattentiveness, and hyperactivity and impulsiveness.
+
+Most people with ADHD have problems that fall into both these categories, but this is not always the case.
+
+For example, some people with the condition may have problems with inattentiveness, but not with hyperactivity or impulsiveness.
+
+This form of ADHD is also known as attention deficit disorder (ADD). ADD can sometimes go unnoticed because the symptoms may be less obvious. (Source [NHS](https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/symptoms/))
+
+**Women are often under diagnosed** as their symptoms are not always as obvious because they have learned to mask them.
+
+Despite the name, ADHD doesn’t exactly result in a “deficit” of attention, but more an issue regulating it, making it harder to plan, prioritise, avoid impulses, remember things and focus.
+
+From this Guardian article [The lost girls: ‘Chaotic and curious, women with ADHD all have missed red flags that haunt us’](https://www.theguardian.com/society/2020/nov/02/the-lost-girls-chaotic-and-curious-women-with-adhd-all-have-missed-red-flags-that-haunt-us):
+
+> "On a good day, it’s like watching a train whizz past you while you’re trying to read the text on the side and make out faces in the windows."
+> 
+> "On a bad, a bird might land in front of you. Curious, you pull out your phone, Google the bird and get stuck in a “pigeons of the world” vortex. You discover cassowary eggs are bright green and in 2005, UK police found a leg of swan in the Queen’s Master of Music’s freezer. Two terrine recipes later, the train has long passed and night has fallen. Dazed, you sink under a dark cloud of self-loathing, lamenting another lost day. You don’t remember what kind of bird it was." - Noelle Faulkner
 
 [**Back to top**]()
 
 ### Dyslexia
+
+
 
 - good resource of videos to explain the wide range of aspects of Dyslexia: [Dyslexia Bytes](https://www.youtube.com/c/DyslexiaBytes/videos)
 - [Dyslexia and Working from Home](/inclusion/accessibility/files/Dyslexia-and-Working-from-Home.pdf) - PDF by British Dyslexia Association
@@ -156,9 +176,18 @@ A shorter video:
 
 ### Dyspraxia
 
-<blockquote class="red"><p>work in progress</p></blockquote>
+Dyspraxia, also known as developmental co-ordination disorder (DCD), is a common disorder that affects movement and co-ordination.
 
-[A Disability That Does Not Count](https://humanparts.medium.com/a-disability-that-does-not-count-656b5e95e6c1)
+Dyspraxia does not affect your intelligence. It can affect your co-ordination skills – such as tasks requiring balance, playing sports or learning to drive a car. Dyspraxia can also affect your fine motor skills, such as writing or using small objects. (Source: [NHS](https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia-in-adults/))
+
+There is a disconnect between your brain and your body. 
+Giving specific sequences and steps for task to follow can help.
+
+Some personal takes on this from [this twitter thread](https://twitter.com/sacha_coward/status/1301516498226343942?s=20) by Sacha Coward:
+- "I was always clumsy, but it went further than that; I couldn't tie my shoes till I was 13, or put months in order, or tell the time from an analogue clock. Something about my brain always struggled with sequences, fine motor skills and choreography."
+- "The clumsiness is the most common thing people picture when they hear 'dyspraxia', but it also (for me at least) includes difficulties in memory of lists, in knowing the way a shape/letter should face, and an excessive or weak grip (I'm as likely to drop a glass as smash it!)"
+
+A good article to understand how living with dyspraxia can be: [A Disability That Does Not Count](https://humanparts.medium.com/a-disability-that-does-not-count-656b5e95e6c1) by Ronan J. O'Shea
 
 [**Back to top**]()
 
