@@ -183,9 +183,10 @@ Dyspraxia does not affect your intelligence. It can affect your co-ordination sk
 There is a disconnect between your brain and your body. 
 Giving specific sequences and steps for task to follow can help.
 
-Some personal takes on this from [this twitter thread](https://twitter.com/sacha_coward/status/1301516498226343942?s=20) by Sacha Coward:
-- "I was always clumsy, but it went further than that; I couldn't tie my shoes till I was 13, or put months in order, or tell the time from an analogue clock. Something about my brain always struggled with sequences, fine motor skills and choreography."
-- "The clumsiness is the most common thing people picture when they hear 'dyspraxia', but it also (for me at least) includes difficulties in memory of lists, in knowing the way a shape/letter should face, and an excessive or weak grip (I'm as likely to drop a glass as smash it!)"
+> Some personal takes on this from [this twitter thread](https://twitter.com/sacha_coward/status/1301516498226343942?s=20) by Sacha Coward:
+> "I was always clumsy, but it went further than that; I couldn't tie my shoes till I was 13, or put months in order, or tell the time from an analogue clock. Something about my brain always struggled with sequences, fine motor skills and choreography."
+>
+> "The clumsiness is the most common thing people picture when they hear 'dyspraxia', but it also (for me at least) includes difficulties in memory of lists, in knowing the way a shape/letter should face, and an excessive or weak grip (I'm as likely to drop a glass as smash it!)"
 
 A good article to understand how living with dyspraxia can be: [A Disability That Does Not Count](https://humanparts.medium.com/a-disability-that-does-not-count-656b5e95e6c1) by Ronan J. O'Shea
 
