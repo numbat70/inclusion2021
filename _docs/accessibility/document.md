@@ -18,6 +18,8 @@ order: 5
   - [Graphs and charts](#graphs-and-charts)
   - [Making complex documents accessible](#making-complex-documents-accessible)
   - [Simplifying a complex document](#simplifying-a-complex-document)
+  - [Easy Read version](#easy-read-version)
+  - [Large print](#large-print)
 - [Try a screen reader for yourself](#try-a-screen-reader-for-yourself) 
 - [Media files](#media-files)
 - [Further reading](#further-reading)
@@ -174,6 +176,41 @@ We all process and understand information in different ways, and it’s fine to 
 A simple flowchart could be written out in steps. An organisation chart can be broken down using bullets and sub bullets. All the notes and comments left in an interactive space could be summarised in a word document or simple table.  
 
 [**Back to top**]()
+
+### Easy read version
+
+The easy read format was created to help people with learning disabilities understand information easily.
+
+Easy read is often also preferred by readers without learning disabilities, as it gives the essential information on a topic without a lot of background information. It can be especially helpful for people who are not fluent in English. (Source: [GOV.UK - Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton))
+
+#### Resources:
+- [A Brief Guide to Easy Read: Top Tips](http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.HPTHxyK3.dpbs) from SAIF (Scottish Accessible Information Forum)
+- [GOVUK Blog post: How DWP used the easy read format to make its content more accessible](https://accessibility.blog.gov.uk/2019/10/11/how-dwp-used-the-easy-read-format-to-make-its-content-more-accessible/)
+
+**Examples of Easy read format:**
+- [Introduction to Universal Credit](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944658/introduction-to-universal-credit-easy-read-guide.pdf) - PDF
+- [Get help from Access to Work: easy read](https://www.gov.uk/government/publications/easy-read-get-help-at-work-if-youre-disabled-or-have-a-health-condition-access-to-work/get-help-from-access-to-work-easy-read) by the DWP
+
+[**Back to top**]()
+
+### Large print
+
+Large print publications are documents with a point size of 16 and above.
+
+Large print versions of publications are essential for some disabled people, for example people with visual impairments, learning disabilities, dyslexia and problems with coordination or manual dexterity. (Source: [GOV.UK - Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#large-print))
+
+- A minimum size of 16 point is recommended for people with a visual impairment
+- Some fonts appear larger than others at the same point size
+- Very large type sizes can be counter-productive because they cause publications to become bulky and difficult to navigate
+- Offering alternative formats – for example, providing an audio version of the information or emailing someone a text document so that they can access the information using a screen reader on their computer
+- Allow 50 to 65 characters, including spaces, per line
+- Consider reducing the amount of text before reducing the point size
+
+> If you are producing information in large print for an individual, ask which size best suits their needs. They might also benefit from specific colours and contrast between the text and the background, so do ask.
+
+[**Back to top**]()
+
+
    
 ## Try a screen reader for yourself   
 
@@ -210,7 +247,7 @@ Ideally, **provide a transcript** of your media, so people can either read it or
 [**Back to top**]()
 
 ## Further reading: 
-
+- [GOV.UK - Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats)
 - [An Accessible Word Document Checklist](https://www.abrightclearweb.com/accessible-word-document-checklist/)
 - [How to publish on GOV.UK - Document accessiblity](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/accessible-pdfs)
 - [How to Make Your Presentations Accessible to All](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) - W3C resource
