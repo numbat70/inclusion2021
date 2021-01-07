@@ -20,11 +20,24 @@ Depending on your role, there are some specific things you need to make sure you
 
 Have a look at the [Creating document](/inclusion/accessibility/document) section.
 
-**When asked for large print**:
+You will find information about:
 
-Don't just turn A4 document up onto A3 paper, when asked for accessible large print format. 
-
-> A true large print document is freshly printed, in the font size and in the colour combination (print/paper colour) of the requester's choice, and is formatted correctly to look like the standard print document.
+- [PDF](/inclusion/accessibility/document#pdf-are-not-recommended)
+- [Tips to make your documents accessible](/inclusion/accessibility/document#tips-to-make-your-documents-accessible)
+  - [Language and content ](/inclusion/accessibility/document#language-and-content)
+  - [Headings and structure](/inclusion/accessibility/document#headings-and-structure)
+  - [Colours and contrast](/inclusion/accessibility/document#colours-and-contrast)
+  - [Alternative (alt) text](/inclusion/accessibility/document#alternative-alt-text)
+  - [Links](/inclusion/accessibility/document#links)
+  - [Checking a Word document for accessibility](/inclusion/accessibility/document#checking-a-word-document-for-accessibility)
+  - [Checking a PDF for accessibility](/inclusion/accessibility/document#checking-a-pdf-for-accessibility)
+  - [Using tables](/inclusion/accessibility/document#using-tables)
+  - [Graphs and charts](/inclusion/accessibility/document#graphs-and-charts)
+  - [Making complex documents accessible](/inclusion/accessibility/document#making-complex-documents-accessible)
+  - [Simplifying a complex document](/inclusion/accessibility/document#simplifying-a-complex-document)
+- [Easy Read version](/inclusion/accessibility/document#easy-read-version)
+- [Large print](/inclusion/accessibility/document#large-print)
+- [Media files](/inclusion/accessibility/document#media-files)
 
 ### Some resources:
 - [A Brief Guide to Easy Read: Top Tips](http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.2F5teQP6.dpbs) - From the Scottish Accessible Information Forum
