@@ -19,6 +19,7 @@ Quick access:
 - [Motricity impairments](#motricity-impairments)
 - [Cognitive impairments](#cognitive-impairments)
 - [Speach impairments](#speach-impairments)
+- [Learning disabilities](learning-disabilities)
 - [Invisible disabilities](#invisible-disabilities)
     - [The spoon theory](#the-spoon-theory)
 
@@ -347,8 +348,23 @@ More on this:
 
 [How to speak when you don't have a voice](https://www.bbc.co.uk/ideas/videos/how-to-speak-when-you-dont-have-a-voice/p07693kc) - Video from the BBC. Some disabled people have no voice or are hard to understand. That doesn't mean they have nothing to say, explains filmmaker Jemima Hughes.
 
+### Makaton
+
+Makaton is a language programme that uses symbols, signs and speech to enable people to communicate. It supports the development of essential communication skills such as attention and listening, comprehension, memory, recall and organisation of language and expression.
+
+In addition to children and adults with communication and learning difficulties and the community around them – for example, teachers, health professionals, friends, public service bodies etc. Makaton is increasingly used by the general public to aid communication.
+
+[Learn more about Makaton](https://makaton.org/TMC/)
+
 [**Back to top**]()
 
+## Learning disabilities
+
+<blockquote class="red"><p>work in progress - more to come</p></blockquote>
+
+Easy read format can help: [see the section about it](/inclusion/accessibility/document#easy-read-version) - See also [Makaton](#makaton).
+
+[**Back to top**]()
 
 ## Invisible disabilities
 
