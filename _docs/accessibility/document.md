@@ -18,8 +18,8 @@ order: 5
   - [Graphs and charts](#graphs-and-charts)
   - [Making complex documents accessible](#making-complex-documents-accessible)
   - [Simplifying a complex document](#simplifying-a-complex-document)
-  - [Easy Read version](#easy-read-version)
-  - [Large print](#large-print)
+- [Easy Read version](#easy-read-version)
+- [Large print](#large-print)
 - [Try a screen reader for yourself](#try-a-screen-reader-for-yourself) 
 - [Media files](#media-files)
 - [Further reading](#further-reading)
@@ -177,13 +177,13 @@ A simple flowchart could be written out in steps. An organisation chart can be b
 
 [**Back to top**]()
 
-### Easy read version
+## Easy read version
 
 The easy read format was created to help people with learning disabilities understand information easily.
 
 Easy read is often also preferred by readers without learning disabilities, as it gives the essential information on a topic without a lot of background information. It can be especially helpful for people who are not fluent in English. (Source: [GOV.UK - Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton))
 
-#### Resources:
+### Resources:
 - [A Brief Guide to Easy Read: Top Tips](http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.HPTHxyK3.dpbs) from SAIF (Scottish Accessible Information Forum)
 - [GOVUK Blog post: How DWP used the easy read format to make its content more accessible](https://accessibility.blog.gov.uk/2019/10/11/how-dwp-used-the-easy-read-format-to-make-its-content-more-accessible/)
 
@@ -193,7 +193,7 @@ Easy read is often also preferred by readers without learning disabilities, as i
 
 [**Back to top**]()
 
-### Large print
+## Large print
 
 Large print publications are documents with a point size of 16 and above.
 
