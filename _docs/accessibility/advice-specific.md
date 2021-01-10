@@ -124,12 +124,15 @@ The infinity symbol represents autistic pride (Istock art)
 Video from the Scottish Goverment: Around 1 in 100 people in Scotland are autistic. To understand more, visit [differentminds.scot](https://differentminds.scot/) #Differentminds
 <iframe title="Autism myths - full film" width="560" height="322" src="https://www.youtube.com/embed/0TAuQUlpdvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 What women with autism want you to know:
 <iframe title="What women with autism want you to know" width="560" height="322" src="https://www.youtube.com/embed/NwEH9Ui4HV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 A shorter video: 
 <iframe title="This short video explains how people with autism have common differences in communication, sensory processing, social understanding and how they process information." width="624" height="351" src="https://www.youtube.com/embed/0V8bYm7Bhxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 #### Further resources:
 - [The costs of camouflaging autism](https://www.spectrumnews.org/features/deep-dive/costs-camouflaging-autism/)
 - [View the GOV UK poster on designing for users on the autistic spectrum](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/autistic-spectrum.png)
@@ -222,13 +225,15 @@ There are varying degrees of blindness and the legal definition can vary from co
 #### How these blind women use tech:
 <iframe title="How these blind women use tech" width="560" height="315" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br>
 #### How a screen reader user surf the web - Leonie Watson is an accessiblity specialist:
 <iframe title="How a screen reader user surf the web " width="560" height="315" src="https://www.youtube.com/embed/OUDV1gqs9GA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 **Kristy Viers is blind**. She has a great [Youtube channel](https://www.youtube.com/c/KristyViers/videos) where you can see her using tech. Below is one where is is using **VoiceOver and a Braille screen input**
 <iframe title="Kristy Viers, using VoiceOver and a Braille screen input on her iPad" width="560" height="315" src="https://www.youtube.com/embed/wueLXCbm_KY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 #### App and tech which can help blind people
 [BBC Digital planet Podcast episode](https://www.bbc.co.uk/programmes/w3csz994)
 
@@ -248,6 +253,7 @@ This covers a wide range of sight issues, from extreme long or short sightedness
 > - Use good colour contrasts  
 > - Use a readable font size 
 
+<br>
 **RNIB averts on Channel 4 to promote National Eye Health Week**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/64qpW4rbCQw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
