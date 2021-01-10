@@ -229,6 +229,9 @@ There are varying degrees of blindness and the legal definition can vary from co
 **Kristy Viers is blind**. She has a great [Youtube channel](https://www.youtube.com/c/KristyViers/videos) where you can see her using tech. Below is one where is is using **VoiceOver and a Braille screen input**
 <iframe title="Kristy Viers, using VoiceOver and a Braille screen input on her iPad" width="560" height="315" src="https://www.youtube.com/embed/wueLXCbm_KY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### App and tech which can help blind people
+[BBC Digital planet Podcast episode](https://www.bbc.co.uk/programmes/w3csz994)
+
 [**Back to top**]()
 
 
