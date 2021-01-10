@@ -90,6 +90,10 @@ For more information, you can check the [DWP guidance for QA testers](https://ac
 
 > Get in touch with the Digital team to learn more
 
+This video of a talk by Alistair Duggin gives a really view of all the aspects around testing for accessibility.
+
+<iframe width="560" height="315" title="Accessibility testing: tips to succeed by Alistair Duggin" src="https://www.youtube.com/embed/u1R7QXEzsYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [**Back to top**]()
 
 <blockquote class="red"><p>More specific advice for a QA testers will be provided elsewhere </p></blockquote>
