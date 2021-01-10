@@ -4,9 +4,8 @@ category: Accessibility
 order: 8
 ---
 
-<blockquote class="red"><p>work in progress</p></blockquote>
 
-Depending on your role, there are some specific things you need to make sure you get right. This [guidance per job role from the DWP Accessibility manual](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role) is good for reference.
+Depending on your role, there are some specific things you need to make sure you get right. This [guidance per job role from the DWP Accessibility manual](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role) is good for reference or this [guidance from NHS per role as well](https://service-manual.nhs.uk/accessibility).
 
 - [Creating content for others](#creating-content-for-others)
 - [Doing research](#doing-research) 
@@ -81,10 +80,14 @@ This poster is a [resource from the Home Office Digital](https://github.com/UKHo
 
 ## Testing a website
 
-Some simple tests you can do:
-- No mouse, keyboard only, tabbing through - can you access everything? Does the order make sense? (use the Tab key to navigate, Shift+ Tab key to go back and the space bar or Enter to select something)
-- set your screen to 400% zoom (in the settings or using Ctrl and +) - can you still use your website or app?
-- Use on a small screen - can you still select a link, use all the components? are tables, images and graphics still visible?
+<blockquote class="info">
+<p>Some simple tests you can do:</p>
+  <ul>
+<li>No mouse, keyboard only, tabbing through - can you access every interactive component?  Does the order make sense? (use the Tab key to navigate, Shift+ Tab key to go back and the space bar or Enter to select something)</li>
+<li>Set your screen to 400% zoom (in the settings or using Ctrl and +) - Can you still use your website or app?</li>
+<li>Use on a small screen - can you still select a link, use all the components? Are tables, images and graphics still visible?</li>
+  </ul>
+</blockquote>
 
 For more information, you can check the [DWP guidance for QA testers](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/qa-tester)
 
