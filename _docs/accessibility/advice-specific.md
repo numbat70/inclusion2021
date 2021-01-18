@@ -7,7 +7,7 @@ order: 7
 Quick access:
 - [Neurodiversity](#neurodiversity)
   - [Autism](#autism)
-  - [ADHD](#adhd) - Attention Deficit Hyperactivity Disorder
+  - [ADHD](#adhd-attention-decificit-hyperactivity-disorder) - Attention Deficit Hyperactivity Disorder
   - [Dyslexia](#dyslexia)
   - [Dyspraxia](#dyspraxia)
   - [Face blindness](#face-blindness)
@@ -141,7 +141,7 @@ A shorter video:
 [**Back to top**]()
 
 
-### ADHD (Attention Decificit Disorder)
+### ADHD (Attention Decificit Hyperactivity Disorder)
 
 The symptoms of attention deficit hyperactivity disorder (ADHD) can be categorised into 2 types of behavioural problems: inattentiveness, and hyperactivity and impulsiveness.
 
@@ -160,6 +160,12 @@ From this Guardian article [The lost girls: ‘Chaotic and curious, women with A
 > "On a good day, it’s like watching a train whizz past you while you’re trying to read the text on the side and make out faces in the windows."
 > 
 > "On a bad, a bird might land in front of you. Curious, you pull out your phone, Google the bird and get stuck in a “pigeons of the world” vortex. You discover cassowary eggs are bright green and in 2005, UK police found a leg of swan in the Queen’s Master of Music’s freezer. Two terrine recipes later, the train has long passed and night has fallen. Dazed, you sink under a dark cloud of self-loathing, lamenting another lost day. You don’t remember what kind of bird it was." - Noelle Faulkner
+
+This talk about ADHD in women could be of interest. A word of caution: In it, Rachel mentions that vitamin B6 helps her. You should talk to your GP first before doing the same, as taking too much can be bad for you.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eJKHyUIon9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+More talks about ADHD during [Camp ADHD on the 16/01/21 are available on Youtube](https://www.youtube.com/channel/UCsmRK5lDBhGl0aZVre7MwMg). 
+
 
 [**Back to top**]()
 
