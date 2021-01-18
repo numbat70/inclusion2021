@@ -18,7 +18,7 @@ There is a lot under the term 'diversity':
 
 Have a look at [the inclusion calendar for 2021](/images/CIPD-inclusion-calendar-2021.pdf) from the CIPD (Chartered Institute of Personnel and Development). This will be helpful to create events all year round. 
 
-## About being an Allyship
+## About being an Ally
 
 This video is from Netflix as a workplace: "Your colleagues are not just your colleagues. They are also human beings that live in a complex world. Be curious, be empathetic, and be an ally"
 <iframe width="632" height="356" src="https://www.youtube.com/embed/0hJknn4NVBY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
