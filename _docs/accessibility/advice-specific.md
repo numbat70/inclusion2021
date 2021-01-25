@@ -18,7 +18,7 @@ Quick access:
 - [Deaf and hearing impairments](#deaf-and-hearing-impairments)
 - [Motricity impairments](#motricity-impairments)
 - [Cognitive impairments](#cognitive-impairments)
-- [Speach impairments](#speach-impairments)
+- [Speech impairments](#speech-impairments)
 - [Learning disabilities](learning-disabilities)
 - [Invisible disabilities](#invisible-disabilities)
     - [The spoon theory](#the-spoon-theory)
@@ -359,7 +359,7 @@ More on this:
 
 [**Back to top**]()
 
-## Speach impairments
+## Speech impairments
 
 [How to speak when you don't have a voice](https://www.bbc.co.uk/ideas/videos/how-to-speak-when-you-dont-have-a-voice/p07693kc) - Video from the BBC. Some disabled people have no voice or are hard to understand. That doesn't mean they have nothing to say, explains filmmaker Jemima Hughes.
 
