@@ -32,5 +32,10 @@ order: 10
 - [Intro to web development accessibility - part 1](https://docs.google.com/presentation/d/1CY7r_r8Zs6evWuQpGZK_E2zvXqNWbEEd5x5n1OhE6Rg/edit?usp=sharing) - material initially created for [Code your Future](https://codeyourfuture.io/)
 - [Accessibility for developers - basics - part 2](https://docs.google.com/presentation/d/15PG1w766J_EJGSVOnrjrn6ti_-K_7hdRjXZzA-sxTQ4/edit?usp=sharing) - material initially created for [Code your Future](https://codeyourfuture.io/)
 
+## Assistive Technologies (A.T.)
+
+[ will add some resources to try them for yourself]
+
+
 {% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>
