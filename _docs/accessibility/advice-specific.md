@@ -22,7 +22,7 @@ Quick access:
 - [Learning disabilities](learning-disabilities)
 - [Invisible disabilities](#invisible-disabilities)
     - [The spoon theory](#the-spoon-theory)
-- Mental Health(#mental-health)
+- [Mental Health](#mental-health)
 
 These [posters from the Home Office Digital](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) are a great resource. They are available in many languages.
 
