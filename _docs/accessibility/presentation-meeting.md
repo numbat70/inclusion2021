@@ -48,7 +48,7 @@ It’s important to make sure your presentations, meetings, webinars and events 
 <blockquote class="info">
 <p><strong>Always ask your participants what they need</strong>. You can't plan for everything. Give them the opportunity to tell you.</p>
 <p> When organising an event, presentation, webinar or meeting, it’s good practice to offer your participants an opportunity to let you know how you can make the session more accessible to them.</p>
-<p>You could provide contact details to get in touch with you, or build it into the booking process (similar to how many booking services let participants add dietary requirements). You could also allow users to respond anonymously to an online survey.</p>
+<p>You could provide contact details to get in touch with you, or build it into the booking process (similar to how many booking services let participants add dietary requirements). You could also allow people to respond anonymously to an online survey.</p>
 </blockquote>
 
 [**Back to top**]()
