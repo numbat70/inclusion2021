@@ -12,7 +12,7 @@ order: 3
   It’s usually best to just ask the person you’re speaking to how they’d prefer you to refer to their disability or accessibility needs. But it's not always possible when addressing a wider audience.
  </p>
 <p>
-Here are some general best practise guidelines: 
+Here are some general best practice guidelines: 
 </p>
  <ul>
 <li>Avoid using terms like ‘disabled’ or ‘disabilities’ too generally – are you really referring to all people with any disability, or do you specifically mean wheelchair users, people with vision impairments, people with hearing loss or another more specific disability</li>
