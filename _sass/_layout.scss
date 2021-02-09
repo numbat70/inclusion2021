@@ -537,11 +537,11 @@ iframe, video {
 }
 
 hr.big {
-	border-top: $brand-colour 4px solid;
+	border-top: $brand-colour 2px solid;
 }
 
 hr.very-big {
-	border-top: $brand-colour 15px solid;
+	border-top: $brand-colour 10px solid;
 }
 
 footer {
@@ -558,9 +558,9 @@ footer {
 }
 
 summary {
-	background-color:  $brand-colour;
+	background-color:  #ffefaa;
 	font-weight: 600;
-	font-size: 2rem;
+	font-size: 1.8rem;
 	padding: 0.5rem 2rem;
 	margin: 1rem 0;
 }

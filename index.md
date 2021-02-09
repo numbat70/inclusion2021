@@ -46,6 +46,7 @@ Gemma Mc Call is the host, Rachel Morgan-Trimmer is a Neurodiversity consultant,
 </ul>
 </details>
 
+<hr class="big">
 
 ### User manual for me
 It was addressed in the video above. This in an interesting concept. The idea is for an employee to give instructions about how best to interact with them. This can improve the collaboration between employees.
@@ -60,6 +61,7 @@ Two articles about the concept and one blog post from the Digital Team:
 - [A user manual for me](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694) - Medium article by Cassie Robinson
 - [A user manual for Lindsay](https://design.scotentblog.co.uk/a-user-manual-for-lindsay/) - blog post from Lindsay Branston
 
+<hr class="big">
 
 ## Being one of a kind in the workplace
 
@@ -71,6 +73,8 @@ Two articles about the concept and one blog post from the Digital Team:
 **Video - Purl | Pixar SparkShorts**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B6uuIHpFkuo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<hr class="big">
+
 ## Further reading and extra resources
 
 - [Inclusive recruitment is essential](https://inclusivedesignrecruitment.co.uk/) - By Snook
@@ -78,4 +82,4 @@ Two articles about the concept and one blog post from the Digital Team:
 - [Inclusive language - Writing for and about people in a way that is inclusive and respectful.](https://service-manual.nhs.uk/content/inclusive-language) - By the NHS
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}}</div>
+<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

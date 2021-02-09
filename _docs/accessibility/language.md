@@ -136,4 +136,4 @@ If you’re looking for guidance around a specific disability, look for a local 
 - [BBC Word of Mouth podcast episode: Talking Disability with Samantha Renke](https://www.bbc.co.uk/programmes/m000qy49)
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}}</div>
+<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

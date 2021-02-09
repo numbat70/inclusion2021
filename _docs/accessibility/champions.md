@@ -47,4 +47,4 @@ Challenging companies and assistive technologies to do better
 [notes from the video to add here]
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}}</div>
+<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

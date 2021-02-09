@@ -12,4 +12,4 @@ Recognising that diverse groups have diverse needs, values, priorities and persp
   <p>Work in progress</p>
 </blockquote>
 
-<div>Last updated: {{site.time | date_to_string}}</div>
+<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

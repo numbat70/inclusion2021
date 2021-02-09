@@ -16,4 +16,4 @@ order: 11
 
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}}</div>
+<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

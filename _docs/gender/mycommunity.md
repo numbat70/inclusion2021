@@ -17,5 +17,5 @@ This group has a focus on engaging people across the organisation to attract, de
 
 [more to come]
 
-<div>Last updated: {{site.time | date_to_string}}</div>
+<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
 

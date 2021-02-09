@@ -87,4 +87,4 @@ Some people rely on the ‘shape’ of a word to read more efficiently. Using al
 
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}}</div>
+<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>

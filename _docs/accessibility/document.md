@@ -258,4 +258,4 @@ Ideally, **provide a transcript** of your media, so people can either read it or
 [**Back to top**]()
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}}</div>
+<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
