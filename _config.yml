@@ -1,21 +1,21 @@
 # ----
 # Site
 
-title: Inclusion and diversity
+title: Diversity and inclusion
 url: "https://scotentsd.github.io/inclusion/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-#logo: /P2PBN.png
-description: Guidelines and resources for inclusion and diversity
+#logo: 
+description: Guidelines and resources for Diversity and Inclusion
 author: 
   name: 
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Guidelines and resources for inclusion and diversity
+  name: Guidelines and resources for Diversity and Inclusion
   links:
     - https://scotentsd.github.io/inclusion/
 

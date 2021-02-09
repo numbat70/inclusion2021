@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-We are trying to do better about **Inclusion and Diversity** in Scottish Enterprise.
+We are trying to do better about **Diversity and Inclusion** in Scottish Enterprise.
 We are gathering guidelines and resources in one place.
 
 <blockquote class="red">

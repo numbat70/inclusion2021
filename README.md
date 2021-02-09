@@ -1,4 +1,4 @@
-# This is a prototype for a potential website to provide guidance around Inclusion and Diversity for Scottish Enterprise Employees
+# This is a prototype for a potential website to provide guidance around Diversity and Inclusion for Scottish Enterprise Employees
 
 This is built using Github pages, Jekyll and CloudCannon. By using some markdown language, you can create content which is deployed in the next 2 to 5 min to a website. No hosting needed and it's free.
 
