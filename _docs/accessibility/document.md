@@ -87,6 +87,8 @@ However, there may be situations where we can’t avoid publishing a document on
 
 [**Back to top**]()
 
+<hr class="small">
+
 ### Headings and structure 
 
 Structure the document logically and use headings to break it into meaningful sections. Your headings should be simple and descriptive – avoid ‘clever’ headings and puns.  
@@ -99,6 +101,8 @@ The Microsoft Word toolbar, showing the functionality to mark text as Heading 1,
 
 [**Back to top**]()
 
+<hr class="small">
+
 ### Colours and contrast 
 
 Avoid using colour alone to signify meaning.  
@@ -108,6 +112,8 @@ Make sure the text colour you’re using has a high contrast with the background
 Read more about using colours and contrast [Link not ready - but will redirect to the Scottish Enterprise Design System Guidance for this]  
 
 [**Back to top**]()
+
+<hr class="small">
 
 ### Alternative (alt) text 
 
@@ -120,6 +126,8 @@ A [good link to understand more about alt text](https://axesslab.com/alt-texts/)
 A [blog post when you are unsure between a caption and an alt text](https://thoughtbot.com/blog/alt-vs-figcaption)
  
 [**Back to top**]()
+
+<hr class="small">
 
 ### Links 
 
@@ -136,6 +144,8 @@ Make sure you add links as a hyperlink to text within your document. This ‘anc
 
 [**Back to top**]()
 
+<hr class="small">
+
 ### Checking a Word document for accessibility   
 
 The Microsoft word toolbar with the Check Accessibility functionality highlighted in red.Microsoft Word has a built-in accessibility checker. Go to the review tab and click **‘Check accessibility’**. This will highlight errors such as missing alt text or low contrast text and help you fix them. 
@@ -146,6 +156,8 @@ Good article about word document: [An Accessible Word Document Checklist](https:
  
 [**Back to top**]()
 
+<hr class="small">
+
 ### Checking a PDF for accessibility  
 
 If you’re using Adobe Reader, go to Edit -> Accessibility -> Quick check. This will flag up any issues. To fix them, you need to edit the original document in Word or Adobe Acrobat Pro.   
@@ -154,11 +166,15 @@ If you’re using Adobe Reader, go to Edit -> Accessibility -> Quick check. Th
 
 [**Back to top**]()
 
+<hr class="small">
+
 ### Using tables 
 
 If you’re using tables, try to keep them simple and avoid merged or split cells.  
 
 [**Back to top**]()
+
+<hr class="small">
  
 ### Graphs and charts 
 
@@ -167,11 +183,15 @@ If you’re sharing graphs and charts, try to provide a written version of the s
 
 [**Back to top**]()
 
+<hr class="small">
+
 ### Making complex documents accessible  
 
 It’s likely that you’ll sometimes need to create more complex documents than a Word document or PDF. As much as possible, follow the same accessibility guidelines – use simple language, mark headings properly, use good colour contrast and add alt text.  
 
 [**Back to top**]()
+
+<hr class="small">
  
 ### Simplifying a complex document  
 
@@ -188,6 +208,8 @@ A simple flowchart could be written out in steps. An organisation chart can be b
 The easy read format was created to help people with learning disabilities understand information easily.
 
 Easy read is often also preferred by readers without learning disabilities, as it gives the essential information on a topic without a lot of background information. It can be especially helpful for people who are not fluent in English. (Source: [GOV.UK - Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton))
+
+<hr class="small">
 
 ### Resources:
 - [A Brief Guide to Easy Read: Top Tips](http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.HPTHxyK3.dpbs) from SAIF (Scottish Accessible Information Forum)

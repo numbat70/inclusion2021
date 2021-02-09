@@ -536,12 +536,16 @@ iframe, video {
   }
 }
 
+hr.small {
+	border-top: $brand-colour 1px solid;
+}
+
 hr.big {
-	border-top: $brand-colour 2px solid;
+	border-top: $brand-colour 3px solid;
 }
 
 hr.very-big {
-	border-top: $brand-colour 10px solid;
+	border-top: $brand-colour 5px solid;
 }
 
 footer {
