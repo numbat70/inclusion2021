@@ -541,13 +541,22 @@ You can get involved, [they provide material on their website](https://www.notev
 
 ## Mental Health
 
-Some resources:
+### Some associations:
 <ul>
 <li><a href="https://www.samh.org.uk/about-mental-health/self-help-and-wellbeing/coronavirus-information-hub" target="_blank" rel="noopener">SAMH (Scottish Association for Mental Health) Coronavirus mental health information hub</a></li>
 <li><a href="https://www.mind.org.uk/information-support/" target="_blank" rel="noopener">Mind for better mental health</a></li>
 <li><a href="http://ayemind.com/" target="_blank" rel="noopener">Aye Mind Activities</a></li>
 <li><a href="https://www.seemescotland.org/" target="_blank" rel="noopener">See Me - End mental health discrimination</a></li>
 <li><a href="https://www.gamh.org.uk/" target="_blank" rel="noopener">Glasgow association for mental health</a></li>
+</ul>
+
+
+### Some apps
+<ul>
+<li><a href="https://www.theshineapp.com/" target="_blank" rel="noopener">Shine app - Daily self care app</a></li>
+<li><a href="https://www.superbetter.com/" target="_blank" rel="noopener">Superbetter - By Jane McGonigal</a></li>
+<li><a href="https://bearable.app" target="_blank" rel="noopener">Bearable.app</a></li>
+<li><a href="https://moodstories.com/" target="_blank" rel="noopener">Moodstory</a></li>
 </ul>
 
 <hr class="big">
