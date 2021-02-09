@@ -34,6 +34,7 @@ It’s important to make sure your presentations, meetings, webinars and events 
 > - speak English as a second language 
 > - use assistive technology 
 
+<hr class="big">
 
 ## Before the event
 
@@ -53,6 +54,8 @@ It’s important to make sure your presentations, meetings, webinars and events 
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="small">
+
 ### Share materials ahead of the session 
 
 Sending the presentation and any other relevant materials to your audience before the session starts means your participants can view the presentation on their own device if they need to. People with low vision can zoom in and resize their own version of the presentation, and people with technology restrictions who can’t see your shared screen can follow along from their own device.   
@@ -61,20 +64,21 @@ It can also help give people with cognitive disabilities more time to read throu
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="big">
+
 ## During the event
 
 ### Record the session 
 
 This isn’t just helpful for people who couldn’t attend the live session. It also means participants can re-watch the session if there was something they missed or didn’t understand. 
 
-<a href="#" class="button">Back to top</a>
-
+<hr class="small">
 
 ### Add captions and transcripts 
 
 Using live captions or BSL interpreters means more users can join in the live session – which is important if there’s interactive elements or opportunities to ask questions. If this isn’t possible, you should always at least add captions to the recording of the session. Creating a transcript of the session can also be useful.  
 
-<a href="#" class="button">Back to top</a>
+<hr class="small">
 
 ### Learn how to use your tools well 
 
@@ -89,12 +93,13 @@ West Dunbartonshire Council created lots of [tutorials for MS Teams, check their
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="big">
+
 ## The presentation 
 
 A presentation is usually involved in some form during most meetings, virtual events and physical events. How you deliver the presentation is important, but so is the formatting of the presentation itself.  
 
-<a href="#" class="button">Back to top</a>
-
+<hr class="small">
 
 ### Use large font sizes 
 
@@ -102,7 +107,7 @@ Presentations are often smaller when you share your screen than they would be on
 
 > We suggest a minimum font size of 36.  
 
-<a href="#" class="button">Back to top</a>
+<hr class="small">
 
 ### Reduce the amount of text 
 
@@ -110,7 +115,7 @@ It’s tempting to overload your slides with information, but it’s often count
 
 Instead, keep the text on slides to a minimum, or consider splitting text across more than one slide.  
 
-<a href="#" class="button">Back to top</a>
+<hr class="small">
 
 ### Colours and contrasts 
 
@@ -118,10 +123,11 @@ Make sure the text colour you’re using contrasts well with the background of y
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="big">
 
-### During the presentation 
+## During the presentation 
 
-#### Describe visual content  
+### Describe visual content  
 
 Remember that not everyone can see what you’re seeing. Describe what’s on the slide, including any graphs or images. 
 
@@ -129,16 +135,15 @@ If your participants are using video, it’s also good to describe any reactions
 
 If an audience member asks a question in the chat, make sure to read out the question before you answer.  
 
-<a href="#" class="button">Back to top</a>
+<hr class="small">
 
-
-#### Use good lighting  
+### Use good lighting  
 
 Make sure you’re presenting in a well-lit room so that participants who need to lip read can see you clearly.  
 
-<a href="#" class="button">Back to top</a>
+<hr class="small">
 
-#### Speak slowly and clearly 
+### Speak slowly and clearly 
 
 > Use a mic! Even if you have a loud voice. Make sure people hear you.
 
@@ -146,15 +151,15 @@ Your audience may include people with hearing impairments or cognitive impairmen
 
 It’s also a good idea to pause in between slides. This lets your audience process what you’ve just said and read what’s on the next slide.  
 
-<a href="#" class="button">Back to top</a>
+<hr class="small">
 
-#### Plan breaks 
+### Plan breaks 
 
 If your session is longer than an hour, you should factor in short breaks. As well as providing a chance for participants to take a bathroom break, get a drink or even just move about, it also reduces cognitive load for users who may feel overwhelmed. It gives a chance to process the information that’s been shared and finish taking notes.  
 
-<a href="#" class="button">Back to top</a>
+<hr class="small">
 
-#### Managing questions and participation  
+### Managing questions and participation  
 
 Make sure that all participants are muted while someone is speaking to reduce background noise.  
 
@@ -166,16 +171,18 @@ Don’t pressure users to turn their cameras on or ask questions out loud. Alway
  
  <a href="#" class="button">Back to top</a>
 
+ <hr class="big">
+
 ## Making physical events accessible  
 
 If you’re running a physical event or workshop, you should still follow any applicable guidelines on this page. If you’re using a presentation, make sure it uses a large font and isn’t over-crowded with text. Speak clearly, describe visual elements out loud and plan plenty of breaks. However, there are a few additional considerations you’ll need to remember when hosting a physical event.  
 
-<a href="#" class="button">Back to top</a>
+<hr class="small">
 
 ### Physical access 
 
-When you host an event in a physical location rather than a virtual space, there are additional access requirements you need to consider. While you’re unlikely to find a venue that can provide everything, here’s a list of things that will make your venue accessible: 
-
+When you host an event in a physical location rather than a virtual space, there are additional access requirements you need to consider. 
+<p style="margin-bottom: 0">While you’re unlikely to find a venue that can provide everything, here’s a list of things that will make your venue accessible: </p>
 - Lift and ramp access – not just to the building, but to each floor and room  
 - Lift buttons that can be accessed by someone using a wheelchair  
 - Automatic doors or doors that can be opened with a button  
@@ -188,7 +195,8 @@ When you host an event in a physical location rather than a virtual space, there
 
 > **[Euan's guide can help you find an accessible venue](https://www.euansguide.com/)**
 
-<a href="#" class="button">Back to top</a>
+
+<hr class="small">
 
 ### Communicate accessibility to your audience 
 
@@ -200,7 +208,7 @@ It’s also good to let people know if food and drink is allowed in the venue, a
 
 > When something is not available (no disabled toilets for example) do tell your participants ahead. They might still be able to attend and make their own arrangement. 
 
-<a href="#" class="button">Back to top</a>
+<hr class="small">
 
 ### Recording, captions and translators 
 
@@ -210,11 +218,12 @@ If possible, try to provide a live captioning service or BSL interpreter on the 
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="big">
+
 ## After the event
 
 Ask for honest feedback. What worked well and what didn't. That way you can improve the next event.
 
-<a href="#" class="button">Back to top</a>
 
 ## Further reading
 

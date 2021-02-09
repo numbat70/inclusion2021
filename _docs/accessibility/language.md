@@ -43,6 +43,8 @@ When writing or speaking for Scottish Enterprise or our partners, we recommend u
 >
 >"We went through PWD (People With Disabilities) but changed as we threw off the convention that we were less. Putting people first is part of the journey to pride & awareness. It revolves around how you see disability." 
 
+<a href="#" class="button">Back to top</a>
+
 <hr class="big">
  
 ## Language per condition
@@ -112,6 +114,8 @@ This includes a range of disabilities and accessibility needs.
 Where possible, try to refer to the specific condition or symptom you mean, because different types of physical and motor disabilities can result in different accessibility needs.  
 
 > [More information about physical or motor disabilities](/inclusion/accessibility/advice-specific/#motricity-impairments) 
+
+<a href="#" class="button">Back to top</a>
 
 <hr class="big">
 

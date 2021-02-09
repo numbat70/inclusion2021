@@ -47,17 +47,10 @@ Not everyone uses the social model and that’s ok. How anyone chooses to talk a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3m_EbRH1aF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr class="big">
-
-### Some blog posts from the Digital Team
-
-- [Neurodiversity (Autism, ADHD, Dyslexia) – Some simple tips](https://design.scotentblog.co.uk/neurodiversity-autism-adhd-dyslexia-some-simple-tips/)
-- [Invisible Disabilities](https://design.scotentblog.co.uk/invisible-disabilities/)
-- [Inclusion, Accessibility, Assisted digital needs - what’s the difference?
-](https://design.scotentblog.co.uk/inclusion-accessibility-assisted-digital-needs%e2%80%8a-%e2%80%8awhats-the-difference/)
-- [Making our social media communications accessible](https://design.scotentblog.co.uk/making-our-social-media-communications-accessible/)
-- [Why accessibility matters](https://design.scotentblog.co.uk/why-accessibility-matters/)
-
 
 {% include feedback.html %}
+
+<a href="#" class="button">Back to top</a>
+
+<br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>

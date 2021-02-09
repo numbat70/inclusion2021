@@ -46,7 +46,7 @@ Gemma Mc Call is the host, Rachel Morgan-Trimmer is a Neurodiversity consultant,
 </ul>
 </details>
 
-<hr class="big">
+<hr class="small">
 
 ### User manual for me
 It was addressed in the video above. This in an interesting concept. The idea is for an employee to give instructions about how best to interact with them. This can improve the collaboration between employees.
@@ -60,6 +60,8 @@ It was addressed in the video above. This in an interesting concept. The idea is
 - [A user manual for Dan (2nd edition)](https://dasbarrett.medium.com/a-user-manual-for-dan-2nd-edition-d120d603b2) - Medium article by Dan Barrett
 - [A user manual for me](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694) - Medium article by Cassie Robinson
 - [A user manual for Lindsay](https://design.scotentblog.co.uk/a-user-manual-for-lindsay/) - blog post from Lindsay Branston
+
+<a href="#" class="button">Back to top</a>
 
 <hr class="big">
 
@@ -82,4 +84,8 @@ It was addressed in the video above. This in an interesting concept. The idea is
 - [Inclusive language - Writing for and about people in a way that is inclusive and respectful.](https://service-manual.nhs.uk/content/inclusive-language) - By the NHS
 
 {% include feedback.html %}
+
+<a href="#" class="button">Back to top</a>
+
+<br>
 <div>Last updated: {{site.time | date_to_string}}</div>

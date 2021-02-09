@@ -85,7 +85,6 @@ However, there may be situations where we can’t avoid publishing a document on
 
 **Make sure your content is left aligned**. Avoid justifying your text as this can cause irregular spacing which can be confusing for some users.  
 
-<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
@@ -99,8 +98,6 @@ The Microsoft Word toolbar, showing the functionality to mark text as Heading 1,
 
 ![screenshot of the part of the menu where you can create headings](/inclusion/accessibility/files/heading-word.PNG)
 
-<a href="#" class="button">Back to top</a>
-
 <hr class="small">
 
 ### Colours and contrast 
@@ -110,8 +107,6 @@ Avoid using colour alone to signify meaning.
 Make sure the text colour you’re using has a high contrast with the background of the document. Tools such as ['Accessible colors'](https://accessible-colors.com/) can help you check.  
 
 Read more about using colours and contrast [Link not ready - but will redirect to the Scottish Enterprise Design System Guidance for this]  
-
-<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
@@ -124,8 +119,7 @@ You don’t need to add alt text to decorative images.
 Read more about writing alt text [Link not ready - but will redirect to the Scottish Enterprise Design System Guidance for this]  
 A [good link to understand more about alt text](https://axesslab.com/alt-texts/) and how to do a good one. And [a longer guidance](https://webaim.org/techniques/alttext/).
 A [blog post when you are unsure between a caption and an alt text](https://thoughtbot.com/blog/alt-vs-figcaption)
- 
-<a href="#" class="button">Back to top</a>
+
 
 <hr class="small">
 
@@ -142,8 +136,6 @@ Make sure you add links as a hyperlink to text within your document. This ‘anc
 >**And instead of**: To find out more, [click here](https://www.scottish-enterprise.com/learning-zone/business-guides).  
 >
 
-<a href="#" class="button">Back to top</a>
-
 <hr class="small">
 
 ### Checking a Word document for accessibility   
@@ -153,8 +145,7 @@ The Microsoft word toolbar with the Check Accessibility functionality highlighte
 ![screenshot of the part of the menu where you can find the check accessiblity menu](/inclusion/accessibility/files/access-check-word.png)
 
 Good article about word document: [An Accessible Word Document Checklist](https://www.abrightclearweb.com/accessible-word-document-checklist/)
- 
-<a href="#" class="button">Back to top</a>
+
 
 <hr class="small">
 
@@ -164,15 +155,11 @@ If you’re using Adobe Reader, go to Edit -> Accessibility -> Quick check. Th
 
 > You can also ask the digital team to help.
 
-<a href="#" class="button">Back to top</a>
-
 <hr class="small">
 
 ### Using tables 
 
 If you’re using tables, try to keep them simple and avoid merged or split cells.  
-
-<a href="#" class="button">Back to top</a>
 
 <hr class="small">
  
@@ -181,15 +168,12 @@ If you’re using tables, try to keep them simple and avoid merged or split cell
 If you’re sharing graphs and charts, try to provide a written version of the same information as well. This could be in a table or as written descriptions.  
 [Key Considerations for Flowchart Accessibility](https://mn.gov/mnit/media/blog/?id=38-436349) - Note that this link will ask you to confirm you're not a robot before going to the correct page
 
-<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
 ### Making complex documents accessible  
 
 It’s likely that you’ll sometimes need to create more complex documents than a Word document or PDF. As much as possible, follow the same accessibility guidelines – use simple language, mark headings properly, use good colour contrast and add alt text.  
-
-<a href="#" class="button">Back to top</a>
 
 <hr class="small">
  
@@ -246,7 +230,6 @@ Large print versions of publications are essential for some disabled people, for
 
 To test how your documents would work with a screen reader, you can download one yourself and try it out. We’d recommend [Non-Visual Desktop Access (NVDA)](https://www.nvaccess.org/). 
 
-<a href="#" class="button">Back to top</a>
  
  <hr class="big">
 
@@ -286,7 +269,9 @@ This will also be used by many people who are not native speakers, or are in a n
 - [Presentations - Readability Guidelines](https://readabilityguidelines.co.uk/audiences-devices-channels/presentations/) - by Content Design London
 - [Make your PowerPoint presentations accessible to people with disabilities](https://support.microsoft.com/en-gb/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-us&rs=en-gb&ad=gb) - Microsoft support
 
+{% include feedback.html %}
+
 <a href="#" class="button">Back to top</a>
 
-{% include feedback.html %}
+<br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>

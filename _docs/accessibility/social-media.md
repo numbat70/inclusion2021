@@ -107,6 +107,9 @@ Some people rely on the ‘shape’ of a word to read more efficiently. Using al
 ### Blind women using tech
 <iframe title="Some blind women use tech" width="560" height="322" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 {% include feedback.html %}
+
+<a href="#" class="button">Back to top</a>
+
+<br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
