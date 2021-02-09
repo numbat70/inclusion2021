@@ -183,6 +183,31 @@ $nav-image: $baseurl + "/images/menu.svg";
 }
 
 .page-header {
+
+	h1 {
+		margin: 0;
+		line-height: 1.2;
+		letter-spacing: -1px;
+	}
+
+	h1 span.title {
+		font-size: 1.5rem;
+		margin-left: -1px;
+		color: #B2910B;
+		letter-spacing: 0;
+		@media (min-width: $mobile-break) {
+			font-size: 3rem;
+		}
+	}
+
+	h1 span.subtitle {
+		font-size: 3rem;
+		margin-left: -4px;
+		@media (min-width: $mobile-break) {
+			font-size: 5rem;
+		}
+	}
+
 	h2,
 	h3 {
 		margin: 0;
@@ -510,4 +535,34 @@ iframe, video {
   @media only screen and (max-width: 560px) {
   width: 100%;
   }
+}
+
+hr.big {
+	border-top: $brand-colour 4px solid;
+}
+
+hr.very-big {
+	border-top: $brand-colour 15px solid;
+}
+
+footer {
+	background-color: #333;
+    color: #fff;
+    font-weight: 600;
+	padding: 2rem 1rem 1rem 1rem;
+	
+	p {
+		text-align: center;
+	}
+	a:link, a:visited, a:hover{
+		color: #fff;
+	}
+}
+
+summary {
+	background-color:  $brand-colour;
+	font-weight: 600;
+	font-size: 2rem;
+	padding: 0.5rem 2rem;
+	margin: 1rem 0;
 }

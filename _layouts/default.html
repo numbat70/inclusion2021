@@ -39,14 +39,14 @@
 			</form>
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
-				<ul>
+				<ul style="border-bottom: solid 4px #F2CA27;">
 					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
 						{% assign home = site.html_pages | where: 'url', '/' | first %}
 						<a href="{{ site.baseurl }}/">{{ home.title }}</a>
 					</li>
 				</ul>
 
-				<ul>
+				<ul style="border-bottom: solid 4px #F2CA27;">
 					{% assign grouped = site.docs | group_by: 'category' %}
 					{% for group in grouped %}
 						<li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
@@ -72,13 +72,20 @@
 
 		<section class="main">
 			<div class="page-header">
-				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
-				<h3>{{ page.title }}</h3>
+				<h1><span class="title">{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</span><br>
+					<span class="subtitle">{{ page.title }}</span>
+				</h1>
+				<!--h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
+				<h3>{{ page.title }}</h3-->
 			</div>
 			<article class="content">
 				{{ content }}
 			</article>
 		</section>
+
+		<footer>
+			<p>This website is using Github pages, Jekyll and CloudCannon - <a href="hhttps://github.com/scotentSD/inclusion" target="_blank">Access the code on Github</a></p>
+		</footer>
 
 		<script>
 			document.getElementById("open-nav").addEventListener("click", function () {
