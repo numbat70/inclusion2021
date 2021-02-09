@@ -234,7 +234,7 @@ You need to provide an alternative for people who can’t hear or see.
 
 Videos with audio require captions synchronised with the audio track. Everything said in the video should be included in the captions. It should  include names, sounds and descriptions.
 
-<p style="margin=bottom: 0"><strong>2 types of captions:</strong></p>
+<p style="margin-bottom: 0"><strong>2 types of captions:</strong></p>
 - **Open caption**: is embedded into the video itself, and cannot be turned off
 - **Closed captioning**: can be turned on and off
 
@@ -242,12 +242,12 @@ Videos with audio require captions synchronised with the audio track. Everything
 
 This will also be used by many people who are not native speakers, or are in a noisy environment or don’t want others to hear what they are watching for example.
 
-<p style="margin=bottom: 0">Ideally, <strong>provide a transcript</strrong> of your media, so people can either read it or use a screen reader to hear it:</p>
+<p style="margin-bottom: 0">Ideally, <strong>provide a transcript</strrong> of your media, so people can either read it or use a screen reader to hear it:</p>
 - allow people to scan the content and see if they want to engage with it 
 - can be searched by people and search engines so better for SEO (Search Engine Optimisation)
 
 
-<p style="margin=bottom: 0"><strong>Audio descriptions</strong> speak out what is happening in the video so that it’s accessible to people with low vision. There are two ways to create audio descriptions:</p>
+<p style="margin-bottom: 0"><strong>Audio descriptions</strong> speak out what is happening in the video so that it’s accessible to people with low vision. There are two ways to create audio descriptions:</p>
 1. a narrator describes all the visual information
 2. add a separate audio track that describes the visual information
 

@@ -12,7 +12,7 @@ order: 4
 To reach your audience, you need to do better to make sure everyone can access your posts on social media. 
 
 <blockquote class="info">
-  <p style="margin=bottom: 0">Main recommendations:</p>
+  <p style="margin-bottom: 0">Main recommendations:</p>
   <ul>
     <li><a href="#write-clearly-and-use-plain-english">be clear</a></li>
     <li><a href="#alt-text">use alt text</a></li>
@@ -37,7 +37,7 @@ If you’re creating a longer post on platforms like Facebook or LinkedIn, you s
 ## Alt text
 All pictures (including diagrams) should have an Alt text (alternative text)  so users with screen readers know what the image is and get the same level of information as users who can see the image. 
 
-<p style="margin=bottom: 0">Here how to do this on:</p>
+<p style="margin-bottom: 0">Here how to do this on:</p>
 - [Twitter](https://help.twitter.com/en/using-twitter/picture-descriptions)
 - [LinkedIn](https://www.linkedin.com/help/linkedin/answer/109799)
 - [Facebook](https://www.facebook.com/help/214124458607871)

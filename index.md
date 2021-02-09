@@ -51,12 +51,12 @@ Gemma Mc Call is the host, Rachel Morgan-Trimmer is a Neurodiversity consultant,
 ### User manual for me
 It was addressed in the video above. This in an interesting concept. The idea is for an employee to give instructions about how best to interact with them. This can improve the collaboration between employees.
 
-<p style="margin=bottom: 0">For example:</p>
+<p style="margin-bottom: 0">For example:</p>
 - I prefer emails to calls or team messages
 - I like to have some focus time in the morning, so prefer not to have meetings before 11am
 - if you need something from me, be explicit about it as I don't always pick up light cues
 
-<p style="margin=bottom: 0">Two articles about the concept and one blog post from the Digital Team</p>
+<p style="margin-bottom: 0">Two articles about the concept and one blog post from the Digital Team</p>
 - [A user manual for Dan (2nd edition)](https://dasbarrett.medium.com/a-user-manual-for-dan-2nd-edition-d120d603b2) - Medium article by Dan Barrett
 - [A user manual for me](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694) - Medium article by Cassie Robinson
 - [A user manual for Lindsay](https://design.scotentblog.co.uk/a-user-manual-for-lindsay/) - blog post from Lindsay Branston
