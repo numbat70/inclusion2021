@@ -39,14 +39,14 @@
 			</form>
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
-				<ul style="border-bottom: solid 4px #F2CA27;">
+				<ul>
 					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
 						{% assign home = site.html_pages | where: 'url', '/' | first %}
 						<a href="{{ site.baseurl }}/">{{ home.title }}</a>
 					</li>
 				</ul>
 
-				<ul style="border-bottom: solid 4px #F2CA27;">
+				<ul>
 					{% assign grouped = site.docs | group_by: 'category' %}
 					{% for group in grouped %}
 						<li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
