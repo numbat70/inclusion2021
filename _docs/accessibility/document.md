@@ -71,7 +71,7 @@ However, there may be situations where we can’t avoid publishing a document on
 > - Have low literacy or speak English as a second language 
 > - Find it difficult to read or understand large amounts of text  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="big">
 
@@ -85,7 +85,7 @@ However, there may be situations where we can’t avoid publishing a document on
 
 **Make sure your content is left aligned**. Avoid justifying your text as this can cause irregular spacing which can be confusing for some users.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
@@ -99,7 +99,7 @@ The Microsoft Word toolbar, showing the functionality to mark text as Heading 1,
 
 ![screenshot of the part of the menu where you can create headings](/inclusion/accessibility/files/heading-word.PNG)
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
@@ -111,7 +111,7 @@ Make sure the text colour you’re using has a high contrast with the background
 
 Read more about using colours and contrast [Link not ready - but will redirect to the Scottish Enterprise Design System Guidance for this]  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
@@ -125,7 +125,7 @@ Read more about writing alt text [Link not ready - but will redirect to the Scot
 A [good link to understand more about alt text](https://axesslab.com/alt-texts/) and how to do a good one. And [a longer guidance](https://webaim.org/techniques/alttext/).
 A [blog post when you are unsure between a caption and an alt text](https://thoughtbot.com/blog/alt-vs-figcaption)
  
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
@@ -142,7 +142,7 @@ Make sure you add links as a hyperlink to text within your document. This ‘anc
 >**And instead of**: To find out more, [click here](https://www.scottish-enterprise.com/learning-zone/business-guides).  
 >
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
@@ -154,7 +154,7 @@ The Microsoft word toolbar with the Check Accessibility functionality highlighte
 
 Good article about word document: [An Accessible Word Document Checklist](https://www.abrightclearweb.com/accessible-word-document-checklist/)
  
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
@@ -164,7 +164,7 @@ If you’re using Adobe Reader, go to Edit -> Accessibility -> Quick check. Th
 
 > You can also ask the digital team to help.
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
@@ -172,7 +172,7 @@ If you’re using Adobe Reader, go to Edit -> Accessibility -> Quick check. Th
 
 If you’re using tables, try to keep them simple and avoid merged or split cells.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="small">
  
@@ -181,7 +181,7 @@ If you’re using tables, try to keep them simple and avoid merged or split cell
 If you’re sharing graphs and charts, try to provide a written version of the same information as well. This could be in a table or as written descriptions.  
 [Key Considerations for Flowchart Accessibility](https://mn.gov/mnit/media/blog/?id=38-436349) - Note that this link will ask you to confirm you're not a robot before going to the correct page
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="small">
 
@@ -189,7 +189,7 @@ If you’re sharing graphs and charts, try to provide a written version of the s
 
 It’s likely that you’ll sometimes need to create more complex documents than a Word document or PDF. As much as possible, follow the same accessibility guidelines – use simple language, mark headings properly, use good colour contrast and add alt text.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="small">
  
@@ -199,7 +199,7 @@ We all process and understand information in different ways, and it’s fine to 
 
 A simple flowchart could be written out in steps. An organisation chart can be broken down using bullets and sub bullets. All the notes and comments left in an interactive space could be summarised in a word document or simple table.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="big">
 
@@ -219,7 +219,7 @@ Easy read is often also preferred by readers without learning disabilities, as i
 - [Introduction to Universal Credit](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944658/introduction-to-universal-credit-easy-read-guide.pdf) - PDF
 - [Get help from Access to Work: easy read](https://www.gov.uk/government/publications/easy-read-get-help-at-work-if-youre-disabled-or-have-a-health-condition-access-to-work/get-help-from-access-to-work-easy-read) by the DWP
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="big">
 
@@ -238,7 +238,7 @@ Large print versions of publications are essential for some disabled people, for
 
 > If you are producing information in large print for an individual, ask which size best suits their needs. They might also benefit from specific colours and contrast between the text and the background, so do ask.
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="big">
 
@@ -246,7 +246,7 @@ Large print versions of publications are essential for some disabled people, for
 
 To test how your documents would work with a screen reader, you can download one yourself and try it out. We’d recommend [Non-Visual Desktop Access (NVDA)](https://www.nvaccess.org/). 
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
  
  <hr class="big">
 
@@ -273,7 +273,7 @@ This will also be used by many people who are not native speakers, or are in a n
 1. a narrator describes all the visual information
 2. add a separate audio track that describes the visual information
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 <hr class="big">
 
@@ -286,7 +286,7 @@ This will also be used by many people who are not native speakers, or are in a n
 - [Presentations - Readability Guidelines](https://readabilityguidelines.co.uk/audiences-devices-channels/presentations/) - by Content Design London
 - [Make your PowerPoint presentations accessible to people with disabilities](https://support.microsoft.com/en-gb/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-us&rs=en-gb&ad=gb) - Microsoft support
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<div>Last updated: {{site.time | date_to_string}}</div>

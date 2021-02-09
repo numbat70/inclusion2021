@@ -106,7 +106,7 @@ People might be distracted, doing something else or not understand it the way yo
 **10. Do nothing**
 Neurodiverse people are often seen as a challenge or a problem, but treating them normally makes them feel included.
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Further reading about Neurodiversity
 - [What is neurodiversity and why should you care about it?](https://www.bangkokpost.com/life/social-and-lifestyle/1971675/what-is-neurodiversity-and-why-should-you-care-about-it-)
@@ -139,7 +139,7 @@ A shorter video:
 - [View the GOV UK poster on designing for users on the autistic spectrum](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/autistic-spectrum.png)
 - A personal point of view: [Am I disabled? - What does it mean to consider yourself a disabled person](https://aeon.co/essays/what-does-it-mean-to-consider-yourself-a-disabled-person) - by Joanne Limburg
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 
 ### ADHD (Attention Decificit Hyperactivity Disorder)
@@ -168,7 +168,7 @@ This talk about ADHD in women could be of interest. A word of caution: In it, Ra
 More talks about ADHD during [Camp ADHD on the 16/01/21 are available on Youtube](https://www.youtube.com/channel/UCsmRK5lDBhGl0aZVre7MwMg). 
 
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Dyslexia
 
@@ -182,7 +182,7 @@ More talks about ADHD during [Camp ADHD on the 16/01/21 are available on Youtube
 
 <blockquote class="red"><p>work in progress - need to take tips out of the documents above to make a summary</p></blockquote>
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 
 ### Dyspraxia
@@ -201,7 +201,7 @@ Giving specific sequences and steps for task to follow can help.
 
 A good article to understand how living with dyspraxia can be: [A Disability That Does Not Count](https://humanparts.medium.com/a-disability-that-does-not-count-656b5e95e6c1) by Ronan J. O'Shea
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Face blindness
 
@@ -211,7 +211,7 @@ Prosopagnosia – or face blindness – could affect as many as 2% of the UK pop
 - [
 My face blindness is embarrassing – but it tells me a lot about other people](https://www.theguardian.com/lifeandstyle/2020/aug/30/my-face-blindness-is-embarrassing-but-it-tells-me-a-lot-about-other-people) - Another article from the Guardian
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Blindness and visual impairments
 
@@ -244,7 +244,7 @@ There are varying degrees of blindness and the legal definition can vary from co
 #### App and tech which can help blind people
 [BBC Digital planet Podcast episode](https://www.bbc.co.uk/programmes/w3csz994)
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 
 ### Partially sighted
@@ -266,7 +266,7 @@ This covers a wide range of sight issues, from extreme long or short sightedness
 
 [View the GOV UK poster on designing for users with low vision](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/visually-impaired-low-vision.png) 
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Colour blindness
 
@@ -282,7 +282,7 @@ There are various types:
 > - Making sure all text, buttons and other elements use strong colour contrast 
 > - Avoiding relying on colour alone to convey meaning 
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Deaf and hearing impairments
 
@@ -314,7 +314,7 @@ Just like blindness, deafness comes in varying degrees, and people who are legal
 - [Learning about designing services for deaf / Deaf people](https://medium.com/@vickytnz/learning-about-designing-services-for-deaf-deaf-people-18cc6a7a6f91) - Medium article by Vicky Teinaki
 - [You Talk Real Good](https://longreads.com/2019/10/21/you-talk-real-good/amp/) - Essay by Alison Stine about being Deaf
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Motricity impairments
 
@@ -342,7 +342,7 @@ All these assistive technologies can be expensive and create extra issues when u
 **Todd Stabelfeldt is quadriplegic**. He has a  [Youtube channel](https://www.youtube.com/channel/UCxQnKCHB9_9BXBY13he_LMA) where you can see him using tech. Below  is a video where he did a **Switch control demo at an Apple event**.
 <iframe title="Todd doing an iOS Switch Control Demo" width="560" height="315" src="https://www.youtube.com/embed/kj9UodcwIes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 
 ## Cognitive impairments
@@ -358,7 +358,7 @@ More on this:
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://developer.paciellogroup.com/blog/2018/08/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/) - by the Paciello group
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://developer.paciellogroup.com/blog/2018/11/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/) - by the Paciello group
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Speech impairments
 
@@ -372,7 +372,7 @@ In addition to children and adults with communication and learning difficulties 
 
 [Learn more about Makaton](https://makaton.org/TMC/)
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Learning disabilities
 
@@ -380,7 +380,7 @@ In addition to children and adults with communication and learning difficulties 
 
 Easy read format can help: [see the section about it](/inclusion/accessibility/document#easy-read-version) - See also [Makaton](#makaton).
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Invisible disabilities
 
@@ -476,13 +476,13 @@ You can get involved, [they provide material on their website](https://www.notev
 
 [New blue badge rules to benefit people with hidden disabilities](https://www.theguardian.com/society/2018/jan/21/new-blue-badge-parking-permit-rules-benefit-people-autism-dementia-hidden-disabilities) – the Guardian
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Mental Health
 
 <blockquote class="red"><p>work in progress - more to come</p></blockquote>
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<div>Last updated: {{site.time | date_to_string}}</div>

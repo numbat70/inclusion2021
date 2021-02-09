@@ -24,6 +24,6 @@ This group has the goal to support colleagues across the broad spectrum of diver
 
 [more to come]
 
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<div>Last updated: {{site.time | date_to_string}}</div>
 
 

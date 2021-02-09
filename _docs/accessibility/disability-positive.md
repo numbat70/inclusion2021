@@ -18,4 +18,4 @@ This group has a focus on creating an accessible and inclusive organisation wher
 
 This [list of Disability awareness dates](https://businessdisabilityforum.org.uk/media-centre/disability-awareness-dates/) will be useful to create events all year round.
 
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<div>Last updated: {{site.time | date_to_string}}</div>

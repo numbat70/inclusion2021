@@ -82,4 +82,4 @@ It was addressed in the video above. This in an interesting concept. The idea is
 - [Inclusive language - Writing for and about people in a way that is inclusive and respectful.](https://service-manual.nhs.uk/content/inclusive-language) - By the NHS
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<div>Last updated: {{site.time | date_to_string}}</div>

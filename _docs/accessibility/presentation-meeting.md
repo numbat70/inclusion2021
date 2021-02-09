@@ -51,7 +51,7 @@ It’s important to make sure your presentations, meetings, webinars and events 
 <p>You could provide contact details to get in touch with you, or build it into the booking process (similar to how many booking services let participants add dietary requirements). You could also allow people to respond anonymously to an online survey.</p>
 </blockquote>
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Share materials ahead of the session 
 
@@ -59,7 +59,7 @@ Sending the presentation and any other relevant materials to your audience befor
 
 It can also help give people with cognitive disabilities more time to read through and familiarise themselves with the content of the presentation.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## During the event
 
@@ -67,14 +67,14 @@ It can also help give people with cognitive disabilities more time to read throu
 
 This isn’t just helpful for people who couldn’t attend the live session. It also means participants can re-watch the session if there was something they missed or didn’t understand. 
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 
 ### Add captions and transcripts 
 
 Using live captions or BSL interpreters means more users can join in the live session – which is important if there’s interactive elements or opportunities to ask questions. If this isn’t possible, you should always at least add captions to the recording of the session. Creating a transcript of the session can also be useful.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Learn how to use your tools well 
 
@@ -87,13 +87,13 @@ For internal communication we use **Microsoft Teams**. They’ve provided a list
 
 West Dunbartonshire Council created lots of [tutorials for MS Teams, check their YouTube channel](https://www.youtube.com/playlist?list=PLp7Bmk8icyXIubvSA_ncKqaWnrP_45AYw)
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## The presentation 
 
 A presentation is usually involved in some form during most meetings, virtual events and physical events. How you deliver the presentation is important, but so is the formatting of the presentation itself.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 
 ### Use large font sizes 
@@ -102,7 +102,7 @@ Presentations are often smaller when you share your screen than they would be on
 
 > We suggest a minimum font size of 36.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Reduce the amount of text 
 
@@ -110,13 +110,13 @@ It’s tempting to overload your slides with information, but it’s often count
 
 Instead, keep the text on slides to a minimum, or consider splitting text across more than one slide.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Colours and contrasts 
 
 Make sure the text colour you’re using contrasts well with the background of your presentation. Tools such as Tanaguru contrast finder can help you check. 
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 
 ### During the presentation 
@@ -129,14 +129,14 @@ If your participants are using video, it’s also good to describe any reactions
 
 If an audience member asks a question in the chat, make sure to read out the question before you answer.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 
 #### Use good lighting  
 
 Make sure you’re presenting in a well-lit room so that participants who need to lip read can see you clearly.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 #### Speak slowly and clearly 
 
@@ -146,13 +146,13 @@ Your audience may include people with hearing impairments or cognitive impairmen
 
 It’s also a good idea to pause in between slides. This lets your audience process what you’ve just said and read what’s on the next slide.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 #### Plan breaks 
 
 If your session is longer than an hour, you should factor in short breaks. As well as providing a chance for participants to take a bathroom break, get a drink or even just move about, it also reduces cognitive load for users who may feel overwhelmed. It gives a chance to process the information that’s been shared and finish taking notes.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 #### Managing questions and participation  
 
@@ -164,13 +164,13 @@ Don’t pressure users to turn their cameras on or ask questions out loud. Alway
 > 
 > **Make sure each participant has a way to take part to the discussion and ask questions whatever their abilities**
  
- [**Back to top**]()
+ <a href="#" class="button">Back to top</a>
 
 ## Making physical events accessible  
 
 If you’re running a physical event or workshop, you should still follow any applicable guidelines on this page. If you’re using a presentation, make sure it uses a large font and isn’t over-crowded with text. Speak clearly, describe visual elements out loud and plan plenty of breaks. However, there are a few additional considerations you’ll need to remember when hosting a physical event.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Physical access 
 
@@ -188,7 +188,7 @@ When you host an event in a physical location rather than a virtual space, there
 
 > **[Euan's guide can help you find an accessible venue](https://www.euansguide.com/)**
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Communicate accessibility to your audience 
 
@@ -200,7 +200,7 @@ It’s also good to let people know if food and drink is allowed in the venue, a
 
 > When something is not available (no disabled toilets for example) do tell your participants ahead. They might still be able to attend and make their own arrangement. 
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ### Recording, captions and translators 
 
@@ -208,20 +208,20 @@ Try to record as much of the event as possible, especially key parts like speake
 
 If possible, try to provide a live captioning service or BSL interpreter on the day of the event. This means more people can get involved on the day instead of having to catch up afterwards.  
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## After the event
 
 Ask for honest feedback. What worked well and what didn't. That way you can improve the next event.
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Further reading
 
 - [Why terms like ‘fully accessible’ don’t help disabled people](https://www.carrieannlightley.com/post/why-terms-like-fully-accessible-don-t-help-disabled-people) (Carrie-Ann Lightley)
 - [Running Accessible Meetings and Events](https://medium.com/age-of-awareness/running-accessible-meetings-and-events-5efcd9c4a3df) (Sheri Byrne-Haber)
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<div>Last updated: {{site.time | date_to_string}}</div>

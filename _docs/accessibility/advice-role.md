@@ -43,7 +43,7 @@ You will find information about:
 - [A blog post about how to create an Easy read format](https://accessibility.blog.gov.uk/2019/10/11/how-dwp-used-the-easy-read-format-to-make-its-content-more-accessible/) - GOV.UK blog post from the DWP 
 - [DWP guidance for Content designers](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer)
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Doing research 
 
@@ -64,19 +64,19 @@ This poster is a [resource from the Home Office Digital](https://github.com/UKHo
 - [Inclusive Research](https://www.dropbox.com/s/6iy7waa7lsbvffi/InclusiveResearch%20UCD%20Gathering.pdf?dl=0) - big PDF in Dropbox
 
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Organising an event
 
 > Check the section [Presentations, meetings, events](/inclusion/accessibility/presentation-meeting)
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Designing a website
 
 > This will be addressed on the website for the Scottish Enterprise - Design System guidance. The website is not ready yet but should be in Early 2021
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 ## Testing a website
 
@@ -98,8 +98,8 @@ This video of a talk by Alistair Duggin gives a really good view of all the aspe
 <iframe width="560" height="315" title="Accessibility testing: tips to succeed by Alistair Duggin" src="https://www.youtube.com/embed/u1R7QXEzsYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[**Back to top**]()
+<a href="#" class="button">Back to top</a>
 
 
 {% include feedback.html %}
-<div>Last updated: {{site.time | date_to_string}} - <a href="#"><strong>Back to top</strong></a></div>
+<div>Last updated: {{site.time | date_to_string}}</div>
