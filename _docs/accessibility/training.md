@@ -46,7 +46,8 @@ order: 10
 
 [ will add some resources to try them for yourself]
 
-
 {% include feedback.html %}
 <br>
+<a href="#" class="button">Back to top</a>
+
 <div>Last updated: {{site.time | date_to_string}}</div>

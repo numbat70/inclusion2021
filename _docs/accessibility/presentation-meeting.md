@@ -224,6 +224,7 @@ If possible, try to provide a live captioning service or BSL interpreter on the 
 
 Ask for honest feedback. What worked well and what didn't. That way you can improve the next event.
 
+<hr class="big">
 
 ## Further reading
 

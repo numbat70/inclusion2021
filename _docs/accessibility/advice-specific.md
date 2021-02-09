@@ -59,12 +59,12 @@ Talk from [**Rachel Morgan-Trimmer**](https://sparkleclass.com/)'s Workshop: Wha
 <details>
 <summary>Simple tips</summary>
 <ol>
-<li><strong>Tell people what to expect</strong><br>
+<li style="border-bottom: solid 1px #F2CA27"><strong>Tell people what to expect</strong><br>
 Whether it’s a meeting, an event, a webinar or an application on a website: Tell them when it will start, if there will be a break, how long it will last, who will take part, what is expected of them.
 <br><br>
 Provide some practical information: are toilets available? is there a quiet room, any documents they might need to bring for example.</li>
 
-<li><strong>Remember that they don’t have your knowledge</strong><br>
+<li style="border-bottom: solid 1px #F2CA27"><strong>Remember that they don’t have your knowledge</strong><br>
     They might:
       <ul>
         <li>not see things the way you do</li>
@@ -73,19 +73,19 @@ Provide some practical information: are toilets available? is there a quiet room
       </ul>
 Be clear, use plain English, explain acronyms and terms, make sure people know they can ask if they don’t understand a term.</li>
 
-<li><strong>Use pictures</strong><br>
+<li style="border-bottom: solid 1px #F2CA27"><strong>Use pictures</strong><br>
 Use images to support your text.<br>
 <br>
 For example, add a photo of your building entrance on your website so when people come and visit for the first time, they recognise it and are confident this is the right place.<br>
 <br>
 Good visuals will make your information more memorable, and will help support people’s attention.</li>
 
-<li><strong>Use fewer words and use simple sentences and bullet points</strong><br>
+<li style="border-bottom: solid 1px #F2CA27"><strong>Use fewer words and use simple sentences and bullet points</strong><br>
 Only give people what is relevant to them at the right time.<br>
 <br>
 Dont create a wall of text.</li>
 
-<li><strong>Have a clear presentation</strong><br>
+<li style="border-bottom: solid 1px #F2CA27"><strong>Have a clear presentation</strong><br>
   <ul>
     <li>align text to the left</li>
     <li>don’t justify your text</li>
@@ -97,19 +97,19 @@ Dont create a wall of text.</li>
     <li>leave enough space between lines</li>
   </ul>
   </li>
-<li><strong>Listen properly</strong><br>
+<li style="border-bottom: solid 1px #F2CA27"><strong>Listen properly</strong><br>
 Sometime, neurodiverse people don’t speak with enough intention so you might not realise something they told you is really important to them. So listen carefully.</li>
 
-<li><strong>People might not know what they need</strong><br>
+<li style="border-bottom: solid 1px #F2CA27"><strong>People might not know what they need</strong><br>
 By asking them what they need (sitting at the front or at the back, having a break now or later etc…) you force them to actually think about what they need and to communicate it to you.</li>
 
-<li><strong>Remember that how you create your information is not necessarely how it will be received</strong><br>
+<li style="border-bottom: solid 1px #F2CA27"><strong>Remember that how you create your information is not necessarely how it will be received</strong><br>
 People might be distracted, doing something else or not understand it the way you intented to.</li>
 
-<li><strong>People might be hiding their condition or needs</strong><br>
+<li style="border-bottom: solid 1px #F2CA27"><strong>People might be hiding their condition or needs</strong><br>
 … and be very good at it as they have done it for years!</li>
 
-*<li><strong>Do nothing</strong><br>
+<li style="border-bottom: solid 1px #F2CA27"><strong>Do nothing</strong><br>
 Neurodiverse people are often seen as a challenge or a problem, but treating them normally makes them feel included.</li>
 </ol>
 </details>
