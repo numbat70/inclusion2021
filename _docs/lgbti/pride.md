@@ -22,8 +22,6 @@ This group has the goal to support colleagues across the broad spectrum of diver
 - [Elliot Page, Oscar-nominated star of Umbrella Academy, speaks out about being transgender](https://www.glaad.org/blog/elliot-page-oscar-nominated-star-umbrella-academy-speaks-out-about-being-transgender)
 
 
-[more to come]
-
 <div>Last updated: {{site.time | date_to_string}}</div>
 
 

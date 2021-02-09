@@ -13,6 +13,8 @@ Depending on your role, there are some specific things you need to make sure you
 - [Designing a website](#designing-a-website)
 - [Testing a website](#testing-a-website)
 
+<hr class="big">
+
 ## Creating content for others 
 
 <blockquote class="red"><p>We will have a section about this in the SE Design System showcase website, but it's not ready yet</p></blockquote>
@@ -45,6 +47,8 @@ You will find information about:
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="big">
+
 ## Doing research 
 
 <blockquote class="red"><p>Work in progress - general guidance for people who do research with people, not only for the User Researchers from the Digital Team</p>
@@ -63,20 +67,21 @@ This poster is a [resource from the Home Office Digital](https://github.com/UKHo
 - [Redesigning Design](https://blogs.gov.scot/digital/2018/12/17/redesigning-design/) - Blog post by the Scottish Government
 - [Inclusive Research](https://www.dropbox.com/s/6iy7waa7lsbvffi/InclusiveResearch%20UCD%20Gathering.pdf?dl=0) - big PDF in Dropbox
 
-
 <a href="#" class="button">Back to top</a>
+
+<hr class="big">
 
 ## Organising an event
 
 > Check the section [Presentations, meetings, events](/inclusion/accessibility/presentation-meeting)
 
-<a href="#" class="button">Back to top</a>
+<hr class="big">
 
 ## Designing a website
 
 > This will be addressed on the website for the Scottish Enterprise - Design System guidance. The website is not ready yet but should be in Early 2021
 
-<a href="#" class="button">Back to top</a>
+<hr class="big">
 
 ## Testing a website
 
@@ -98,8 +103,8 @@ This video of a talk by Alistair Duggin gives a really good view of all the aspe
 <iframe width="560" height="315" title="Accessibility testing: tips to succeed by Alistair Duggin" src="https://www.youtube.com/embed/u1R7QXEzsYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+{% include feedback.html %}
+<br>
 <a href="#" class="button">Back to top</a>
 
-
-{% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>

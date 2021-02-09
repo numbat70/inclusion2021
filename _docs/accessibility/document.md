@@ -270,8 +270,7 @@ This will also be used by many people who are not native speakers, or are in a n
 - [Make your PowerPoint presentations accessible to people with disabilities](https://support.microsoft.com/en-gb/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-us&rs=en-gb&ad=gb) - Microsoft support
 
 {% include feedback.html %}
-
+<br>
 <a href="#" class="button">Back to top</a>
 
-<br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>

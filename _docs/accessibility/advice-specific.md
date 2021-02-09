@@ -28,11 +28,13 @@ These [posters from the Home Office Digital](https://github.com/UKHomeOffice/pos
 
 ![collage of 8 posters from the Home Office showing we you should do / don't do regarding designing for deaf or hard of hearing, users on the autistic spectrum, dyslexia, anxiety, physical or motor disabilities, low vision, or screen readers ](/inclusion/accessibility/files/do-dont.png)
 
+<hr class="big">
+
 ## Neurodiversity
 
 Neurodiversity is an umbrella term that describes a wide range of conditions affecting how the brain works. Neurodiverse conditions can be complex, usually occur along a spectrum, and can interlink. Examples of neurodiversity include autism, attention deficit/hyperactivity disorder (ADHD), dyslexia, dyspraxia, dyscalculia, dysgraphia and Tourette syndrome.  
 
-Neurodiverse people may experience a range of cognitive impairments, including: 
+<p style="margin-bottom: 0">Neurodiverse people may experience a range of cognitive impairments, including: </p>
 - Not understanding or processing information the same way you do 
 - Memory loss – for example, struggling to remember information they’ve just been given 
 - Difficulty reading and understanding written language 
@@ -54,64 +56,74 @@ However, anyone can experience cognitive impairments – for example, as a resul
 Talk from [**Rachel Morgan-Trimmer**](https://sparkleclass.com/)'s Workshop: What is neurodiversity and why should you care about it?
 <iframe title="Workshop: What is neurodiversity and why should you care about it?" width="624" height="468" src="https://www.youtube.com/embed/HdrbrHVD11I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Simple tips
-
-**1. Tell people what to expect**
+<details>
+<summary>Simple tips<summary>
+<ol>
+<li><strong>Tell people what to expect<strong><br>
 Whether it’s a meeting, an event, a webinar or an application on a website: Tell them when it will start, if there will be a break, how long it will last, who will take part, what is expected of them.
+<br><br>
+Provide some practical information: are toilets available? is there a quiet room, any documents they might need to bring for example.</li>
 
-Provide some practical information: are toilets available? is there a quiet room, any documents they might need to bring for example.
+<li><strong>Remember that they don’t have your knowledge<strong><br>
+    They might:
+      <ul>
+        <li>not see things the way you do</li>
+        <li>understand some terms differently</li>
+        <li>not understand your jargon</li>
+      <ul>
+Be clear, use plain English, explain acronyms and terms, make sure people know they can ask if they don’t understand a term.</li>
 
-**2. Remember that they don’t have your knowledge**
-They might:
-- not see things the way you do
-- understand some terms differently
-- not understand your jargon
+<li><strong>Use pictures<strong><br>
+Use images to support your text.<br>
+<br>
+For example, add a photo of your building entrance on your website so when people come and visit for the first time, they recognise it and are confident this is the right place.<br>
+<br>
+Good visuals will make your information more memorable, and will help support people’s attention.</li>
 
-Be clear, use plain English, explain acronyms and terms, make sure people know they can ask if they don’t understand a term.
+<li><strong>Use fewer words and use simple sentences and bullet points<strong><br>
+Only give people what is relevant to them at the right time.<br>
+<br>
+Dont create a wall of text.</li>
 
-**3. Use pictures**
-Use images to support your text.
+<li><strong>Have a clear presentation<strong><br>
+  <ul>
+    <li>align text to the left</li>
+    <li>don’t justify your text</li>
+    <li>be consistent</li>
+    <li>do not underline words (underline is for links)</li>
+    <li>don’t write in all caps, it’s harder to read as you lose the shape of the word (unless it’s an acronym or something people are used to, like GOV.UK, or ADHD for example)</li>
+    <li>use good contrast but not too bright</li>
+    <li>use simple colours</li>
+    <li>leave enough space between lines</li>
+  </ul>
+  </li>
+<li><strong>Listen properly<strong><br>
+Sometime, neurodiverse people don’t speak with enough intention so you might not realise something they told you is really important to them. So listen carefully.</li>
 
-For example, add a photo of your building entrance on your website so when people come and visit for the first time, they recognise it and are confident this is the right place.
+<li><strong>People might not know what they need<strong><br>
+By asking them what they need (sitting at the front or at the back, having a break now or later etc…) you force them to actually think about what they need and to communicate it to you.</li>
 
-Good visuals will make your information more memorable, and will help support people’s attention.
+<li><strong>Remember that how you create your information is not necessarely how it will be received<strong><br>
+People might be distracted, doing something else or not understand it the way you intented to.</li>
 
-**4. Use fewer words and use simple sentences and bullet points**
-Only give people what is relevant to them at the right time.
+<li><strong>People might be hiding their condition or needs<strong><br>
+… and be very good at it as they have done it for years!</li>
 
-Dont create a wall of text.
-
-**5. Have a clear presentation**
-- align text to the left
-- don’t justify your text
-- be consistent
-- do not underline words (underline is for links)
-- don’t write in all caps, it’s harder to read as you lose the shape of the word (unless it’s an acronym or something people are used to, like GOV.UK, or ADHD for example)
-- use good contrast but not too bright
-- use simple colours
-- leave enough space between lines
-
-**6. Listen properly**
-Sometime, neurodiverse people don’t speak with enough intention so you might not realise something they told you is really important to them. So listen carefully.
-
-**7. People might not know what they need**
-By asking them what they need (sitting at the front or at the back, having a break now or later etc…) you force them to actually think about what they need and to communicate it to you.
-
-**8. Remember that how you create your information is not necessarely how it will be received**
-People might be distracted, doing something else or not understand it the way you intented to.
-
-**9. People might be hiding their condition or needs**
-… and be very good at it as they have done it for years!
-
-**10. Do nothing**
-Neurodiverse people are often seen as a challenge or a problem, but treating them normally makes them feel included.
+*<li><strong>Do nothing</strong><br>
+Neurodiverse people are often seen as a challenge or a problem, but treating them normally makes them feel included.</li>
+</ol>
+</details>
 
 <a href="#" class="button">Back to top</a>
+
+<hr class="small">
 
 ### Further reading about Neurodiversity
 - [What is neurodiversity and why should you care about it?](https://www.bangkokpost.com/life/social-and-lifestyle/1971675/what-is-neurodiversity-and-why-should-you-care-about-it-)
 - [Outside the box: neurodiversity and the changing workplace](https://www.welcometothejungle.com/en/articles/neurodiversity-at-work)
 - [Accessible remote meeting guidelines - neurodivergent participants](https://www.ucl.ac.uk/equality-diversity-inclusion/committees-and-social-networks/neurodivergent-staff-network/accessible-remote-meeting-guidelines)
+
+<hr class="small">
 
 ### Autism
 
@@ -141,6 +153,7 @@ A shorter video:
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="small">
 
 ### ADHD (Attention Decificit Hyperactivity Disorder)
 
@@ -167,12 +180,11 @@ This talk about ADHD in women could be of interest. A word of caution: In it, Ra
 
 More talks about ADHD during [Camp ADHD on the 16/01/21 are available on Youtube](https://www.youtube.com/channel/UCsmRK5lDBhGl0aZVre7MwMg). 
 
-
 <a href="#" class="button">Back to top</a>
 
+<hr class="small">
+
 ### Dyslexia
-
-
 
 - good resource of videos to explain the wide range of aspects of Dyslexia: [Dyslexia Bytes](https://www.youtube.com/c/DyslexiaBytes/videos)
 - [Dyslexia and Working from Home](/inclusion/accessibility/files/Dyslexia-and-Working-from-Home.pdf) - PDF by British Dyslexia Association
@@ -183,6 +195,8 @@ More talks about ADHD during [Camp ADHD on the 16/01/21 are available on Youtube
 <blockquote class="red"><p>work in progress - need to take tips out of the documents above to make a summary</p></blockquote>
 
 <a href="#" class="button">Back to top</a>
+
+<hr class="small">
 
 
 ### Dyspraxia
@@ -203,6 +217,8 @@ A good article to understand how living with dyspraxia can be: [A Disability Tha
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="small">
+
 ### Face blindness
 
 Prosopagnosia – or face blindness – could affect as many as 2% of the UK population, and its symptoms can even lead to it being mistaken for autism.
@@ -212,6 +228,9 @@ Prosopagnosia – or face blindness – could affect as many as 2% of the UK pop
 My face blindness is embarrassing – but it tells me a lot about other people](https://www.theguardian.com/lifeandstyle/2020/aug/30/my-face-blindness-is-embarrassing-but-it-tells-me-a-lot-about-other-people) - Another article from the Guardian
 
 <a href="#" class="button">Back to top</a>
+
+<hr class="big">
+
 
 ## Blindness and visual impairments
 
@@ -228,6 +247,8 @@ There are varying degrees of blindness and the legal definition can vary from co
 > - Avoid using directional language like ‘the navigation on the left side of the page’  
 
 [View the GOV UK poster on designing for users who use screen readers](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/visually-impaired-screenreader.png)
+
+<hr class="small">
 
 #### How these blind women use tech:
 <iframe title="How these blind women use tech" width="560" height="315" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -246,6 +267,7 @@ There are varying degrees of blindness and the legal definition can vary from co
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="small">
 
 ### Partially sighted
 
@@ -268,11 +290,13 @@ This covers a wide range of sight issues, from extreme long or short sightedness
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="small">
+
 ### Colour blindness
 
 Some people with colour blindness won’t find any effect on their ability to use websites. It's sometimes called being "colour blind", although total colour blindness (an inability to see any colour) is very rare. Some may struggle to read text or see images if contrast is not high enough. And some may use additional software like Color Enhancer to change the colours on a site.  
 
-There are various types:
+<p style="margin-bottom: 0">There are various types:</p>
 -	Deuteranomaly: reduce sensitivity to green
 -	Protanopia: reduce sensitivity to red
 -	Tritanopia: reduce sensitivity to blue
@@ -283,6 +307,8 @@ There are various types:
 > - Avoiding relying on colour alone to convey meaning 
 
 <a href="#" class="button">Back to top</a>
+
+<hr class="big">
 
 ## Deaf and hearing impairments
 
@@ -297,6 +323,8 @@ Just like blindness, deafness comes in varying degrees, and people who are legal
 
 [View the GOV UK poster on designing for users who are Deaf or hard of hearing ](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/deaf-and-hard-of-hearing.png)
 
+<hr class="small">
+
 ### Advice about how to talk with someone, when there is also a BSL interpreter
 (from [this twitter thread](https://twitter.com/bjfletcher/status/1235947631932817408))
  <p>
@@ -307,6 +335,8 @@ Just like blindness, deafness comes in varying degrees, and people who are legal
 
 **Did you know:** American Sign Language is closer to the French Sign Language then the British one, because it was introduced there by French people! 
 
+<hr class="small">
+
 ### More resources:
 - [Congratulations, you’ve hired that Deaf job candidate, now what?](https://medium.com/@bgramer/congratulations-youve-hired-that-deaf-job-candidate-now-what-c505946a0458) - Medium article
 - [Understanding Assistive Technology: How Does a Deaf or Hard of Hearing Person Use Technology?](https://www.levelaccess.com/understanding-assistive-technology-how-does-a-deaf-or-hard-of-hearing-person-use-technology/) - by Level acess
@@ -315,6 +345,8 @@ Just like blindness, deafness comes in varying degrees, and people who are legal
 - [You Talk Real Good](https://longreads.com/2019/10/21/you-talk-real-good/amp/) - Essay by Alison Stine about being Deaf
 
 <a href="#" class="button">Back to top</a>
+
+<hr class="small">
 
 ## Motricity impairments
 
@@ -344,6 +376,7 @@ All these assistive technologies can be expensive and create extra issues when u
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="big">
 
 ## Cognitive impairments
 
@@ -353,16 +386,20 @@ Dyslexia, autism, anxiety, dementia, Alzheimer, dyscalculia and dyspraxia for ex
 
 This can affect the way you process information, your memory, your comprehension, your attention and the way you make decisions.
 
-More on this: 
+<p style="margin-bottom: 0">More on this:</p>
 - [An Introductory Guide to Understanding Cognitive Disabilities](https://www.deque.com/blog/an-introductory-guide-to-understanding-cognitive-disabilities/) - by Deque
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://developer.paciellogroup.com/blog/2018/08/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/) - by the Paciello group
 - [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://developer.paciellogroup.com/blog/2018/11/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/) - by the Paciello group
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="big">
+
 ## Speech impairments
 
 [How to speak when you don't have a voice](https://www.bbc.co.uk/ideas/videos/how-to-speak-when-you-dont-have-a-voice/p07693kc) - Video from the BBC. Some disabled people have no voice or are hard to understand. That doesn't mean they have nothing to say, explains filmmaker Jemima Hughes.
+
+<hr class="small">
 
 ### Makaton
 
@@ -374,6 +411,8 @@ In addition to children and adults with communication and learning difficulties 
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="big">
+
 ## Learning disabilities
 
 <blockquote class="red"><p>work in progress - more to come</p></blockquote>
@@ -382,6 +421,8 @@ Easy read format can help: [see the section about it](/inclusion/accessibility/d
 
 <a href="#" class="button">Back to top</a>
 
+<hr class="big">
+
 ## Invisible disabilities
 
 When you hear 'disability' you usually think: Wheelchair. But In the UK, 93–95% of people with disabilities are not wheelchair users.
@@ -389,6 +430,8 @@ When you hear 'disability' you usually think: Wheelchair. But In the UK, 93–95
 ![a cross and the wheelchair symbol visual with the message: 93% of people with disabilities don't use a wheelchair](/images/a11y/93visability.png)
 
 From [Visability93](https://www.visability93.com/)
+
+<hr class="small">
 
 ### What is an invisible disability?
 The [Invisible Disabilities Association](https://invisibledisabilities.org/what-is-an-invisible-disability/) says:
@@ -403,6 +446,8 @@ These can come from a wide range of conditions like Fibromyalgia, Crohn’s dise
 
 People with invisible disabilities regularly face problems in public places and at work because others don't realise there are some things they can't do.
 
+<hr class="small">
+
 ### The spoon theory
 When you live with a chronic disease, your energy is limited. You will have bad days and good days. You need to pace yourself and plan ahead what you will be able to do that day. The [Spoon Theory](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/) was created by Christine Miserandino to explain to a friend how it felt to live with Lupus, making one spoon an energy unit: If you are healthy, you start your day with an unlimited number of spoons, but if you're not, you might start your day with 15 spoons on a 'good day'. Every thing you do will take away some spoons, and when they are gone, you can't do anyhting until the next day. 
 
@@ -410,6 +455,8 @@ This video explains this quite well.
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/VFY81e396ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <blockquote class="info"><p><strong>The take away</strong>: don't assume someone can do something because they have done it the day before, they might be low on spoons...</p> </blockquote>
+
+<hr class="small">
 
 ### Public places: Priority seats in transports, accessible toilets and disabled parking spaces
 
@@ -420,10 +467,16 @@ It’s easy to find articles about people with invisible disabilities being trea
 
 [‘Being fat and ugly doesn’t count as disabled’ note left on a car: Why we need to raise awareness of invisible disabilities](https://metro.co.uk/2015/05/06/being-fat-and-ugly-isnt-a-disability-note-why-we-need-to-raise-awareness-of-invisible-disabilities-5182482/)
 
+<hr class="small">
+
 ### Some initiatives are trying to help
+
+<hr class="small">
 
 #### Blue badge
 The [Blue Badge scheme has been extended](https://www.gov.uk/government/news/people-with-hidden-disabilities-to-benefit-from-blue-badges) to hidden disabilities, including autism and mental health conditions.
+
+<hr class="small">
 
 #### In the transports
 For example, [Transport for London](https://tfl.gov.uk/transport-accessibility/please-offer-me-a-seat) created a badge and a card stating “Please offer me a seat”. You don’t have to prove you need it. It can empower some people to ask for a seat and if you’re lucky, someone might notice it and you might not even have to ask. But a lot of people using it seem to still feel judged or get weird looks.
@@ -445,6 +498,8 @@ Or [the initiative from the Heathrow airport](https://www.heathrow.com/at-the-ai
 
 [From Molly Watt's tweet](https://twitter.com/MollyWattTalks/status/1184080487406538755)
 
+<hr class="small">
+
 #### Toilets access
 [Crohn’s & Colitis UK](https://www.crohnsandcolitis.org.uk/news/not-every-disability-is-visible-campaign-targets-restaurants-and-pubs) has launched [Not Every Disability is Visible](https://www.noteverydisabilityisvisible.org.uk/about-the-campaign) inspired by campaigner Grace Warnock. They ask UK’s major supermarkets, restaurants, pubs and travel hubs to change their accessible toilet signs to highlight that Not Every Disability is Visible.
 
@@ -453,6 +508,8 @@ Or [the initiative from the Heathrow airport](https://www.heathrow.com/at-the-ai
 Photo from [their website](https://www.noteverydisabilityisvisible.org.uk/take-action)
 
 You can get involved, [they provide material on their website](https://www.noteverydisabilityisvisible.org.uk/take-action)
+
+<hr class="small">
 
 ### At work
 
@@ -464,25 +521,30 @@ You can get involved, [they provide material on their website](https://www.notev
   <p><strong>Don’t assume. Keep an open mind.</strong></p>
 </blockquote>
 
+<hr class="small">
+
 ### Why people often do not want to disclose they have an invisible disability?
 > “Knowing someone has a disability more often than not changes the way you perceive them. Whether the reaction is discriminatory or empathetic, this unwanted attention can make life feel suffocating. In being open about our disability, we unfortunately have to accept the reality that people will treat us differently.” — [Isabelle Jani-Friend](https://www.theguardian.com/commentisfree/2019/aug/09/disabilities-invisible-prove-stangers-disabled-services-illnesses)
 
 > “Most days, most places, I don’t want to tell. I don’t want to tell the driver or the scowling elderly passengers why I need a seat on the bus. I don’t want to explain that I’m not there to teach the yoga for disabilities class.” From [Coming Out as a Person With an Invisible Disability – by Hope R. Henderson](https://themighty.com/2017/12/coming-out-as-a-person-with-an-invisible-disability/)
 
+<hr class="small">
+
 ### More on the subject
-[Work and disability](https://www.nhs.uk/conditions/social-care-and-support-guide/money-work-and-benefits/work-and-disability/) – NHS
-
-[How do you define invisible disability?](https://invisibledisabilities.org/what-is-an-invisible-disability/) invisible disability definition – Invisibiledisabilities.org
-
-[New blue badge rules to benefit people with hidden disabilities](https://www.theguardian.com/society/2018/jan/21/new-blue-badge-parking-permit-rules-benefit-people-autism-dementia-hidden-disabilities) – the Guardian
+- [Work and disability](https://www.nhs.uk/conditions/social-care-and-support-guide/money-work-and-benefits/work-and-disability/) – NHS
+- [How do you define invisible disability?](https://invisibledisabilities.org/what-is-an-invisible-disability/) invisible disability definition – Invisibiledisabilities.org
+- [New blue badge rules to benefit people with hidden disabilities](https://www.theguardian.com/society/2018/jan/21/new-blue-badge-parking-permit-rules-benefit-people-autism-dementia-hidden-disabilities) – the Guardian
 
 <a href="#" class="button">Back to top</a>
+
+<hr class="big">
 
 ## Mental Health
 
 <blockquote class="red"><p>work in progress - more to come</p></blockquote>
 
+{% include feedback.html %}
+<br>
 <a href="#" class="button">Back to top</a>
 
-{% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>

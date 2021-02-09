@@ -49,8 +49,7 @@ Not everyone uses the social model and that’s ok. How anyone chooses to talk a
 
 
 {% include feedback.html %}
-
+<br>
 <a href="#" class="button">Back to top</a>
 
-<br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>

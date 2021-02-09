@@ -12,14 +12,19 @@ We hope to learn from each other and that companies with similar challenges can 
 
 > This is a very new initiative and we will tell you more once it really get started.
 
+<hr class="big">
 
 ## Accessiblity Manchester events
 
 This is a meetup group who has organised excellent online events in 2020. You can [follow them on twitter](https://twitter.com/a11ymcr). These two videos contains lots a great advices.
 
+<hr class="small">
+
 ### Accessibility Champions, from zero to hero
 
 <iframe title="Accessibility champions from zero to hero" width="560" height="315" src="https://www.youtube.com/embed/kpm_6opUBh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="small">
 
 ### Some advice from this video:
 
@@ -28,16 +33,18 @@ We could also have a place to share ideas, and ask for help - Yammer - Slack or 
 
 We need volunteers, and encourage them (they should not be 'volunteered'). We need to support them and train them initially.
 
-We could:
+<p style="margin-bottom: 0">We could:</p>
 - have a learner (future champion) pathway  
 - make this part of our development objectives  
 - have a percentage of your work time allocated to this
 - use our volunteer days in associations that support people with disabilities  
 
-**Raise awareness and keep the focus**
+<p style="margin-bottom: 0"><strong>Raise awareness and keep the focus</strong></p>
 - give talk across the business  
 - write guidance, case studies  
 - communicate the successes  
+
+<hr class="small">
 
 ### Nothing about us without us
 Challenging companies and assistive technologies to do better
@@ -47,4 +54,7 @@ Challenging companies and assistive technologies to do better
 [notes from the video to add here]
 
 {% include feedback.html %}
+<br>
+<a href="#" class="button">Back to top</a>
+<br>
 <div>Last updated: {{site.time | date_to_string}}</div>

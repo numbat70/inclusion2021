@@ -84,8 +84,7 @@ It was addressed in the video above. This in an interesting concept. The idea is
 - [Inclusive language - Writing for and about people in a way that is inclusive and respectful.](https://service-manual.nhs.uk/content/inclusive-language) - By the NHS
 
 {% include feedback.html %}
-
+<br>
 <a href="#" class="button">Back to top</a>
-
 <br>
 <div>Last updated: {{site.time | date_to_string}}</div>

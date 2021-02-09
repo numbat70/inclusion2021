@@ -230,7 +230,8 @@ Ask for honest feedback. What worked well and what didn't. That way you can impr
 - [Why terms like ‘fully accessible’ don’t help disabled people](https://www.carrieannlightley.com/post/why-terms-like-fully-accessible-don-t-help-disabled-people) (Carrie-Ann Lightley)
 - [Running Accessible Meetings and Events](https://medium.com/age-of-awareness/running-accessible-meetings-and-events-5efcd9c4a3df) (Sheri Byrne-Haber)
 
+{% include feedback.html %}
+<br>
 <a href="#" class="button">Back to top</a>
 
-{% include feedback.html %}
 <div>Last updated: {{site.time | date_to_string}}</div>

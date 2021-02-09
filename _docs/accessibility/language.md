@@ -50,6 +50,7 @@ When writing or speaking for Scottish Enterprise or our partners, we recommend u
 ## Language per condition
 
 There is a [more general section about advice for specific needs](/inclusion/accessibility/advice-specific/). Here, we are focusing on the language we use.
+
 ### Neurodiversity (including Autism, ADHD and dyslexia) 
 
 We recommend taking the 'identity first’ approach when talking about neurodiversity. However, there are some exceptions.  
@@ -64,7 +65,8 @@ We recommend taking the 'identity first’ approach when talking about neurodive
 You can also use the more general term, ‘neurodiverse people’, if you need to.  
 
 > [More information about neurodiversity](/inclusion/accessibility/advice-specific/#neurodiversity)
- 
+
+ <hr class="small">
 
 ### Cognitive impairments 
 
@@ -73,6 +75,8 @@ There can be a lot of overlap between neurodiversity and cognitive impairments. 
 We recommend saying ‘people with cognitive impairments’ as it’s simpler than ‘cognitively impaired people’.  
 
 > [More information about cognitive impairments](/inclusion/accessibility/advice-specific/#cognitive-impairments)
+
+ <hr class="small">
 
 ### Sight conditions 
 
@@ -88,6 +92,8 @@ Sight conditions can vary greatly, from blindness or partial sight, to colour bl
 
 > [More information about sight conditions](/inclusion/accessibility/advice-specific/#blindness-and-visual-impairments)
 
+ <hr class="small">
+
 ### Hearing loss 
 
 Just like sight conditions, hearing loss can vary from person to person. Some people may not be able to hear at all, while some may still have partial hearing in one or both ears. 
@@ -100,6 +106,7 @@ Just like sight conditions, hearing loss can vary from person to person. Some pe
 
 > [More information about hearing loss](/inclusion/accessibility/advice-specific/#deaf-and-hearing-impairments)
 
+ <hr class="small">
 
 ### Physical or motor disabilities 
 
@@ -137,6 +144,8 @@ If you’re looking for guidance around a specific disability, look for a local 
 - [Scottish Autism](https://www.scottishautism.org/)
 - [Down's Syndrome Association](https://www.downs-syndrome.org.uk/news/mum-launches-new-language-cards/)
 
+ <hr class="small">
+
 ### Some more personal point of views
 - [Whatever You Do Don’t Call Me Differently Abled.](https://medium.com/swlh/whatever-you-do-dont-call-me-differently-abled-d947ac029801) - Medium article by Elizabeth Wright
 - [Disability Pronouns](https://medium.com/age-of-awareness/disability-pronouns-bb7e04b890f3) - Medium article by Sheri Byrne-Habe
@@ -144,4 +153,8 @@ If you’re looking for guidance around a specific disability, look for a local 
 - [BBC Word of Mouth podcast episode: Talking Disability with Samantha Renke](https://www.bbc.co.uk/programmes/m000qy49)
 
 {% include feedback.html %}
+<br>
+
+<a href="#" class="button">Back to top</a>
+
 <div>Last updated: {{site.time | date_to_string}}</div>

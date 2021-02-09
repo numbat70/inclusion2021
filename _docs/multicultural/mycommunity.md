@@ -20,7 +20,6 @@ This group has a focus on creating an organisation which is inclusive of race, e
 - [Black History Month - SE October 2020 Calendar](/inclusion/multicultural/BHM-UK-October-Calendar.pdf) - PDF
 - [Human Library - Unjudge someone](https://humanlibrary.org/)
 
-[More to come]
 
 This [list of Disability awareness dates](https://businessdisabilityforum.org.uk/media-centre/disability-awareness-dates/) will be useful to create events all year round.
 
