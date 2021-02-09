@@ -14,30 +14,38 @@ We are gathering guidelines and resources in one place.
 There is a lot under the term 'diversity':
 ![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gender & sexuality, disability](/images/diversity.jpg)
 
+<hr class="big">
+
 ## The inclusion calendar for 2021
 
 Have a look at [the inclusion calendar for 2021](/images/CIPD-inclusion-calendar-2021.pdf) from the CIPD (Chartered Institute of Personnel and Development). This will be helpful to create events all year round. 
+
+<hr class="big">
 
 ## About being an ally
 
 This video is from Netflix as a workplace: "Your colleagues are not just your colleagues. They are also human beings that live in a complex world. Be curious, be empathetic, and be an ally"
 <iframe width="632" height="356" src="https://www.youtube.com/embed/0hJknn4NVBY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<hr class="big">
+
 ## Remote working as an opportunity
 Interesting video about **remote working and the opportunity for Inclusion**
 <iframe title="talk about remote working and the opportunity of inclusion"  width="560" height="315" src="https://www.youtube.com/embed/6K-22lQqolo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Gemma Mc Call is the host, Rachel Morgan-Trimmer is a Neurodiversity consultant, Leyla Okhai is a cultural awareness specialist and Janice Sutherland is a woman leadership expert.
+<details>
+<summary>Some insights from the video</summary>
+<ul>
+<li>Neurodiverse people can struggle with tread on social media, especially dyslexic people. Sequence do not always make sense to them</li>
+<li>Autistic people can struggle online has they have very little to go on to understand others online. They might also struggle to speak when not asked a specific question</li>
+<li>Asking what could help, can help autistic people to focus on their needs. They don't always realise how they feel and what they need</li>
+<li>'User manual for me' can explain what works for someone and what doesn't for them, what might create problems or anxiety (see below)</li>
+<li>Diversity Training is not everything, we need to look at what it means for our organisation and how to integrate it in everything (34min in the video), so for example for Health and Safety: can everyone access this information? can everyone understand it and does it work for them? May be we don't have wheelchair users or blind employee yet, but if we did? or a visitor? Would it work for them? What support do we have for care giver? For someone transitioning?</li>
+<li>Have a productive conversation with soemone (without being nosy) to see how you can support them in their role (43min in): what do you need? what do you have right now? is this enough / efficient? what can we do to make your working at home life balance better?</li>
+<li>Every bias you remove from the work place makes you more productive, the more diverse your workplace, the more innovative you are</li>
+</ul>
+</details>
 
-**Some insights from the video:**
-- Neurodiverse people can struggle with tread on social media, especially dyslexic people. Sequence do not always make sense to them
-- Autistic people can struggle online has they have very little to go on to understand others online. They might also struggle to speak when not asked a specific question
-- Asking what could help, can help autistic people to focus on their needs. They don't always realise how they feel and what they need
-- 'User manual for me' can explain what works for someone and what doesn't for them, what might create problems or anxiety (see below)
-- Diversity Training is not everything, we need to look at what it means for our organisation and how to integrate it in everything (34min in the video), so for example for Health and Safety: can everyone access this information? can everyone understand it and does it work for them? May be we don't have wheelchair users or blind employee yet, but if we did? or a visitor? Would it work for them? What support do we have for care giver? For someone transitioning?
-- Have a productive conversation with soemone (without being nosy) to see how you can support them in their role (43min in): what do you need? what do you have right now? is this enough / efficient? what can we do to make your working at home life balance better?
-- Every bias you remove from the work place makes you more productive, the more diverse your workplace, the more innovative you are
-
-[more coming soon]
 
 ### User manual for me
 It was addressed in the video above. This in an interesting concept. The idea is for an employee to give instructions about how best to interact with them. This can improve the collaboration between employees.
