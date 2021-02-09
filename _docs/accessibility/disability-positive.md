@@ -9,7 +9,6 @@ order: 2
 This group has a focus on creating an accessible and inclusive organisation where people of all abilities will want to work.
 
 <p style="margin=bottom: 0">Some of our goals:</p>
-
 - Accept people are different - knowing how to collaborate together
 - Resources to be in an accessible place for all colleagues
 - Views on future ways of working

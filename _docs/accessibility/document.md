@@ -24,6 +24,7 @@ order: 5
 - [Media files](#media-files)
 - [Further reading](#further-reading)
 
+<hr class="big">
 
 ## Summary of the main recommendations:
 
@@ -44,7 +45,7 @@ order: 5
   </ul>
 </blockquote>
 
-
+<hr class="big">
 
 ## PDF are not recommended
 
@@ -71,6 +72,8 @@ However, there may be situations where we can’t avoid publishing a document on
 > - Find it difficult to read or understand large amounts of text  
 
 [**Back to top**]()
+
+<hr class="big">
 
 ## Tips to make your documents accessible  
 
@@ -123,12 +126,13 @@ A [blog post when you are unsure between a caption and an alt text](https://thou
 Make sure you add links as a hyperlink to text within your document. This ‘anchor text’ should give the link context to help the user understand where it’s going – never use ‘click here’.  
 
 #### Example
-
-**Do this**: You’ll find more information about this in our [business guides section](https://www.scottish-enterprise.com/learning-zone/business-guides).  
-
-**Instead of**: You’ll find more information about this here: [https://www.scottish-enterprise.com/learning-zone/business-guides/](https://www.scottish-enterprise.com/learning-zone/business-guides)  
-
-**And instead of**: To find out more, [click here](https://www.scottish-enterprise.com/learning-zone/business-guides).  
+>
+>**Do this**: You’ll find more information about this in our [business guides section](https://www.scottish-enterprise.com/learning-zone/business-guides).  
+>
+>**Instead of**: You’ll find more information about this here: [https://www.scottish-enterprise.com/learning-zone/business-guides/](https://www.scottish-enterprise.com/learning-zone/business-guides)  
+>
+>**And instead of**: To find out more, [click here](https://www.scottish-enterprise.com/learning-zone/business-guides).  
+>
 
 [**Back to top**]()
 
@@ -177,6 +181,8 @@ A simple flowchart could be written out in steps. An organisation chart can be b
 
 [**Back to top**]()
 
+<hr class="big">
+
 ## Easy read version
 
 The easy read format was created to help people with learning disabilities understand information easily.
@@ -192,6 +198,8 @@ Easy read is often also preferred by readers without learning disabilities, as i
 - [Get help from Access to Work: easy read](https://www.gov.uk/government/publications/easy-read-get-help-at-work-if-youre-disabled-or-have-a-health-condition-access-to-work/get-help-from-access-to-work-easy-read) by the DWP
 
 [**Back to top**]()
+
+<hr class="big">
 
 ## Large print
 
@@ -210,7 +218,7 @@ Large print versions of publications are essential for some disabled people, for
 
 [**Back to top**]()
 
-
+<hr class="big">
    
 ## Try a screen reader for yourself   
 
@@ -218,14 +226,15 @@ To test how your documents would work with a screen reader, you can download one
 
 [**Back to top**]()
  
+ <hr class="big">
+
 ## Media files
 
 You need to provide an alternative for people who can’t hear or see.
 
 Videos with audio require captions synchronised with the audio track. Everything said in the video should be included in the captions. It should  include names, sounds and descriptions.
 
-**2 types of captions:**
-
+<p style="margin=bottom: 0"><strong>2 types of captions:</strong></p>
 - **Open caption**: is embedded into the video itself, and cannot be turned off
 - **Closed captioning**: can be turned on and off
 
@@ -233,18 +242,18 @@ Videos with audio require captions synchronised with the audio track. Everything
 
 This will also be used by many people who are not native speakers, or are in a noisy environment or don’t want others to hear what they are watching for example.
 
-Ideally, **provide a transcript** of your media, so people can either read it or use a screen reader to hear it. 
-
+<p style="margin=bottom: 0">Ideally, <strong>provide a transcript</strrong> of your media, so people can either read it or use a screen reader to hear it:</p>
 - allow people to scan the content and see if they want to engage with it 
 - can be searched by people and search engines so better for SEO (Search Engine Optimisation)
 
 
-**Audio descriptions** speak out what is happening in the video so that it’s accessible to people with low vision. There are two ways to create audio descriptions:
-
+<p style="margin=bottom: 0"><strong>Audio descriptions</strong> speak out what is happening in the video so that it’s accessible to people with low vision. There are two ways to create audio descriptions:</p>
 1. a narrator describes all the visual information
 2. add a separate audio track that describes the visual information
 
 [**Back to top**]()
+
+<hr class="big">
 
 ## Further reading: 
 - [GOV.UK - Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats)

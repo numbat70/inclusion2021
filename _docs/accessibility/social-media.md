@@ -12,7 +12,7 @@ order: 4
 To reach your audience, you need to do better to make sure everyone can access your posts on social media. 
 
 <blockquote class="info">
-  <p>Main recommendations:</p>
+  <p style="margin=bottom: 0">Main recommendations:</p>
   <ul>
     <li><a href="#write-clearly-and-use-plain-english">be clear</a></li>
     <li><a href="#alt-text">use alt text</a></li>
@@ -24,16 +24,20 @@ To reach your audience, you need to do better to make sure everyone can access y
  </ul>
 </blockquote>
 
+<hr class="big">
+
 ## Write clearly and use plain English 
 
 Use plain English like you would with any other content for our services. Avoid jargon and use clear, simple language.  
 
 If you’re creating a longer post on platforms like Facebook or LinkedIn, you should use line breaks to break up your text.  
 
+<hr class="big">
+
 ## Alt text
 All pictures (including diagrams) should have an Alt text (alternative text)  so users with screen readers know what the image is and get the same level of information as users who can see the image. 
 
-Here how to do this on:
+<p style="margin=bottom: 0">Here how to do this on:</p>
 - [Twitter](https://help.twitter.com/en/using-twitter/picture-descriptions)
 - [LinkedIn](https://www.linkedin.com/help/linkedin/answer/109799)
 - [Facebook](https://www.facebook.com/help/214124458607871)
@@ -43,6 +47,8 @@ Not all platforms let you add alt text to a gif. If you can’t add proper alt t
 How to do it if you are [using HootSuite](https://help.hootsuite.com/hc/en-us/articles/204586000-Attach-images-to-messages#3)
 
 A good link to [understand more about alt text](https://axesslab.com/alt-texts/) and how to do a good one. And a [longer guidance here](https://webaim.org/techniques/alttext/).
+
+<hr class="big">
 
 ## Capitalise hashtags
 Capitalising the first letter of each words on hashtags improves readability for people using screen readers.
@@ -54,33 +60,49 @@ For example: **#ThisIsHowtoFormatAnAccessibleHashtag**
 
 ![diagram explaining a11y with the number from 1 to 11 undern the central letters](/inclusion/accessibility/files/a11y.png)
 
+<hr class="big">
+
 ## Caption videos and multimedia
 
 <iframe title="Creating captions and subtitles" width="560" height="315" src="https://www.youtube.com/embed/LCZ-cxfxzvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 More [advice from the Paciello group here](https://developer.paciellogroup.com/blog/2019/07/captions-and-transcripts-and-audio-descriptions-oh-my/).
 
+<hr class="big">
+
 ## Emoji
 You can use emojis, but be aware that screen readers will describe them out loud. For example: 😃 would become “smiley face emoji”. This means if you use an emoji in the middle of a sentence, it might make it more difficult for someone using a screen reader to follow the sentence.  
 
 Emojis should only be used in addition to written text – never replace a word in a sentence with an emoji.  
 
+<hr class="big">
+
 ## Hashtags and mentions should go at the end
 The symbols # and @ are said aloud by screen readers, and makes it harder to understand the sentence they are part of. Adding them after the text, will make it clearer.
+
+<hr class="big">
 
 ## Avoid writing in capital letters
 Some people rely on the ‘shape’ of a word to read more efficiently. Using all caps means words lose this shape, and in some cases may cause a screen reader to read the word letter by letter.  
 
+<hr class="big">
+
 ## More general advice
 [Planning, creating and publishing accessible social media campaigns](https://gcs.civilservice.gov.uk/guidance/digital-communication/planning-creating-and-publishing-accessible-social-media-campaigns/) - By the Government Communication Service
+
+<hr class="big">
 
 ## How people with disabilities use tech
 
 - **[How does a deaf or hard of hearing person uses technology?](https://www.levelaccess.com/understanding-assistive-technology-how-does-a-deaf-or-hard-of-hearing-person-use-technology/)**
 - **[Videos of people with disabilities using tech](https://axesslab.com/tech-youtubers/)**
 
+<hr class="big">
+
 ### How does a blind person use Twitter?
 <iframe title="Using Twitter with a Screen Reader and VoiceOver" width="560" height="322" src="https://www.youtube.com/embed/DgLLti7pCZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="big">
 
 ### Blind women using tech
 <iframe title="Some blind women use tech" width="560" height="322" src="https://www.youtube.com/embed/pjb-EbBvikw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
