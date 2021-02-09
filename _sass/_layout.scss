@@ -514,17 +514,16 @@ img {
 }
 
 a.button { 
-	background-color: $brand-colour; 
-	padding: 10px 20px; 
-	color: #1a1a1a; 
-	text-decoration: none;
-	font-weight: 600;
-}
-a.button:hover {
-    color: #1a1a1a;
+	color: #1a1a1a;
     background-color: #ffefaa;
 	padding: 8px 18px;
 	border: solid 1px #1a1a1a;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 1.5rem;
+}
+a.button:hover {
+	background-color: $brand-colour; 
 }
 .tag {
 	background-color: $brand-colour;
