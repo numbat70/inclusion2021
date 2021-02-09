@@ -193,7 +193,7 @@ Easy read is often also preferred by readers without learning disabilities, as i
 - [A Brief Guide to Easy Read: Top Tips](http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.HPTHxyK3.dpbs) from SAIF (Scottish Accessible Information Forum)
 - [GOVUK Blog post: How DWP used the easy read format to make its content more accessible](https://accessibility.blog.gov.uk/2019/10/11/how-dwp-used-the-easy-read-format-to-make-its-content-more-accessible/)
 
-**Examples of Easy read format:**
+#### Examples of Easy read format:
 - [Introduction to Universal Credit](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944658/introduction-to-universal-credit-easy-read-guide.pdf) - PDF
 - [Get help from Access to Work: easy read](https://www.gov.uk/government/publications/easy-read-get-help-at-work-if-youre-disabled-or-have-a-health-condition-access-to-work/get-help-from-access-to-work-easy-read) by the DWP
 
@@ -242,7 +242,7 @@ Videos with audio require captions synchronised with the audio track. Everything
 
 This will also be used by many people who are not native speakers, or are in a noisy environment or don’t want others to hear what they are watching for example.
 
-<p style="margin-bottom: 0">Ideally, <strong>provide a transcript</strrong> of your media, so people can either read it or use a screen reader to hear it:</p>
+<p style="margin-bottom: 0">Ideally, <strong>provide a transcript</strong> of your media, so people can either read it or use a screen reader to hear it:</p>
 - allow people to scan the content and see if they want to engage with it 
 - can be searched by people and search engines so better for SEO (Search Engine Optimisation)
 
