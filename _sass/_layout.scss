@@ -267,6 +267,14 @@ nav > ul {
 		font-weight: 600;
 		padding-left: $space;
 	}
+
+	.current {
+		background-color: $brand-colour;
+		a:active, a:hover, a:link, a:visited {
+			color: #111;
+			font-weight: 600;
+		}
+	}
 }
 
 .settings-panel-example {
