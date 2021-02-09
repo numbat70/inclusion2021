@@ -57,7 +57,7 @@ Talk from [**Rachel Morgan-Trimmer**](https://sparkleclass.com/)'s Workshop: Wha
 <iframe title="Workshop: What is neurodiversity and why should you care about it?" width="624" height="468" src="https://www.youtube.com/embed/HdrbrHVD11I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details>
-<summary>Simple tips<summary>
+<summary>Simple tips</summary>
 <ol>
 <li><strong>Tell people what to expect<strong><br>
 Whether it’s a meeting, an event, a webinar or an application on a website: Tell them when it will start, if there will be a break, how long it will last, who will take part, what is expected of them.
