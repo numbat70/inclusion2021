@@ -12,7 +12,7 @@ order: 3
   It’s usually best to just ask the person you’re speaking to how they’d prefer you to refer to their disability or accessibility needs. But it's not always possible when addressing a wider audience.
  </p>
 <p>
-Here are some general best practice guidelines: 
+<p style="margin=bottom: 0">Here are some general best practice guidelines: </p>
 </p>
  <ul>
 <li>Avoid using terms like ‘disabled’ or ‘disabilities’ too generally – are you really referring to all people with any disability, or do you specifically mean wheelchair users, people with vision impairments, people with hearing loss or another more specific disability</li>
@@ -21,6 +21,8 @@ Here are some general best practice guidelines:
   <li><strong>Consider if you need to refer to a disability at all</strong>. For example, when pointing users to a video transcript, you can just say ‘If you prefer, you can read a transcript of this video here’ rather than ‘If you’re deaf or hard of hearing, you can read a transcript of this video here’</li>
  </ul>
  </blockquote>
+
+ <hr class="big">
  
 ## People first or identity first? 
 
@@ -41,7 +43,7 @@ When writing or speaking for Scottish Enterprise or our partners, we recommend u
 >
 >"We went through PWD (People With Disabilities) but changed as we threw off the convention that we were less. Putting people first is part of the journey to pride & awareness. It revolves around how you see disability." 
 
-
+<hr class="big">
  
 ## Language per condition
 
@@ -50,7 +52,7 @@ There is a [more general section about advice for specific needs](/inclusion/acc
 
 We recommend taking the 'identity first’ approach when talking about neurodiversity. However, there are some exceptions.  
 
-The terms we recommend using are: 
+<p style="margin=bottom: 0">The terms we recommend using are:</p>
 
 - An autistic person 
 - A dyslexic person 
@@ -73,7 +75,8 @@ We recommend saying ‘people with cognitive impairments’ as it’s simpler th
 
 ### Sight conditions 
 
-Sight conditions can vary greatly, from blindness or partial sight, to colour blindness. The definitions of these can vary too – some legally blind people still have some sight. We recommend using the following terms when talking about people with sight conditions: 
+Sight conditions can vary greatly, from blindness or partial sight, to colour blindness. The definitions of these can vary too – some legally blind people still have some sight. 
+<p style="margin=bottom: 0">We recommend using the following terms when talking about people with sight conditions: </p>
 
 - Blind people  
 - People with partial sight  
@@ -87,7 +90,8 @@ Sight conditions can vary greatly, from blindness or partial sight, to colour bl
 
 ### Hearing loss 
 
-Just like sight conditions, hearing loss can vary from person to person. Some people may not be able to hear at all, while some may still have partial hearing in one or both ears. We recommend using the following terms when talking about people with sight conditions: 
+Just like sight conditions, hearing loss can vary from person to person. Some people may not be able to hear at all, while some may still have partial hearing in one or both ears. 
+<p style="margin=bottom: 0">We recommend using the following terms when talking about people with sight conditions:</p>
 
 - Deaf people 
 - People with hearing loss  
@@ -100,7 +104,8 @@ Just like sight conditions, hearing loss can vary from person to person. Some pe
 
 ### Physical or motor disabilities 
 
-This includes a range of disabilities and accessibility needs. We recommend using the following terms for people with physical or motor disabilities: 
+This includes a range of disabilities and accessibility needs. 
+<p style="margin=bottom: 0">We recommend using the following terms for people with physical or motor disabilities: </p>
 
 - Someone with a physical disability  
 - People with motor disabilities  
@@ -112,11 +117,15 @@ Where possible, try to refer to the specific condition or symptom you mean, beca
 
 > [More information about physical or motor disabilities](/inclusion/accessibility/advice-specific/#motricity-impairments) 
 
+<hr class="big">
+
 ## Further reading 
 
 GOV.UK has a useful [list of words to use and words to avoid when talking about disabilities](https://www.gov.uk/government/publications/inclusive-communication/inclusive-language-words-to-use-and-avoid-when-writing-about-disability#words-to-use-and-avoid).  
 
-If you’re looking for guidance around a specific disability, look for a local or national organisation that can help. The way they talk about disabilities on their own websites gives a good idea of what the best practise may be. Here are a list of sites that may be useful: 
+If you’re looking for guidance around a specific disability, look for a local or national organisation that can help. The way they talk about disabilities on their own websites gives a good idea of what the best practise may be. 
+
+<p style="margin=bottom: 0">Here is a list of sites that may be useful:</p>
 
 - [Royal National Institute of Blind People](https://www.rnib.org.uk/)
 - [Visibility Scotland](https://visibilityscotland.org.uk/)

@@ -18,18 +18,21 @@ For example: location (noise, slow wifi) health (tired, recovering) equipment (m
   <p><strong>Making things more accessible makes things better for everyone</strong></p>
 </blockquote>
 
+<hr class="big">
 
 ## General awareness
 
 This video from 2014 give some good basic principles
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gv1aDEFlXq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<hr class="big">
+
 ### Some more personal advice:
 - [“I never know when to [offer to] help disabled people”](https://gemturner.com/i-never-know-when-to-offer-to-help-disabled-people/) - by Gem Turner
 - [I've Been Paralyzed Since I Was 3. Here's Why Kindness Toward Disabled People Is More Complicated Than You Think](https://time.com/5881597/disability-kindness/) - by Rebekah Taussig
 - [Teaching your child about disability and difference](https://amp.abc.net.au/article/everyday/11739256) - by Ellen Fraser-Barbour 
 
-
+<hr class="big">
 
 ### The social model
 The social model of disability is a way of viewing the world, developed by disabled people. 
@@ -43,6 +46,8 @@ Not everyone uses the social model and that’s ok. How anyone chooses to talk a
 (Source: [Scope](https://www.scope.org.uk/about-us/social-model-of-disability/))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3m_EbRH1aF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="big">
 
 ### Some blog posts from the Digital Team
 
