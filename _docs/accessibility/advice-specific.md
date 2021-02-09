@@ -517,7 +517,6 @@ You can get involved, [they provide material on their website](https://www.notev
 
 <blockquote class="info">
   <p>We should always be mindful that we’re all different and offer an alternative or a way out.</p>
-  <br>
   <p><strong>Don’t assume. Keep an open mind.</strong></p>
 </blockquote>
 
