@@ -194,7 +194,7 @@ More talks about ADHD during [Camp ADHD on the 16/01/21 are available on Youtube
 
 ##### Do
 - use images and diagrams to support text
-- align text to the left and kee a consistent layout
+- align text to the left and keep a consistent layout
 - consider producing materials in other formats (for example audio or video)
 - keep content short, clear and simple
 
@@ -643,7 +643,7 @@ The role of a Mental Health First Aider in the workplace is to be a point of con
 
 > Ensure that if you do not feel able to help at that time for whatever reason, that alternative support is sought (e.g. another MH First Aider, People Manager, etc...)
 
-<blockquote class="red"><p>Useful number: <a href="https://www.samaritans.org/scotland/how-we-can-help/contact-samaritan/" target="_blank">The Samaritans</a> 116 123 (24hrs)</p></blockquote>
+<blockquote class="red"><p>Useful number: <a href="https://www.samaritans.org/scotland/how-we-can-help/contact-samaritan/" target="_blank">The Samaritans</a> <strong>116 123</strong> (24hrs)</p></blockquote>
 
 
 <hr class="big">
