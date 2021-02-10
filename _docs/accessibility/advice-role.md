@@ -1,5 +1,5 @@
 ---
-title: Advices per role
+title: Advice per role
 category: Accessibility
 order: 8
 ---

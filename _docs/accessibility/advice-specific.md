@@ -1,5 +1,5 @@
 ---
-title: Advices for specific needs
+title: Advice for specific needs
 category: Accessibility
 order: 7
 ---
@@ -57,7 +57,7 @@ Talk from [**Rachel Morgan-Trimmer**](https://sparkleclass.com/)'s Workshop: Wha
 <iframe title="Workshop: What is neurodiversity and why should you care about it?" width="624" height="468" src="https://www.youtube.com/embed/HdrbrHVD11I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details>
-<summary>Simple tips</summary>
+<summary>10 Simple tips from the video above (What is neurodiversity and why should you care)</summary>
 <ol>
 <li style="border-bottom: solid 1px #F2CA27 ; padding: 1em 0;"><strong>Tell people what to expect</strong><br>
 Whether it’s a meeting, an event, a webinar or an application on a website: Tell them when it will start, if there will be a break, how long it will last, who will take part, what is expected of them.
@@ -144,9 +144,10 @@ What women with autism want you to know:
 <br>
 A shorter video: 
 <iframe title="This short video explains how people with autism have common differences in communication, sensory processing, social understanding and how they process information." width="624" height="351" src="https://www.youtube.com/embed/0V8bYm7Bhxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br>
+
 #### Further resources:
+- [Scottish Autism](https://www.scottishautism.org/)
 - [The costs of camouflaging autism](https://www.spectrumnews.org/features/deep-dive/costs-camouflaging-autism/)
 - [View the GOV UK poster on designing for users on the autistic spectrum](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/autistic-spectrum.png)
 - A personal point of view: [Am I disabled? - What does it mean to consider yourself a disabled person](https://aeon.co/essays/what-does-it-mean-to-consider-yourself-a-disabled-person) - by Joanne Limburg
@@ -186,13 +187,81 @@ More talks about ADHD during [Camp ADHD on the 16/01/21 are available on Youtube
 
 ### Dyslexia
 
-- good resource of videos to explain the wide range of aspects of Dyslexia: [Dyslexia Bytes](https://www.youtube.com/c/DyslexiaBytes/videos)
-- [Dyslexia and Working from Home](/inclusion/accessibility/files/Dyslexia-and-Working-from-Home.pdf) - PDF by British Dyslexia Association
-- [Showcasing the NeuroDiverse workplace](/inclusion/accessibility/files/Showcasing_the_Neurodiverse_Workplace.pdf) - PDF by British Dyslexia Association
-- [Reasonable Adjustments](/inclusion/accessibility/files/ND-Practical-Solutionsat Work-Reasonable-Adjustments-DS.pdf) - PDF by British Dyslexia Association
-- [View the GOV UK poster on designing for users with dyslexia](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/dyslexia.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zafiGBrFkRM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<blockquote class="red"><p>work in progress - need to take tips out of the documents above to make a summary</p></blockquote>
+#### General advice: do and don't
+[View the GOV UK poster on designing for users with dyslexia](https://accessibility.blog.gov.uk/wp-content/uploads/sites/52/2016/09/dyslexia.png)
+
+##### Do
+- use images and diagrams to support text
+- align text to the left and kee a consistent layout
+- consider producing materials in other formats (for example audio or video)
+- keep content short, clear and simple
+
+##### Don't
+- use large block of heavy text
+- underline workds, use italics or write in caopitals: _DON'T DO THIS_
+- force users to remeber things from previous pages - give them reminders and prompts
+- rely on accurate spelling - do use autocorrect or prove suggestions
+
+<hr class="small">
+
+
+#### Dyslexia and working from home
+Advice from this document: [Dyslexia and Working from Home](/inclusion/accessibility/files/Dyslexia-and-Working-from-Home.pdf) - PDF by British Dyslexia Association
+
+- Addtional large screen can make a big difference
+- Microsoft has dication and screen reading features built-in (like smart phones) - ideally assign a trusted colleague or mentor for support when activating these tools at the start
+- Allowing to record a meeting avoid having to take notes and to review the information at your own pace
+- Email agenda of meetings and handout early so people can process the information ahead and prepare their contributions when needed
+
+#### Reasonable adjustments
+From this document: - [Reasonable Adjustments](/inclusion/accessibility/files/ND-Practical-Solutionsat Work-Reasonable-Adjustments-DS.pdf) - PDF by British Dyslexia Association
+
+> The most appropriate reasonable adjustments you can make is to invite your neurodivergent colleague to talk to you about the difficulties they have and then discuss together the possible solution. 
+>
+> **Many people with dyslexia require little in the way of support** beyond the acceptance that they will need to approach some tasks differently.
+
+<p style="margin-bottom: 0">Communication</p>
+- Give both verbal and written instructions wherever possible
+- Allow time for reading information and for it to sink in
+
+<p style="margin-bottom: 0">Instructions</p>
+- Keep verbal information simple and concise
+- Write down any plans of action as well as verbalising them
+- Where multiple instructions cannot be avoided, use mind mapping or diagrams
+
+<p style="margin-bottom: 0">Time and Work Planning</p>
+- For important meetings text or phone colleagues prior to the meeting with a gentle reminder
+- Allow time for unforeseen occurrences and ‘positive procrastination’
+
+<p style="margin-bottom: 0">Organisation</p>
+-  Use numeric or date filing systems instead of alphabetic
+
+<p style="margin-bottom: 0">Writing / reading</p>
+- Provide spell checker software for PC, explore free facilities from Microsoft 365
+- Change background colour of screen to enhance readability
+- Provide screen reader to assist with proof reading own work and comprehension of complex documents
+- Provide a digital tape recorder to record meetings and important information and preparation for presentations
+- Provide screen readers to improve comprehension
+- Provide a summary/overview for long documents
+
+<p style="margin-bottom: 0">Workplace Culture</p>
+- Explore wording on application forms, could you be inadvertently deterring neurodivergent applicants from joining your organisation?
+- Where application forms are used offer applicants the opportunity to have a different format – e.g. a list of questions to answer with CV and covering letter
+- Avoid psychometric testing – where unavoidable offer candidates the opportunity to complete this alone in a quiet room and if the candidate disclosed their dyslexia, give them additional time
+- Give candidates a list of questions that they will be asked at interview
+
+<p style="margin-bottom: 0">Appraisal</p>
+- Conduct one-to-one meetings in an informal environment
+- Allow the individual to verbally report their self-assessment
+- Allow the individual to use a digital recorder during the meeting so that they can replay after the meeting to ensure that they heard and understood everything
+
+
+#### More on Dyslexia
+- [Showcasing the NeuroDiverse workplace](/inclusion/accessibility/files/Showcasing_the_Neurodiverse_Workplace.pdf) - PDF by British Dyslexia Association
+- good resource of videos to explain the wide range of aspects of Dyslexia: [Dyslexia Bytes](https://www.youtube.com/c/DyslexiaBytes/videos)
+- [British Dyslexia Association](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide) 
 
 <a href="#" class="button">Back to top</a>
 
@@ -233,6 +302,13 @@ My face blindness is embarrassing – but it tells me a lot about other people](
 
 
 ## Blindness and visual impairments
+
+### Associations
+- [Royal National Institute of Blind People](https://www.rnib.org.uk/)
+- [Visibility Scotland](https://visibilityscotland.org.uk/)
+- [Sight Scotland](https://sightscotland.org.uk/)
+
+<hr class="small">
 
 ### Blindness
 
@@ -338,6 +414,8 @@ Just like blindness, deafness comes in varying degrees, and people who are legal
 <hr class="small">
 
 ### More resources:
+- [Deafscotland](https://deafscotland.org/) 
+- [Deaf action](https://www.deafaction.org/) 
 - [Congratulations, you’ve hired that Deaf job candidate, now what?](https://medium.com/@bgramer/congratulations-youve-hired-that-deaf-job-candidate-now-what-c505946a0458) - Medium article
 - [Understanding Assistive Technology: How Does a Deaf or Hard of Hearing Person Use Technology?](https://www.levelaccess.com/understanding-assistive-technology-how-does-a-deaf-or-hard-of-hearing-person-use-technology/) - by Level acess
 - [I’m deaf, and this is what happens when I get on a Zoom call](https://www.fastcompany.com/90565930/im-deaf-and-this-is-what-happens-when-i-get-on-a-zoom-call) - Fast Company article

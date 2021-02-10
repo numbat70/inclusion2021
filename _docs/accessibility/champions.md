@@ -16,7 +16,7 @@ We hope to learn from each other and that companies with similar challenges can 
 
 ## Accessiblity Manchester events
 
-This is a meetup group who has organised excellent online events in 2020. You can [follow them on twitter](https://twitter.com/a11ymcr). These two videos contains lots a great advices.
+This is a meetup group who has organised excellent online events in 2020. You can [follow them on twitter](https://twitter.com/a11ymcr). These two videos contains lots a great advice.
 
 <hr class="small">
 
