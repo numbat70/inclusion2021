@@ -19,6 +19,7 @@ Quick access:
 - [Motricity impairments](#motricity-impairments)
 - [Cognitive impairments](#cognitive-impairments)
 - [Speech impairments](#speech-impairments)
+- [Vertigo - vestibular issues](#vertigo-vestibular-issues)
 - [Learning disabilities](learning-disabilities)
 - [Invisible disabilities](#invisible-disabilities)
     - [The spoon theory](#the-spoon-theory)
@@ -488,6 +489,17 @@ In addition to children and adults with communication and learning difficulties 
 [Learn more about Makaton](https://makaton.org/TMC/)
 
 <a href="#" class="button">Back to top</a>
+
+<hr class="big">
+
+## Vertigo - vestibular issues
+
+The vestibular disorder is an umbrella term for multiple different conditions affecting the vestibular system. These can be caused by an injury, illness, or a genetic condition, but the cause remains unknown in some cases. Symptoms can be anything from dizziness to nausea and hearing changes. [You can learn more on vestibular.org](https://vestibular.org/article/what-is-vestibular/about-vestibular-disorders/)
+
+Animations in slides or on websites can trigger problems and it's best to avoid them or at least offer an option to stop them and warn about it.
+
+This article is for developers but explains quite well the experience of a person who suffered from this problem: [Accessibility for Vestibular Disorders: How My Temporary Disability Changed My Perspective](https://alistapart.com/article/accessibility-for-vestibular/)
+
 
 <hr class="big">
 
