@@ -43,7 +43,7 @@ order: 10
 - [Accessibility for developers - basics - part 2](https://docs.google.com/presentation/d/15PG1w766J_EJGSVOnrjrn6ti_-K_7hdRjXZzA-sxTQ4/edit?usp=sharing) - material initially created for [Code your Future](https://codeyourfuture.io/)
 - [An Intro To Screen Reader Testing for Sighted Developers](http://uncaughtreferenceerror.com/a-crash-course-to-screenreaders-for-sighted-developers/) - blog post
 
-### Video explain screen readers for developers as a game
+### Video explaining screen readers for developers as a game
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HE2R86EZPMA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr class="big">
