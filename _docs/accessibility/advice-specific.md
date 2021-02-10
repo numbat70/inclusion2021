@@ -200,8 +200,8 @@ More talks about ADHD during [Camp ADHD on the 16/01/21 are available on Youtube
 
 ##### Don't
 - use large block of heavy text
-- underline workds, use italics or write in caopitals: _DON'T DO THIS_
-- force users to remeber things from previous pages - give them reminders and prompts
+- underline words, use italics or write in capitals: _DON'T DO THIS_
+- force people to remember things from previous pages - give them reminders and prompts
 - rely on accurate spelling - do use autocorrect or prove suggestions
 
 <hr class="small">
@@ -222,23 +222,23 @@ From this document: - [Reasonable Adjustments](/inclusion/accessibility/files/ND
 >
 > **Many people with dyslexia require little in the way of support** beyond the acceptance that they will need to approach some tasks differently.
 
-<p style="margin-bottom: 0">Communication</p>
+<p style="margin-bottom: 0"><strong>Communication</strong></p>
 - Give both verbal and written instructions wherever possible
 - Allow time for reading information and for it to sink in
 
-<p style="margin-bottom: 0">Instructions</p>
+<p style="margin-bottom: 0"><strong>Instructions</strong></p>
 - Keep verbal information simple and concise
 - Write down any plans of action as well as verbalising them
 - Where multiple instructions cannot be avoided, use mind mapping or diagrams
 
-<p style="margin-bottom: 0">Time and Work Planning</p>
+<p style="margin-bottom: 0"><strong>Time and Work Planning</strong></p>
 - For important meetings text or phone colleagues prior to the meeting with a gentle reminder
 - Allow time for unforeseen occurrences and ‘positive procrastination’
 
-<p style="margin-bottom: 0">Organisation</p>
+<p style="margin-bottom: 0"><strong>Organisation</strong></p>
 -  Use numeric or date filing systems instead of alphabetic
 
-<p style="margin-bottom: 0">Writing / reading</p>
+<p style="margin-bottom: 0"><strong>Writing / reading</strong></p>
 - Provide spell checker software for PC, explore free facilities from Microsoft 365
 - Change background colour of screen to enhance readability
 - Provide screen reader to assist with proof reading own work and comprehension of complex documents
@@ -246,13 +246,13 @@ From this document: - [Reasonable Adjustments](/inclusion/accessibility/files/ND
 - Provide screen readers to improve comprehension
 - Provide a summary/overview for long documents
 
-<p style="margin-bottom: 0">Workplace Culture</p>
+<p style="margin-bottom: 0"><strong>Workplace Culture</strong></p>
 - Explore wording on application forms, could you be inadvertently deterring neurodivergent applicants from joining your organisation?
 - Where application forms are used offer applicants the opportunity to have a different format – e.g. a list of questions to answer with CV and covering letter
 - Avoid psychometric testing – where unavoidable offer candidates the opportunity to complete this alone in a quiet room and if the candidate disclosed their dyslexia, give them additional time
 - Give candidates a list of questions that they will be asked at interview
 
-<p style="margin-bottom: 0">Appraisal</p>
+<p style="margin-bottom: 0"><strong>Appraisal</strong></p>
 - Conduct one-to-one meetings in an informal environment
 - Allow the individual to verbally report their self-assessment
 - Allow the individual to use a digital recorder during the meeting so that they can replay after the meeting to ensure that they heard and understood everything
@@ -561,20 +561,8 @@ For example, [Transport for London](https://tfl.gov.uk/transport-accessibility/p
 
 > “I’ve only used it a few times, when I have, I can just feel people staring at me, I’ve never used it when the trains have been particularly busy so couldn’t say whether it actually works or not, but I’ve never felt more judged.” — Caitlin
 
-![A badge and a card from Transport London stating: "please offer me a seat"](/images/a11y/Please-Offer-Me-A-Seat.png)
-From the website "[you look ok to me"](https://www.youlookokaytome.com/)
-
-‘Happy to move for you’ is the [same idea but for people who are happy to offer their seat](https://www.standard.co.uk/news/transport/happy-to-move-for-you-tube-badge-for-people-with-hidden-illnesses-to-be-rolled-out-across-uk-a4276381.html) to someone who might need it. Ellie Kime came up with this badge:
-![blue badge that says: Happy to move for you as a smily face](/images/a11y/happytomoveforyoubadge.jpg)
-
-Photo by Ellie Kime
-
 Or [the initiative from the Heathrow airport](https://www.heathrow.com/at-the-airport/accessibility-and-mobility-help/hidden-disabilities) and their green lanyards with sunflowers. Again you don’t have to prove you need it.
 
-
-![Selfie of molly wearing sunflower lanyard.](/images/a11y/MollyTwitter.png)
-
-[From Molly Watt's tweet](https://twitter.com/MollyWattTalks/status/1184080487406538755)
 
 <hr class="small">
 
@@ -635,6 +623,28 @@ You can get involved, [they provide material on their website](https://www.notev
 <li><a href="https://bearable.app" target="_blank" rel="noopener">Bearable.app</a></li>
 <li><a href="https://moodstories.com/" target="_blank" rel="noopener">Moodstory</a></li>
 </ul>
+
+### Mental Health First Aider
+
+The role of a Mental Health First Aider in the workplace is to be a point of contact for any individual who may be experiencing mental health issues or emotional distress, or for someone else who is seeking advice.
+
+#### It is...
+- listening
+- pointing in the right direction
+- doing what you are comfortable with
+- making a judgment on the next step based on what is in front of you
+- escalating based on the situation
+
+#### It isn't...
+- counselling or therapy
+- diagnosing
+- trying to fix things
+- putting yourself in a vulnerable or uncomfortable position 
+
+> Ensure that if you do not feel able to help at that time for whatever reason, that alternative support is sought (e.g. another MH First Aider, People Manager, etc...)
+
+<blockquote class="red"><p>Useful number: <a href="https://www.samaritans.org/scotland/how-we-can-help/contact-samaritan/" target="_blank">The Samaritans</a> 116 123 (24hrs)</p></blockquote>
+
 
 <hr class="big">
 
