@@ -39,9 +39,9 @@ It’s important to make sure your presentations, meetings, webinars and events 
 ## Before the event
 
 - Give an agenda, explain the goal of this event, who will be attending and the expectations from the participants
-- When the event lasts more than an hour, plan for a break and announce ahead
+- When the event lasts more than an hour, plan for a break and announce it ahead
 - Ask if anyone as some special requirements, anything they might need to know before the event that is not mentioned in the agenda
-- Make sure the language used in the invitation is inclusive and make people feel safe to share anything thye might request from you
+- Make sure the language used in the invitation is inclusive and make people feel safe to share anything they might request from you
 - If online and using some specific tools, provide some guidance or tutorials for people who might not be familiar with them
 
 [More advice on this page when this is a physical event](#making-physical-events-accessible) (not online)
@@ -58,7 +58,7 @@ It’s important to make sure your presentations, meetings, webinars and events 
 
 ### Share materials ahead of the session 
 
-Sending the presentation and any other relevant materials to your audience before the session starts means your participants can view the presentation on their own device if they need to. People with low vision can zoom in and resize their own version of the presentation, and people with technology restrictions who can’t see your shared screen can follow along from their own device.   
+Sending the presentation and any other relevant materials to your audience before the session starts, means your participants can view the presentation on their own device if they need to. People with low vision can zoom in and resize their own version of the presentation, and people with technology restrictions who can’t see your shared screen can follow along from their own device.   
 
 It can also help give people with cognitive disabilities more time to read through and familiarise themselves with the content of the presentation.  
 
@@ -119,7 +119,7 @@ Instead, keep the text on slides to a minimum, or consider splitting text across
 
 ### Colours and contrasts 
 
-Make sure the text colour you’re using contrasts well with the background of your presentation. Tools such as Tanaguru contrast finder can help you check. 
+Make sure the text colour you’re using contrasts well with the background of your presentation. Tools such as [Tanaguru contrast finder](https://contrast-finder.tanaguru.com/) can help you check. 
 
 <a href="#" class="button">Back to top</a>
 
