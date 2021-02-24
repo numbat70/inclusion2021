@@ -643,7 +643,7 @@ The role of a Mental Health First Aider in the workplace is to be a point of con
 Have a look at the [Mental Health First Aider infographic](/inclusion/images/MentalHealthFirstAidGuidance.pdf) - PDF
 
 <blockquote>
-<p>For internal only</p>
+<p><strong>For internal only</strong></p>
 <p>More information on intranet on the <a href="https://scotent.sharepoint.com/sites/Intranet/Corporate/Hr-corp/my-wellbeing/Pages/Mental-Health-First-Aiders.aspx" target="_blank">Mental Health First Aiders page</a></p>
 </blockquote>
 
