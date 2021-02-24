@@ -636,9 +636,14 @@ You can get involved, [they provide material on their website](https://www.notev
 <li><a href="https://moodstories.com/" target="_blank" rel="noopener">Moodstory</a></li>
 </ul>
 
-### Mental Health First Aider
+### Mental Health First Aiders
 
 The role of a Mental Health First Aider in the workplace is to be a point of contact for any individual who may be experiencing mental health issues or emotional distress, or for someone else who is seeking advice.
+
+Have a look at the [Mental Health First Aider infographic](/images/MentalHealthFirstAidGuidance.pdf) - PDF
+
+<p>More information on intranet on the <a href="https://scotent.sharepoint.com/sites/Intranet/Corporate/Hr-corp/my-wellbeing/Pages/Mental-Health-First-Aiders.aspx" target="_blank">Mental Health First Aiders page</a><span class="tag">For internal only</span></p>
+
 
 #### It is...
 - listening
