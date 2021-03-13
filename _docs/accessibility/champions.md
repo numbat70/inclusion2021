@@ -16,7 +16,7 @@ We hope to learn from each other and that companies with similar challenges can 
 
 ## BBC talk about their own Accessibility Champion Network
 
-<p><iframe width="1431" height="809" src="https://www.youtube.com/embed/BktMJzjf7xs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315"  src="https://www.youtube.com/embed/BktMJzjf7xs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 From this video (43 minutes in), some advice for their champions:
 
