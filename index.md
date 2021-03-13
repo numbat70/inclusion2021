@@ -102,7 +102,7 @@ Here is how some countries fits on the Egalitarian/Hierachical scale for the dim
 
 ![slide from the talk showing varous country names along the scale for leading](/images/culture-scales-leading.png)
 
-(More on this in the video and in a book from Erin Meyer: The culture map)
+(More on this in the video  above and in a book from Erin Meyer: The culture map)
 
 **Video - Purl | Pixar SparkShorts**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B6uuIHpFkuo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
