@@ -101,6 +101,15 @@ A presentation is usually involved in some form during most meetings, virtual ev
 
 <hr class="small">
 
+### Leave some space for captions
+
+If you are presenting in webinars or online conferences, leave empty space at bottom of each presentation slide for two lines of captions.
+
+When you don't, captions will overwrite your slide content.
+
+
+<hr class="small">
+
 ### Use large font sizes 
 
 Presentations are often smaller when you share your screen than they would be on your own screen, and some people may be watching on a smaller screen than you. Consider this when choosing your font size.   
@@ -114,6 +123,8 @@ Presentations are often smaller when you share your screen than they would be on
 It’s tempting to overload your slides with information, but it’s often counter-productive. Participants may feel overwhelmed with the amount of text or may struggle to read it and listen to the presentation at the same time. It also often forces you to use a smaller font.  
 
 Instead, keep the text on slides to a minimum, or consider splitting text across more than one slide.  
+
+A good article on this: [Good Slides Reduce Complexity](https://seomba.substack.com/p/good-slides-reduce-complexity)
 
 <hr class="small">
 

@@ -20,12 +20,26 @@ There is a lot under the term 'diversity':
 
 Have a look at [the inclusion calendar for 2021](/images/CIPD-inclusion-calendar-2021.pdf) from the CIPD (Chartered Institute of Personnel and Development). This will be helpful to create events all year round. 
 
+
 <hr class="big">
 
 ## About being an ally
 
+
 This video is from Netflix as a workplace: "Your colleagues are not just your colleagues. They are also human beings that live in a complex world. Be curious, be empathetic, and be an ally"
 <iframe width="632" height="356" src="https://www.youtube.com/embed/0hJknn4NVBY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr class="big">
+
+## Unconscious bias
+
+Cognitive biases are shortcuts the brain takes to make decisions. 95% of cognition is subconscious. 
+
+The best way to recognise and overcome bias is to question our assumptions in a systematic way. And get really good at listening, because it's impossible to listen and react at the same time.
+
+### Video from David Dylan Thomas to learn about Cognitive bias
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/w5t_JQ3XSIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 
 <hr class="big">
 
@@ -34,7 +48,7 @@ Interesting video about **remote working and the opportunity for Inclusion**
 <iframe title="talk about remote working and the opportunity of inclusion"  width="560" height="315" src="https://www.youtube.com/embed/6K-22lQqolo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Gemma Mc Call is the host, Rachel Morgan-Trimmer is a Neurodiversity consultant, Leyla Okhai is a cultural awareness specialist and Janice Sutherland is a woman leadership expert.
 <details>
-<summary>Some insights from the video</summary>
+<summary>Some insights from the video - click or tap to see more</summary>
 <ul>
 <li>Neurodiverse people can struggle with tread on social media, especially dyslexic people. Sequence do not always make sense to them</li>
 <li>Autistic people can struggle online has they have very little to go on to understand others online. They might also struggle to speak when not asked a specific question</li>
@@ -48,7 +62,7 @@ Gemma Mc Call is the host, Rachel Morgan-Trimmer is a Neurodiversity consultant,
 
 <hr class="small">
 
-### User manual for me
+### 'User manual for me'
 It was addressed in the video above. This in an interesting concept. The idea is for an employee to give instructions about how best to interact with them. This can improve the collaboration between employees.
 
 <p style="margin-bottom: 0">For example:</p>
@@ -67,10 +81,8 @@ It was addressed in the video above. This in an interesting concept. The idea is
 
 ## Being one of a kind in the workplace
 
-<iframe src="https://player.vimeo.com/video/431281808?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/431281808">Clearleft Curates: Farai Madzima, Cultural bias in design(ers)</a> from <a href="https://vimeo.com/clearleft">Clearleft</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/431281808">Watch this video of a talk by Farai Madzima talking about cultural bias in design and how it feels to be 'one of a kind in the workplace</a>.</p>
 
-[need to add notes from this talk: From 15min really good examples of how cultural difference can impact communication in the workplace]
 
 **Video - Purl | Pixar SparkShorts**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B6uuIHpFkuo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -82,6 +94,7 @@ It was addressed in the video above. This in an interesting concept. The idea is
 - [Inclusive recruitment is essential](https://inclusivedesignrecruitment.co.uk/) - By Snook
 - [Inclusive recruitment for digital roles – a different way of thinking](https://blogs.gov.scot/digital/2020/08/24/inclusive-recruitment-for-digital-roles-a-different-way-of-thinking/) - Blog post by the Scottish Government
 - [Inclusive language - Writing for and about people in a way that is inclusive and respectful.](https://service-manual.nhs.uk/content/inclusive-language) - By the NHS
+- [D&A Diversity abd Ability has compiled a huge list of reviews and guides](https://diversityandability.com/resources/)
 
 {% include feedback.html %}
 <br>

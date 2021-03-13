@@ -202,6 +202,7 @@ Easy read is often also preferred by readers without learning disabilities, as i
 #### Examples of Easy read format:
 - [Introduction to Universal Credit](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944658/introduction-to-universal-credit-easy-read-guide.pdf) - PDF
 - [Get help from Access to Work: easy read](https://www.gov.uk/government/publications/easy-read-get-help-at-work-if-youre-disabled-or-have-a-health-condition-access-to-work/get-help-from-access-to-work-easy-read) by the DWP
+- [Online Safety Booklet- Easy Read](https://www.lead.org.uk/online-safety-booklet-easy-read/) by Lead Scotland
 
 <a href="#" class="button">Back to top</a>
 
