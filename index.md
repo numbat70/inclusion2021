@@ -81,11 +81,34 @@ It was addressed in the video above. This in an interesting concept. The idea is
 
 ## Being one of a kind in the workplace
 
-<p><a href="https://vimeo.com/431281808">Watch this video of a talk by Farai Madzima talking about cultural bias in design and how it feels to be 'one of a kind in the workplace</a>.</p>
+<p><a href="https://vimeo.com/431281808">Watch this video of a talk by Farai Madzima</a> talking about cultural bias in design and how it feels to be 'one of a kind in the workplace.</p>
 
 
 **Video - Purl | Pixar SparkShorts**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B6uuIHpFkuo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In this video he explains that culture can influence people along these dimensions:
+- leading
+- Evaluation
+- Deciding
+- Persuading
+- Communicating
+- Disagreeing
+- Trusting
+- Scheduling
+
+The culture in which you are educated can show up along these scales between Egalitarian and Hierachical cutlures.
+
+### For example:
+Here is how some countries fits on the Egalitarian/Hierachical scale for the dimension '**Leading**'
+- **Egalitarian**: Low distance between boss and subordinates. Flat organisational structures
+- **Hierarchical**: High distance boss and subordinates. Layered and rigid organisational structures
+
+![slide from the talk showing varous country names along the scale for leading](/images/culture-scales-leading.png)
+
+![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gender & sexuality, disability](/images/diversity.jpg)
+
+(More on this in the video and in a book from Erin Meyer: The culture map)
 
 <hr class="big">
 
@@ -94,7 +117,7 @@ It was addressed in the video above. This in an interesting concept. The idea is
 - [Inclusive recruitment is essential](https://inclusivedesignrecruitment.co.uk/) - By Snook
 - [Inclusive recruitment for digital roles – a different way of thinking](https://blogs.gov.scot/digital/2020/08/24/inclusive-recruitment-for-digital-roles-a-different-way-of-thinking/) - Blog post by the Scottish Government
 - [Inclusive language - Writing for and about people in a way that is inclusive and respectful.](https://service-manual.nhs.uk/content/inclusive-language) - By the NHS
-- [D&A Diversity abd Ability has compiled a huge list of reviews and guides](https://diversityandability.com/resources/)
+- [D&A Diversity and Ability has compiled a huge list of reviews and guides](https://diversityandability.com/resources/)
 
 {% include feedback.html %}
 <br>
