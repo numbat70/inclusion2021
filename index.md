@@ -83,10 +83,6 @@ It was addressed in the video above. This in an interesting concept. The idea is
 
 <p><a href="https://vimeo.com/431281808">Watch this video of a talk by Farai Madzima</a> talking about cultural bias in design and how it feels to be 'one of a kind in the workplace.</p>
 
-
-**Video - Purl | Pixar SparkShorts**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B6uuIHpFkuo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 In this video he explains that culture can influence people along these dimensions:
 - leading
 - Evaluation
@@ -106,9 +102,10 @@ Here is how some countries fits on the Egalitarian/Hierachical scale for the dim
 
 ![slide from the talk showing varous country names along the scale for leading](/images/culture-scales-leading.png)
 
-![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gender & sexuality, disability](/images/diversity.jpg)
-
 (More on this in the video and in a book from Erin Meyer: The culture map)
+
+**Video - Purl | Pixar SparkShorts**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B6uuIHpFkuo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr class="big">
 
