@@ -14,6 +14,23 @@ We hope to learn from each other and that companies with similar challenges can 
 
 <hr class="big">
 
+## BBC talk about their own Accessibility Champion Network
+
+<p><iframe width="1431" height="809" src="https://www.youtube.com/embed/BktMJzjf7xs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+From this video (43 minutes in), some advice for their champions:
+
+- Find out who is interested (any level of scale - everyone welcome)
+- Be the voices of the users, not just yours
+- Training first
+- Provide the guidance in a form that is easy to use
+- Find the right communication channels for them
+- Talk to your champions
+- Celebrate the successes of the champions
+
+
+<hr class="big">
+
 ## Accessiblity Manchester events
 
 This is a meetup group who has organised excellent online events in 2020. You can [follow them on twitter](https://twitter.com/a11ymcr). These two videos contains lots a great advice.
