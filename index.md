@@ -12,7 +12,7 @@ We are gathering guidelines and resources in one place.
 </blockquote>
 
 There is a lot under the term 'diversity':
-![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gender & sexuality, disability](/images/diversity.jpg)
+![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gender & sexuality, disability](/images/d-and-i.jpg)
 
 <hr class="big">
 

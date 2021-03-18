@@ -5,7 +5,29 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		{% seo %}
+		<!-- Was injecting 'seo' just like feed-meta below -->
+		{% if  page.title %}
+		<title>{{page.title}} | Diversity and Inclusion resources</title>
+		<meta property="og:title" content="{{page.title}}" />
+		<meta property="twitter:title" content="{{page.title}}" />
+
+{% else %}
+		<title>Diversity and Inclusion resources</title>
+		<meta property="og:title" content="Diversity and Inclusion resources" />
+		<meta property="twitter:title" content="Diversity and Inclusion resources" />
+	
+{% endif %}
+
+		<meta name="generator" content="Jekyll v3.9.0" />
+		<meta property="og:locale" content="en_US" />
+		<meta name="description" content="Guidelines and resources for Diversity and Inclusion" />
+		<meta property="og:description" content="Guidelines and resources for Diversity and Inclusion" />
+		<meta property="og:site_name" content="Diversity and Inclusion resources" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:image" content="https://scotentsd.github.io/inclusion/images/d-and-i-16-9.jpg" />
+		
+
+	
 		{% feed_meta %}
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
