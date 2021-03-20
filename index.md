@@ -11,14 +11,14 @@ We are gathering guidelines and resources in one place.
   <p>The resulting website might look very different.</p>
 </blockquote>
 
-There is a lot under the term 'diversity':
+There is a lot under the terms 'Diversity and Inclusion':
 ![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gender & sexuality, disability](/images/d-and-i.jpg)
 
 <hr class="big">
 
 ## The inclusion calendar for 2021
 
-<p>Have a look at <a href="/images/CIPD-inclusion-calendar-2021.pdf" target="_blank">the inclusion calendar for 2021</a> from the CIPD (Chartered Institute of Personnel and Development). This will be helpful to create events all year round.</p>
+<p>Have a look at <a href="https://scotentsd.github.io/inclusion/images/CIPD-inclusion-calendar-2021.pdf" target="_blank">the inclusion calendar for 2021</a> from the CIPD (Chartered Institute of Personnel and Development). This will be helpful to create events all year round.</p>
 
 
 <hr class="big">
@@ -72,7 +72,7 @@ It was addressed in the video above. This in an interesting concept. The idea is
 
 <p style="margin-bottom: 0">Two articles about the concept and one blog post from the Digital Team</p>
 - <a href="https://dasbarrett.medium.com/a-user-manual-for-dan-2nd-edition-d120d603b2" target="_blank">A user manual for Dan (2nd edition)</a> - Medium article by Dan Barrett
-- <a href="https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694" target="_blank">A user manual for me</a>[ - Medium article by Cassie Robinson
+- <a href="https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694" target="_blank">A user manual for me</a> - Medium article by Cassie Robinson
 - <a href="https://design.scotentblog.co.uk/a-user-manual-for-lindsay/" target="_blank">A user manual for Lindsay</a> - blog post from Lindsay Branston
 
 <a href="#" class="button">Back to top</a>
@@ -83,7 +83,7 @@ It was addressed in the video above. This in an interesting concept. The idea is
 
 <p><a href="https://vimeo.com/431281808" target="_blank">Watch this video of a talk by Farai Madzima</a> talking about cultural bias in design and how it feels to be 'one of a kind in the workplace.</p>
 
-In this video he explains that culture can influence people along these dimensions:
+<p style="margin-bottom: 0">In this video he explains that culture can influence people along these dimensions:
 - leading
 - Evaluation
 - Deciding
@@ -124,4 +124,5 @@ Here is how some countries fits on the Egalitarian/Hierachical scale for the dim
 
 <!-- 
 <a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
 -->
