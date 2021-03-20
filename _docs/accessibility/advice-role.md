@@ -5,7 +5,7 @@ order: 8
 ---
 
 
-Depending on your role, there are some specific things you need to make sure you get right. This [guidance per job role from the DWP Accessibility manual](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role) is good for reference or this [guidance from NHS per role as well](https://service-manual.nhs.uk/accessibility).
+Depending on your role, there are some specific things you need to make sure you get right. This <a href="https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role" target="_blank">guidance per job role from the DWP Accessibility manual</a> is good for reference or this <a href="https://service-manual.nhs.uk/accessibility" target="_blank">guidance from NHS per role as well</a>.
 
 - [Creating content for others](#creating-content-for-others)
 - [Doing research](#doing-research) 
@@ -41,9 +41,9 @@ You will find information about:
 - [Media files](/inclusion/accessibility/document#media-files)
 
 ### Some resources:
-- [A Brief Guide to Easy Read: Top Tips](http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.2F5teQP6.dpbs) - From the Scottish Accessible Information Forum
-- [A blog post about how to create an Easy read format](https://accessibility.blog.gov.uk/2019/10/11/how-dwp-used-the-easy-read-format-to-make-its-content-more-accessible/) - GOV.UK blog post from the DWP 
-- [DWP guidance for Content designers](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer)
+- <a href="http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.2F5teQP6.dpbs" target="_blank">A Brief Guide to Easy Read: Top Tips</a> - From the Scottish Accessible Information Forum
+- <a href="https://accessibility.blog.gov.uk/2019/10/11/how-dwp-used-the-easy-read-format-to-make-its-content-more-accessible/" target="_blank">A blog post about how to create an Easy read format</a> - GOV.UK blog post from the DWP 
+- <a href="https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer" target="_blank">DWP guidance for Content designers</a>
 
 <a href="#" class="button">Back to top</a>
 
@@ -55,17 +55,17 @@ You will find information about:
   <p>Will take tips to make a summary from all the links below</p>
 </blockquote>
 
-- [Poster to explain who to include in your research](/inclusion/accessibility/files/Research-who_to_include_when_.pdf) - PDF
-This poster is a [resource from the Home Office Digital](https://github.com/UKHomeOffice/posters/blob/master/accessibility/researching-access-needs/Research-who_to_include_when%3F.pdf)
-- [DWP guidance for User researchers](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/user-researcher)
-- [What we learned doing user research with people who have access needs - GOVUK blog](https://userresearch.blog.gov.uk/2018/08/09/what-we-learned-doing-user-research-with-people-who-have-access-needs/)
-- Think like an accessible UX researcher [part 1: Defining your research problem](https://developer.paciellogroup.com/blog/2019/03/think-like-an-accessible-ux-researcher-part-1-defining-your-research-problem/) and [part 2: How many participants?](https://developer.paciellogroup.com/blog/2019/03/think-like-an-accessible-ux-researcher-part-2/)
-- [What we learned about doing accessibility research on the NHS website](https://medium.com/we-are-margot/what-we-learned-about-doing-accessibility-research-on-the-nhs-website-fb9c649943fd) - Medium article
-- [NHS: Tips for effective accessibility research](https://digital.nhs.uk/blog/transformation-blog/2019/eight-tips-for-effective-accessibility-research)
-- [GOV.UK Service Manual: Finding participants for user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants#recruiting-participants-with-disabilities)
-- [Running inclusive research sessions. Beyond screen readers and verbal feedback.](https://medium.com/swlh/running-inclusive-research-sessions-beyond-wheelchairs-and-screen-readers-488362c7103d) - Medium article
-- [Redesigning Design](https://blogs.gov.scot/digital/2018/12/17/redesigning-design/) - Blog post by the Scottish Government
-- [Inclusive Research](https://www.dropbox.com/s/6iy7waa7lsbvffi/InclusiveResearch%20UCD%20Gathering.pdf?dl=0) - big PDF in Dropbox
+- <a href="https://scotentsd.github.io/inclusion/accessibility/files/Research-who_to_include_when_.pdf" target="_blank">Poster to explain who to include in your research</a> - PDF
+This poster is a <a href="https://github.com/UKHomeOffice/posters/blob/master/accessibility/researching-access-needs/Research-who_to_include_when%3F.pdf" target="_blank">resource from the Home Office Digital</a>
+- <a href="https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/user-researcher" target="_blank">DWP guidance for User researchers</a>
+- <a href="https://userresearch.blog.gov.uk/2018/08/09/what-we-learned-doing-user-research-with-people-who-have-access-needs" target="_blank">What we learned doing user research with people who have access needs - GOVUK blog</a>
+- Think like an accessible UX researcher <a href="https://developer.paciellogroup.com/blog/2019/03/think-like-an-accessible-ux-researcher-part-1-defining-your-research-problem" target="_blank">part 1: Defining your research problem</a> and <a href="https://developer.paciellogroup.com/blog/2019/03/think-like-an-accessible-ux-researcher-part-2/" target="_blank">part 2: How many participants?</a>
+- <a href="https://medium.com/we-are-margot/what-we-learned-about-doing-accessibility-research-on-the-nhs-website-fb9c649943fd" target="_blank">What we learned about doing accessibility research on the NHS website</a> - Medium article
+- <a href="https://digital.nhs.uk/blog/transformation-blog/2019/eight-tips-for-effective-accessibility-research" target="_blank">NHS: Tips for effective accessibility research</a>
+- <a href="https://www.gov.uk/service-manual/user-research/find-user-research-participants#recruiting-participants-with-disabilities" target="_blank">GOV.UK Service Manual: Finding participants for user research</a>
+- <a href="https://medium.com/swlh/running-inclusive-research-sessions-beyond-wheelchairs-and-screen-readers-488362c7103d" target="_blank">Running inclusive research sessions - Beyond screen readers and verbal feedback</a> - Medium article
+- <a href="https://blogs.gov.scot/digital/2018/12/17/redesigning-design" target="_blank">Redesigning Design</a> - Blog post by the Scottish Government
+- <a href="https://www.dropbox.com/s/6iy7waa7lsbvffi/InclusiveResearch%20UCD%20Gathering.pdf?dl=0" target="_blank">Inclusive Research</a> - big PDF in Dropbox
 
 <a href="#" class="button">Back to top</a>
 
@@ -94,7 +94,7 @@ This poster is a [resource from the Home Office Digital](https://github.com/UKHo
   </ul>
 </blockquote>
 
-For more information, you can check the [DWP guidance for QA testers](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/qa-tester)
+For more information, you can check the <a href="https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/qa-tester" target="_blank">DWP guidance for QA testers</a>
 
 > Get in touch with the Digital team to learn more (More specific advice for a QA testers will be provided elsewhere)
 
@@ -108,3 +108,9 @@ This video of a talk by Alistair Duggin gives a really good view of all the aspe
 <a href="#" class="button">Back to top</a>
 
 <div>Last updated: {{site.time | date_to_string}}</div>
+
+
+<!-- 
+<a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
+-->

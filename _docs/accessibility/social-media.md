@@ -38,15 +38,15 @@ If you’re creating a longer post on platforms like Facebook or LinkedIn, you s
 All pictures (including diagrams) should have an Alt text (alternative text)  so users with screen readers know what the image is and get the same level of information as users who can see the image. 
 
 <p style="margin-bottom: 0">Here how to do this on:</p>
-- [Twitter](https://help.twitter.com/en/using-twitter/picture-descriptions)
-- [LinkedIn](https://www.linkedin.com/help/linkedin/answer/109799)
-- [Facebook](https://www.facebook.com/help/214124458607871)
+- <a href="https://help.twitter.com/en/using-twitter/picture-descriptions" target="_blank">Twitter</a>
+- <a href="https://www.linkedin.com/help/linkedin/answer/109799" target="_blank">LinkedIn</a>
+- <a href="https://www.facebook.com/help/214124458607871" target="_blank">Facebook</a>
 
 Not all platforms let you add alt text to a gif. If you can’t add proper alt text, just describe it within your post in [square brackets]
 
-How to do it if you are [using HootSuite](https://help.hootsuite.com/hc/en-us/articles/204586000-Attach-images-to-messages#3)
+How to do it if you are <a href="https://help.hootsuite.com/hc/en-us/articles/204586000-Attach-images-to-messages#3" target="_blank">using HootSuite</a>
 
-A good link to [understand more about alt text](https://axesslab.com/alt-texts/) and how to do a good one. And a [longer guidance here](https://webaim.org/techniques/alttext/).
+A good link to <a href="https://axesslab.com/alt-texts/" target="_blank">understand more about alt text</a> and how to do a good one. And a <a href="https://webaim.org/techniques/alttext/" target="_blank">longer guidance here</a>.
 
 <hr class="big">
 
@@ -66,7 +66,7 @@ For example: **#ThisIsHowtoFormatAnAccessibleHashtag**
 
 <iframe title="Creating captions and subtitles" width="560" height="315" src="https://www.youtube.com/embed/LCZ-cxfxzvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-More [advice from the Paciello group here](https://developer.paciellogroup.com/blog/2019/07/captions-and-transcripts-and-audio-descriptions-oh-my/).
+More <a href="https://developer.paciellogroup.com/blog/2019/07/captions-and-transcripts-and-audio-descriptions-oh-my" target="_blank">advice from the Paciello group here</a>.
 
 <hr class="big">
 
@@ -88,14 +88,14 @@ Some people rely on the ‘shape’ of a word to read more efficiently. Using al
 <hr class="big">
 
 ## More general advice
-[Planning, creating and publishing accessible social media campaigns](https://gcs.civilservice.gov.uk/guidance/digital-communication/planning-creating-and-publishing-accessible-social-media-campaigns/) - By the Government Communication Service
+<a href="https://gcs.civilservice.gov.uk/guidance/digital-communication/planning-creating-and-publishing-accessible-social-media-campaigns" target="_blank">Planning, creating and publishing accessible social media campaigns</a> - By the Government Communication Service
 
 <hr class="big">
 
 ## How people with disabilities use tech
 
-- **[How does a deaf or hard of hearing person uses technology?](https://www.levelaccess.com/understanding-assistive-technology-how-does-a-deaf-or-hard-of-hearing-person-use-technology/)**
-- **[Videos of people with disabilities using tech](https://axesslab.com/tech-youtubers/)**
+- <a href="https://www.levelaccess.com/understanding-assistive-technology-how-does-a-deaf-or-hard-of-hearing-person-use-technology/" target="_blank">How does a deaf or hard of hearing person uses technology?</a>
+- <a href="https://axesslab.com/tech-youtubers/" target="_blank">Videos of people with disabilities using tech</a>
 
 <hr class="big">
 
@@ -112,3 +112,8 @@ Some people rely on the ‘shape’ of a word to read more efficiently. Using al
 <a href="#" class="button">Back to top</a>
 
 <div>Last updated: {{site.time | date_to_string}}</div>
+
+<!-- 
+<a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
+-->

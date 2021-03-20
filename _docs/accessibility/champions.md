@@ -33,7 +33,7 @@ From this video (43 minutes in), some advice for their champions:
 
 ## Accessiblity Manchester events
 
-This is a meetup group who has organised excellent online events in 2020. You can [follow them on twitter](https://twitter.com/a11ymcr). These two videos contains lots a great advice.
+This is a meetup group who has organised excellent online events in 2020. You can <a href="https://twitter.com/a11ymcr" target="_blank">follow them on twitter</a>. These two videos contains lots a great advice.
 
 <hr class="small">
 
@@ -75,3 +75,8 @@ Challenging companies and assistive technologies to do better
 <a href="#" class="button">Back to top</a>
 <br>
 <div>Last updated: {{site.time | date_to_string}}</div>
+
+<!-- 
+<a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
+-->
