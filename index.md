@@ -18,7 +18,7 @@ There is a lot under the term 'diversity':
 
 ## The inclusion calendar for 2021
 
-Have a look at [the inclusion calendar for 2021](/images/CIPD-inclusion-calendar-2021.pdf) from the CIPD (Chartered Institute of Personnel and Development). This will be helpful to create events all year round. 
+<p>Have a look at <a href="/images/CIPD-inclusion-calendar-2021.pdf" target="_blank">the inclusion calendar for 2021</a> from the CIPD (Chartered Institute of Personnel and Development). This will be helpful to create events all year round.</p>
 
 
 <hr class="big">
@@ -71,9 +71,9 @@ It was addressed in the video above. This in an interesting concept. The idea is
 - if you need something from me, be explicit about it as I don't always pick up light cues
 
 <p style="margin-bottom: 0">Two articles about the concept and one blog post from the Digital Team</p>
-- [A user manual for Dan (2nd edition)](https://dasbarrett.medium.com/a-user-manual-for-dan-2nd-edition-d120d603b2) - Medium article by Dan Barrett
-- [A user manual for me](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694) - Medium article by Cassie Robinson
-- [A user manual for Lindsay](https://design.scotentblog.co.uk/a-user-manual-for-lindsay/) - blog post from Lindsay Branston
+- <a href="https://dasbarrett.medium.com/a-user-manual-for-dan-2nd-edition-d120d603b2" target="_blank">A user manual for Dan (2nd edition)</a> - Medium article by Dan Barrett
+- <a href="https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694" target="_blank">A user manual for me</a>[ - Medium article by Cassie Robinson
+- <a href="https://design.scotentblog.co.uk/a-user-manual-for-lindsay/" target="_blank">A user manual for Lindsay</a> - blog post from Lindsay Branston
 
 <a href="#" class="button">Back to top</a>
 
@@ -81,7 +81,7 @@ It was addressed in the video above. This in an interesting concept. The idea is
 
 ## Being one of a kind in the workplace
 
-<p><a href="https://vimeo.com/431281808">Watch this video of a talk by Farai Madzima</a> talking about cultural bias in design and how it feels to be 'one of a kind in the workplace.</p>
+<p><a href="https://vimeo.com/431281808" target="_blank">Watch this video of a talk by Farai Madzima</a> talking about cultural bias in design and how it feels to be 'one of a kind in the workplace.</p>
 
 In this video he explains that culture can influence people along these dimensions:
 - leading
@@ -111,13 +111,17 @@ Here is how some countries fits on the Egalitarian/Hierachical scale for the dim
 
 ## Further reading and extra resources
 
-- [Inclusive recruitment is essential](https://inclusivedesignrecruitment.co.uk/) - By Snook
-- [Inclusive recruitment for digital roles – a different way of thinking](https://blogs.gov.scot/digital/2020/08/24/inclusive-recruitment-for-digital-roles-a-different-way-of-thinking/) - Blog post by the Scottish Government
-- [Inclusive language - Writing for and about people in a way that is inclusive and respectful.](https://service-manual.nhs.uk/content/inclusive-language) - By the NHS
-- [D&A Diversity and Ability has compiled a huge list of reviews and guides](https://diversityandability.com/resources/)
+- <a href="https://inclusivedesignrecruitment.co.uk/" target="_blank">Inclusive recruitment is essential</a> - By Snook
+- <a href="https://blogs.gov.scot/digital/2020/08/24/inclusive-recruitment-for-digital-roles-a-different-way-of-thinking/" target="_blank">Inclusive recruitment for digital roles – a different way of thinking</a> - Blog post by the Scottish Government
+- <a href="https://service-manual.nhs.uk/content/inclusive-language" target="_blank">Inclusive language - Writing for and about people in a way that is inclusive and respectful</a> - By the NHS
+- <a href="https://diversityandability.com/resources/" target="_blank">D&A Diversity and Ability has compiled a huge list of reviews and guides</a>
 
 {% include feedback.html %}
 <br>
 <a href="#" class="button">Back to top</a>
 <br>
 <div>Last updated: {{site.time | date_to_string}}</div>
+
+<!-- 
+<a href="" target="_blank"></a>
+-->
