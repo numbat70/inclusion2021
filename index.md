@@ -70,7 +70,7 @@ It was addressed in the video above. This in an interesting concept. The idea is
 - I like to have some focus time in the morning, so prefer not to have meetings before 11am
 - if you need something from me, be explicit about it as I don't always pick up light cues
 
-<p style="margin-bottom: 0">Two articles about the concept and one blog post from the Digital Team</p>
+<p style="margin-bottom: 0">Two articles about the concept and one blog post from the Digital Team:</p>
 - <a href="https://dasbarrett.medium.com/a-user-manual-for-dan-2nd-edition-d120d603b2" target="_blank">A user manual for Dan (2nd edition)</a> - Medium article by Dan Barrett
 - <a href="https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694" target="_blank">A user manual for me</a> - Medium article by Cassie Robinson
 - <a href="https://design.scotentblog.co.uk/a-user-manual-for-lindsay/" target="_blank">A user manual for Lindsay</a> - blog post from Lindsay Branston
@@ -83,7 +83,7 @@ It was addressed in the video above. This in an interesting concept. The idea is
 
 <p><a href="https://vimeo.com/431281808" target="_blank">Watch this video of a talk by Farai Madzima</a> talking about cultural bias in design and how it feels to be 'one of a kind in the workplace.</p>
 
-<p style="margin-bottom: 0">In this video he explains that culture can influence people along these dimensions:
+<p style="margin-bottom: 0">In this video he explains that culture can influence people along these dimensions:</p>
 - leading
 - Evaluation
 - Deciding
