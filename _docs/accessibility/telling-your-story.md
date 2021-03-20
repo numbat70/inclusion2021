@@ -9,7 +9,7 @@ order: 11
 </blockquote>
 
 - Series of blog posts from the GOVUK: <a href="https://accessibility.blog.gov.uk/category/accessibility-and-me" target="_blank">Accessibility and Me</a>
-- <a href="Human library - Unjudge someone" target="_blank">https://humanlibrary.org</a>
+- <a href="https://humanlibrary.org" target="_blank">Human library - Unjudge someone</a>
 - Short stories, one per letter <a href="https://the-pastry-box-project.net/anne-gibson/2014-july-31" target="_blank">An Alphabet of Accessibility Issues</a>
 - <a href="https://medium.com/dsgnrs/7-users-share-their-struggles-navigating-the-inaccessible-digital-world-ffca5b3e3dc1" target="_blank">7 users share their struggles navigating the (sometimes inaccessible) digital world</a> - Medium article
 - <a href="https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles" target="_blank">Understanding disabilities and impairments: user profiles</a> - By the GOV.UK
