@@ -13,8 +13,12 @@ This group has a focus on engaging people across the organisation to attract, de
 </blockquote>
 
 ## Some resources
-- [French comic about the mental load](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/) - By Emma
+- <a href="https://english.emmaclit.com/2017/05/20/you-shouldve-asked/" target="_blank">French comic about the mental load</a> - By Emma
 
 
 <div>Last updated: {{site.time | date_to_string}}</div>
 
+<!-- 
+<a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
+-->

@@ -13,3 +13,8 @@ Recognising that diverse groups have diverse needs, values, priorities and persp
 </blockquote>
 
 <div>Last updated: {{site.time | date_to_string}}</div>
+
+<!-- 
+<a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
+-->

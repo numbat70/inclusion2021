@@ -16,6 +16,11 @@ This group has a focus on creating an accessible and inclusive organisation wher
 - Safe environment for members  
 - To have a collective voice, Peer to Peer Support 
 
-This [list of Disability awareness dates](https://businessdisabilityforum.org.uk/media-centre/disability-awareness-dates/) will be useful to create events all year round.
+This <a href="https://businessdisabilityforum.org.uk/media-centre/disability-awareness-dates/" target="_blank">list of Disability awareness dates</a> will be useful to create events all year round.
 
 <div>Last updated: {{site.time | date_to_string}}</div>
+
+<!-- 
+<a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
+-->
