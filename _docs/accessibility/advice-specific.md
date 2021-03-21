@@ -54,7 +54,7 @@ However, anyone can experience cognitive impairments – for example, as a resul
 > - Keeping your page layout simple and consistent 
 > - Using contrasting colours, but avoiding anything too bright and overwhelming  
 
-Talk from <a href="https://sparkleclass.com" target="_blank"><strong>achel Morgan-Trimmer</strong></a>'s Workshop: What is neurodiversity and why should you care about it?
+Talk from <a href="https://sparkleclass.com" target="_blank"><strong>Rachel Morgan-Trimmer</strong></a>'s Workshop: What is neurodiversity and why should you care about it?
 <iframe title="Workshop: What is neurodiversity and why should you care about it?" width="624" height="468" src="https://www.youtube.com/embed/HdrbrHVD11I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details>
@@ -273,7 +273,7 @@ From this document: - <a href="https://scotentsd.github.io/inclusion/accessibili
 
 Dyspraxia, also known as developmental co-ordination disorder (DCD), is a common disorder that affects movement and co-ordination.
 
-Dyspraxia does not affect your intelligence. It can affect your co-ordination skills – such as tasks requiring balance, playing sports or learning to drive a car. Dyspraxia can also affect your fine motor skills, such as writing or using small objects. (Source: <a href="https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia-in-adults" target="_blank">NHS</a>
+Dyspraxia does not affect your intelligence. It can affect your co-ordination skills – such as tasks requiring balance, playing sports or learning to drive a car. Dyspraxia can also affect your fine motor skills, such as writing or using small objects. (Source: <a href="https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia-in-adults" target="_blank">NHS</a>)
 
 There is a disconnect between your brain and your body. 
 Giving specific sequences and steps for task to follow can help.
@@ -518,12 +518,12 @@ When you hear 'disability' you usually think: Wheelchair. But In the UK, 93–95
 
 ![a cross and the wheelchair symbol visual with the message: 93% of people with disabilities don't use a wheelchair](/images/a11y/93visability.png)
 
-From <a href="https://www.visability93.com" target="_blank">Visability93</a>
+From Visability93
 
 <hr class="small">
 
 ### What is an invisible disability?
-The <a href="https://invisibledisabilities.org/what-is-an-invisible-disability" target="_blank">Invisible Disabilities Association</a>says:
+The <a href="https://invisibledisabilities.org/what-is-an-invisible-disability" target="_blank">Invisible Disabilities Association</a> says:
 
 > An invisible disability is a physical, mental or neurological condition that is not visible from the outside, yet can limit or challenge a person’s movements, senses, or activities.
 
@@ -582,7 +582,7 @@ Or <a href="https://www.heathrow.com/at-the-airport/accessibility-and-mobility-h
 
 ![Various toilets signs with the usual symbol for access plus man and woman symbols plus text: Not every disability is visible](/images/a11y/toilets-collage.jpg)
 
-Photo from <a href="https://www.noteverydisabilityisvisible.org.uk/take-action" target="_blank">their website</a>
+<a href="https://www.noteverydisabilityisvisible.org.uk/take-action" target="_blank">Photo from the Crohn’s & Colitis UK website</a>
 
 You can get involved, <a href="https://www.noteverydisabilityisvisible.org.uk/take-action" target="_blank">they provide material on their website</a>
 
