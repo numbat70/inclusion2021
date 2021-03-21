@@ -116,7 +116,7 @@ If you’re using images in your document that contain important meaning, inform
 
 You don’t need to add alt text to decorative images.  
 
-Read more about writing alt text [Link not ready - but will redirect to the Scottish Enterprise Design System Guidance for this]  
+Read more about writing alt text [will redirect to the Scottish Enterprise Design System Guidance for this - not ready yet]  
 A <a href="https://axesslab.com/alt-texts" target="_blank">good link to understand more about alt text</a> and how to do a good one. And <a href="https://webaim.org/techniques/alttext" target="_blank">a longer guidance</a>.
 A <a href="https://thoughtbot.com/blog/alt-vs-figcaption" target="_blank">blog post when you are unsure between a caption and an alt text</a>
 
@@ -131,7 +131,7 @@ Make sure you add links as a hyperlink to text within your document. This ‘anc
 >
 >**Do this**: You’ll find more information about this in our <a href="https://www.scottish-enterprise.com/learning-zone/business-guides" target="_blank">business guides section</a>.  
 >
->**Instead of**: You’ll find more information about this here: <a href="https://www.scottish-enterprise.com/learning-zone/business-guides" target="_blank">ttps://www.scottish-enterprise.com/learning-zone/business-guides</a>
+>**Instead of**: You’ll find more information about this here: <a href="https://www.scottish-enterprise.com/learning-zone/business-guides" target="_blank">https://www.scottish-enterprise.com/learning-zone/business-guides</a>
 >
 >**And instead of**: To find out more, <a href="https://www.scottish-enterprise.com/learning-zone/business-guides" target="_blank">click here</a>.  
 >

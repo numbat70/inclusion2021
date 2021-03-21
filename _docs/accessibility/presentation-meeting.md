@@ -242,7 +242,7 @@ Ask for honest feedback. What worked well and what didn't. That way you can impr
 ## Further reading
 
 - <a href="https://www.carrieannlightley.com/post/why-terms-like-fully-accessible-don-t-help-disabled-people" target="_blank">Why terms like ‘fully accessible’ don’t help disabled people</a> (Carrie-Ann Lightley)
-- <a href="Running Accessible Meetings and Events" target="_blank">https://medium.com/age-of-awareness/running-accessible-meetings-and-events-5efcd9c4a3df</a> (Sheri Byrne-Haber)
+- <a href="https://medium.com/age-of-awareness/running-accessible-meetings-and-events-5efcd9c4a3df" target="_blank">Running Accessible Meetings and Events</a> (Sheri Byrne-Haber)
 
 {% include feedback.html %}
 <br>
