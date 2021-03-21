@@ -87,9 +87,9 @@ Many virtual tools come with built-in accessibility tools. For example, many mee
 Get to know the tools you’re using to find the best ways to make them accessible, and to help your audience or participants to use them in a way that helps them. 
 
 For internal communication we use **Microsoft Teams**. They’ve provided a list of Teams accessibility features that you can get to know to make your meetings more inclusive.   
-[Accessibility overview of Microsoft Teams](https://support.microsoft.com/en-us/office/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5)
+<a href="https://support.microsoft.com/en-us/office/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" target="_blank">Accessibility overview of Microsoft Teams</a>
 
-West Dunbartonshire Council created lots of [tutorials for MS Teams, check their YouTube channel](https://www.youtube.com/playlist?list=PLp7Bmk8icyXIubvSA_ncKqaWnrP_45AYw)
+West Dunbartonshire Council created lots of <a href="https://www.youtube.com/playlist?list=PLp7Bmk8icyXIubvSA_ncKqaWnrP_45AYw" target="_blank">tutorials for MS Teams, check their YouTube channel</a>
 
 <a href="#" class="button">Back to top</a>
 
@@ -124,13 +124,13 @@ It’s tempting to overload your slides with information, but it’s often count
 
 Instead, keep the text on slides to a minimum, or consider splitting text across more than one slide.  
 
-A good article on this: [Good Slides Reduce Complexity](https://seomba.substack.com/p/good-slides-reduce-complexity)
+A good article on this: <a href="https://seomba.substack.com/p/good-slides-reduce-complexity" target="_blank">Good Slides Reduce Complexity</a>
 
 <hr class="small">
 
 ### Colours and contrasts 
 
-Make sure the text colour you’re using contrasts well with the background of your presentation. Tools such as [Tanaguru contrast finder](https://contrast-finder.tanaguru.com/) can help you check. 
+Make sure the text colour you’re using contrasts well with the background of your presentation. Tools such as <a href="https://contrast-finder.tanaguru.com" target="_blank">Tanaguru contrast finder</a> can help you check. 
 
 <a href="#" class="button">Back to top</a>
 
@@ -188,6 +188,8 @@ Don’t pressure users to turn their cameras on or ask questions out loud. Alway
 
 If you’re running a physical event or workshop, you should still follow any applicable guidelines on this page. If you’re using a presentation, make sure it uses a large font and isn’t over-crowded with text. Speak clearly, describe visual elements out loud and plan plenty of breaks. However, there are a few additional considerations you’ll need to remember when hosting a physical event.  
 
+<a href="#" class="button">Back to top</a>
+
 <hr class="small">
 
 ### Physical access 
@@ -204,7 +206,7 @@ When you host an event in a physical location rather than a virtual space, there
 - A nursing room and changing facilities for parents with babies   
 - Wide corridors and large rooms that allow users with mobility devices and service animals to move around easily 
 
-> **[Euan's guide can help you find an accessible venue](https://www.euansguide.com/)**
+> **<a href="https://www.euansguide.com" target="_blank">Euan's guide can help you find an accessible venue</a>**
 
 
 <hr class="small">
@@ -239,8 +241,8 @@ Ask for honest feedback. What worked well and what didn't. That way you can impr
 
 ## Further reading
 
-- [Why terms like ‘fully accessible’ don’t help disabled people](https://www.carrieannlightley.com/post/why-terms-like-fully-accessible-don-t-help-disabled-people) (Carrie-Ann Lightley)
-- [Running Accessible Meetings and Events](https://medium.com/age-of-awareness/running-accessible-meetings-and-events-5efcd9c4a3df) (Sheri Byrne-Haber)
+- <a href="https://www.carrieannlightley.com/post/why-terms-like-fully-accessible-don-t-help-disabled-people" target="_blank">Why terms like ‘fully accessible’ don’t help disabled people</a> (Carrie-Ann Lightley)
+- <a href="Running Accessible Meetings and Events" target="_blank">https://medium.com/age-of-awareness/running-accessible-meetings-and-events-5efcd9c4a3df</a> (Sheri Byrne-Haber)
 
 {% include feedback.html %}
 <br>

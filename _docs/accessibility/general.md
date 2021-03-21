@@ -10,7 +10,7 @@ For example: location (noise, slow wifi) health (tired, recovering) equipment (m
 
 ![showing illustrations of permanent, temporary and situational disability for 4 abilities (Touch, See, Hear and Speak)](/images/a11y/inclusive-toolkit-microsoft.png)
 
-(<a href="https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf" target="_blank">Source of this diagram: Microsoft Inclusive Design toolkit</a>)
+(Source of this diagram: <a href="https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf" target="_blank">Microsoft Inclusive Design toolkit - download the PDF</a>)
 
 > "My needs are different from yours and my needs today might be different tomorrow" - Charles Hall
 

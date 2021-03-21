@@ -36,7 +36,7 @@ order: 3
  
 When writing or speaking for Scottish Enterprise or our partners, we recommend using identity first language where possible. There are some exceptions, which we’ll explore on this page.  
 
-> **From [Mik Scarlet](https://twitter.com/MikScarlet/status/1319557794643718146):**
+> **From <a href="https://twitter.com/MikScarlet/status/1319557794643718146" target="_blank">Mik Scarlet</a>:**
 >
 > "People do not have disabilities. They are disabled. They have medical conditions, impairments or illnesses. The disability is something society causes because of how it reacts to people with those impairments. 
 >It's really important we use this language as it leads to equality." 
