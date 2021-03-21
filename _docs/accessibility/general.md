@@ -10,7 +10,7 @@ For example: location (noise, slow wifi) health (tired, recovering) equipment (m
 
 ![showing illustrations of permanent, temporary and situational disability for 4 abilities (Touch, See, Hear and Speak)](/images/a11y/inclusive-toolkit-microsoft.png)
 
-([Source of this diagram: Microsoft Inclusive Design toolkit](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf))
+(<a href="https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf" target="_blank">Source of this diagram: Microsoft Inclusive Design toolkit</a>)
 
 > "My needs are different from yours and my needs today might be different tomorrow" - Charles Hall
 
@@ -28,9 +28,9 @@ This video from 2014 give some good basic principles
 <hr class="big">
 
 ### Some more personal advice:
-- [“I never know when to [offer to] help disabled people”](https://gemturner.com/i-never-know-when-to-offer-to-help-disabled-people/) - by Gem Turner
-- [I've Been Paralyzed Since I Was 3. Here's Why Kindness Toward Disabled People Is More Complicated Than You Think](https://time.com/5881597/disability-kindness/) - by Rebekah Taussig
-- [Teaching your child about disability and difference](https://amp.abc.net.au/article/everyday/11739256) - by Ellen Fraser-Barbour 
+- <a href="https://gemturner.com/i-never-know-when-to-offer-to-help-disabled-people/" target="_blank">“I never know when to [offer to] help disabled people”</a> - by Gem Turner
+- <a href="https://time.com/5881597/disability-kindness/" target="_blank">I've Been Paralyzed Since I Was 3. Here's Why Kindness Toward Disabled People Is More Complicated Than You Think</a> - by Rebekah Taussig
+- <a href="https://amp.abc.net.au/article/everyday/11739256" target="_blank">Teaching your child about disability and difference</a> - by Ellen Fraser-Barbour 
 
 <hr class="big">
 
@@ -43,7 +43,7 @@ The social model helps us recognise barriers that make life harder for disabled 
 
 Not everyone uses the social model and that’s ok. How anyone chooses to talk about their impairment is up to them. 
 
-(Source: [Scope](https://www.scope.org.uk/about-us/social-model-of-disability/))
+(Source: <a href="https://www.scope.org.uk/about-us/social-model-of-disability/" target="_blank">Scope</a>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3m_EbRH1aF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -53,3 +53,8 @@ Not everyone uses the social model and that’s ok. How anyone chooses to talk a
 <a href="#" class="button">Back to top</a>
 
 <div>Last updated: {{site.time | date_to_string}}</div>
+
+<!-- 
+<a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
+-->

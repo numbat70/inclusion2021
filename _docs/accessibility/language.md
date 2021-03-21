@@ -128,29 +128,29 @@ Where possible, try to refer to the specific condition or symptom you mean, beca
 
 ## Further reading 
 
-GOV.UK has a useful [list of words to use and words to avoid when talking about disabilities](https://www.gov.uk/government/publications/inclusive-communication/inclusive-language-words-to-use-and-avoid-when-writing-about-disability#words-to-use-and-avoid).  
+GOV.UK has a useful <a href="https://www.gov.uk/government/publications/inclusive-communication/inclusive-language-words-to-use-and-avoid-when-writing-about-disability#words-to-use-and-avoid" target="_blank">list of words to use and words to avoid when talking about disabilities</a>.  
 
 If you’re looking for guidance around a specific disability, look for a local or national organisation that can help. The way they talk about disabilities on their own websites gives a good idea of what the best practise may be. 
 
 <p style="margin-bottom: 0">Here is a list of sites that may be useful:</p>
-- [Royal National Institute of Blind People](https://www.rnib.org.uk/)
-- [Visibility Scotland](https://visibilityscotland.org.uk/)
-- [Sight Scotland](https://sightscotland.org.uk/)
-- [Deafscotland](https://deafscotland.org/) 
-- [Deaf action](https://www.deafaction.org/) 
-- [Disability information Scotland](https://www.disabilityscot.org.uk/)   
-- [Inclusion Scotland](https://inclusionscotland.org/) 
-- [British Dyslexia Association](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide) 
-- [Scottish Autism](https://www.scottishautism.org/)
-- [Down's Syndrome Association](https://www.downs-syndrome.org.uk/news/mum-launches-new-language-cards/)
+- <a href="https://www.rnib.org.uk/" target="_blank">Royal National Institute of Blind People</a>
+- <a href="https://visibilityscotland.org.uk/" target="_blank">Visibility Scotland</a>
+- <a href="https://sightscotland.org.uk/" target="_blank">Sight Scotland</a>
+- <a href="https://deafscotland.org/" target="_blank">Deafscotland</a>
+- <a href="https://www.deafaction.org/" target="_blank">Deaf action</a>
+- <a href="https://www.disabilityscot.org.uk/" target="_blank">Disability information Scotland</a>
+- <a href="https://inclusionscotland.org/" target="_blank">Inclusion Scotland</a>
+- <a href="https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide" target="_blank">British Dyslexia Association</a>
+- <a href="https://www.scottishautism.org/" target="_blank">Scottish Autism</a>
+- <a href="https://www.downs-syndrome.org.uk/news/mum-launches-new-language-cards/" target="_blank">Down's Syndrome Association</a>
 
  <hr class="small">
 
 ### Some more personal point of views
-- [Whatever You Do Don’t Call Me Differently Abled.](https://medium.com/swlh/whatever-you-do-dont-call-me-differently-abled-d947ac029801) - Medium article by Elizabeth Wright
-- [Disability Pronouns](https://medium.com/age-of-awareness/disability-pronouns-bb7e04b890f3) - Medium article by Sheri Byrne-Habe
-- [Disability language is a nuanced thing](https://incl.ca/disability-language-is-a-nuanced-thing/) - blog post by Nicolas Steenhout 
-- [BBC Word of Mouth podcast episode: Talking Disability with Samantha Renke](https://www.bbc.co.uk/programmes/m000qy49)
+- <a href="https://medium.com/swlh/whatever-you-do-dont-call-me-differently-abled-d947ac029801" target="_blank">Whatever You Do Don’t Call Me Differently Abled</a> - Medium article by Elizabeth Wright
+- <a href="https://medium.com/age-of-awareness/disability-pronouns-bb7e04b890f3" target="_blank">Disability Pronouns</a> - Medium article by Sheri Byrne-Habe
+- <a href="https://incl.ca/disability-language-is-a-nuanced-thing/" target="_blank">Disability language is a nuanced thing</a> - blog post by Nicolas Steenhout 
+- <a href="https://www.bbc.co.uk/programmes/m000qy49" target="_blank">BBC Word of Mouth podcast episode: Talking Disability with Samantha Renke</a>
 
 {% include feedback.html %}
 <br>
@@ -158,3 +158,8 @@ If you’re looking for guidance around a specific disability, look for a local 
 <a href="#" class="button">Back to top</a>
 
 <div>Last updated: {{site.time | date_to_string}}</div>
+
+<!-- 
+<a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
+-->

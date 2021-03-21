@@ -247,3 +247,8 @@ Ask for honest feedback. What worked well and what didn't. That way you can impr
 <a href="#" class="button">Back to top</a>
 
 <div>Last updated: {{site.time | date_to_string}}</div>
+
+<!-- 
+<a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
+-->

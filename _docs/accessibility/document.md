@@ -60,7 +60,7 @@ We generally recommend avoiding publishing PDFs and other documents online where
 - They’re less likely to be kept up to date
 - They’re hard to reuse
 
-Source: [Why GOV.UK content should be published in HTML and not PDF](https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf/)
+Source: <a href="https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf" target="_blank">Why GOV.UK content should be published in HTML and not PDF</a>
 
 However, there may be situations where we can’t avoid publishing a document online or sharing it directly with a customer – for example, when sending funding applicants an offer letter or contract. We also regularly share documents with colleagues to share information or collaborate. It’s important that all our documents are accessible, whether they're being shared internally or externally.  
 
@@ -79,7 +79,7 @@ However, there may be situations where we can’t avoid publishing a document on
 
 ### Language and content 
 
-**Write in clear, simple English with no jargon**. Make sure you explain any acronyms or technical terms you use for those who might not be familiar with them – for example, customers, colleagues outside your team, or new starts. There are tools to check the level of readability of your text like [the Hemingway App](http://www.hemingwayapp.com/) 
+**Write in clear, simple English with no jargon**. Make sure you explain any acronyms or technical terms you use for those who might not be familiar with them – for example, customers, colleagues outside your team, or new starts. There are tools to check the level of readability of your text like <a href="http://www.hemingwayapp.com" target="_blank">the Hemingway App</a>
 
 **Avoid writing in block capitals**. These are harder to read for people with low vision or dyslexia and might be read letter by letter when soemone use a screen reader.
 
@@ -104,7 +104,7 @@ The Microsoft Word toolbar, showing the functionality to mark text as Heading 1,
 
 Avoid using colour alone to signify meaning.  
 
-Make sure the text colour you’re using has a high contrast with the background of the document. Tools such as ['Accessible colors'](https://accessible-colors.com/) can help you check.  
+Make sure the text colour you’re using has a high contrast with the background of the document. Tools such as <a href="https://accessible-colors.com/" target="_blank">'Accessible colors'</a> can help you check.  
 
 Read more about using colours and contrast [Link not ready - but will redirect to the Scottish Enterprise Design System Guidance for this]  
 
@@ -117,8 +117,8 @@ If you’re using images in your document that contain important meaning, inform
 You don’t need to add alt text to decorative images.  
 
 Read more about writing alt text [Link not ready - but will redirect to the Scottish Enterprise Design System Guidance for this]  
-A [good link to understand more about alt text](https://axesslab.com/alt-texts/) and how to do a good one. And [a longer guidance](https://webaim.org/techniques/alttext/).
-A [blog post when you are unsure between a caption and an alt text](https://thoughtbot.com/blog/alt-vs-figcaption)
+A <a href="https://axesslab.com/alt-texts" target="_blank">good link to understand more about alt text</a> and how to do a good one. And <a href="https://webaim.org/techniques/alttext" target="_blank">a longer guidance</a>.
+A <a href="https://thoughtbot.com/blog/alt-vs-figcaption" target="_blank">blog post when you are unsure between a caption and an alt text</a>
 
 
 <hr class="small">
@@ -129,11 +129,11 @@ Make sure you add links as a hyperlink to text within your document. This ‘anc
 
 #### Example
 >
->**Do this**: You’ll find more information about this in our [business guides section](https://www.scottish-enterprise.com/learning-zone/business-guides).  
+>**Do this**: You’ll find more information about this in our <a href="https://www.scottish-enterprise.com/learning-zone/business-guides" target="_blank">business guides section</a>.  
 >
->**Instead of**: You’ll find more information about this here: [https://www.scottish-enterprise.com/learning-zone/business-guides/](https://www.scottish-enterprise.com/learning-zone/business-guides)  
+>**Instead of**: You’ll find more information about this here: <a href="https://www.scottish-enterprise.com/learning-zone/business-guides" target="_blank">ttps://www.scottish-enterprise.com/learning-zone/business-guides</a>
 >
->**And instead of**: To find out more, [click here](https://www.scottish-enterprise.com/learning-zone/business-guides).  
+>**And instead of**: To find out more, <a href="https://www.scottish-enterprise.com/learning-zone/business-guides" target="_blank">click here</a>.  
 >
 
 <hr class="small">
@@ -144,7 +144,7 @@ The Microsoft word toolbar with the Check Accessibility functionality highlighte
 
 ![screenshot of the part of the menu where you can find the check accessiblity menu](/inclusion/accessibility/files/access-check-word.png)
 
-Good article about word document: [An Accessible Word Document Checklist](https://www.abrightclearweb.com/accessible-word-document-checklist/)
+Good article about word document: <a href="https://www.abrightclearweb.com/accessible-word-document-checklist" target="_blank">An Accessible Word Document Checklist</a>
 
 
 <hr class="small">
@@ -166,7 +166,7 @@ If you’re using tables, try to keep them simple and avoid merged or split cell
 ### Graphs and charts 
 
 If you’re sharing graphs and charts, try to provide a written version of the same information as well. This could be in a table or as written descriptions.  
-[Key Considerations for Flowchart Accessibility](https://mn.gov/mnit/media/blog/?id=38-436349) - Note that this link will ask you to confirm you're not a robot before going to the correct page
+<a href="https://mn.gov/mnit/media/blog/?id=38-436349" target="_blank">Key Considerations for Flowchart Accessibility</a> - Note that this link will ask you to confirm you're not a robot before going to the correct page
 
 
 <hr class="small">
@@ -191,18 +191,18 @@ A simple flowchart could be written out in steps. An organisation chart can be b
 
 The easy read format was created to help people with learning disabilities understand information easily.
 
-Easy read is often also preferred by readers without learning disabilities, as it gives the essential information on a topic without a lot of background information. It can be especially helpful for people who are not fluent in English. (Source: [GOV.UK - Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton))
+Easy read is often also preferred by readers without learning disabilities, as it gives the essential information on a topic without a lot of background information. It can be especially helpful for people who are not fluent in English. (Source: <a href="https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton" target="_blank">GOV.UK - Accessible communication formats</a>)
 
 <hr class="small">
 
 ### Resources:
-- [A Brief Guide to Easy Read: Top Tips](http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.HPTHxyK3.dpbs) from SAIF (Scottish Accessible Information Forum)
-- [GOVUK Blog post: How DWP used the easy read format to make its content more accessible](https://accessibility.blog.gov.uk/2019/10/11/how-dwp-used-the-easy-read-format-to-make-its-content-more-accessible/)
+- <a href="http://www.saifscotland.org.uk/information-and-advice/brief-guide-easy-read-documents/brief-guide-easy-read-top-tips/#sthash.P6BlvNot.HPTHxyK3.dpbs" target="_blank">A Brief Guide to Easy Read: Top Tips</a> from SAIF (Scottish Accessible Information Forum)
+- <a href="https://accessibility.blog.gov.uk/2019/10/11/how-dwp-used-the-easy-read-format-to-make-its-content-more-accessible" target="_blank">GOVUK Blog post: How DWP used the easy read format to make its content more accessible</a>
 
 #### Examples of Easy read format:
-- [Introduction to Universal Credit](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944658/introduction-to-universal-credit-easy-read-guide.pdf) - PDF
-- [Get help from Access to Work: easy read](https://www.gov.uk/government/publications/easy-read-get-help-at-work-if-youre-disabled-or-have-a-health-condition-access-to-work/get-help-from-access-to-work-easy-read) by the DWP
-- [Online Safety Booklet- Easy Read](https://www.lead.org.uk/online-safety-booklet-easy-read/) by Lead Scotland
+- <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944658/introduction-to-universal-credit-easy-read-guide.pdf" target="_blank">Introduction to Universal Credit</a> - PDF
+- <a href="https://www.gov.uk/government/publications/easy-read-get-help-at-work-if-youre-disabled-or-have-a-health-condition-access-to-work/get-help-from-access-to-work-easy-read" target="_blank">Get help from Access to Work: easy read</a> by the DWP
+- <a href="https://www.lead.org.uk/online-safety-booklet-easy-read" target="_blank">Online Safety Booklet- Easy Read</a> by Lead Scotland
 
 <a href="#" class="button">Back to top</a>
 
@@ -212,7 +212,7 @@ Easy read is often also preferred by readers without learning disabilities, as i
 
 Large print publications are documents with a point size of 16 and above.
 
-Large print versions of publications are essential for some disabled people, for example people with visual impairments, learning disabilities, dyslexia and problems with coordination or manual dexterity. (Source: [GOV.UK - Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#large-print))
+Large print versions of publications are essential for some disabled people, for example people with visual impairments, learning disabilities, dyslexia and problems with coordination or manual dexterity. (Source: <a href="https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#large-print" target="_blank">GOV.UK - Accessible communication formats</a>)
 
 - A minimum size of 16 point is recommended for people with a visual impairment
 - Some fonts appear larger than others at the same point size
@@ -229,7 +229,7 @@ Large print versions of publications are essential for some disabled people, for
 
 ## Try a screen reader for yourself   
 
-To test how your documents would work with a screen reader, you can download one yourself and try it out. We’d recommend [Non-Visual Desktop Access (NVDA)](https://www.nvaccess.org/). 
+To test how your documents would work with a screen reader, you can download one yourself and try it out. We’d recommend <a href="https://www.nvaccess.org" target="_blank">Non-Visual Desktop Access (NVDA)</a>. 
 
  
  <hr class="big">
@@ -262,16 +262,21 @@ This will also be used by many people who are not native speakers, or are in a n
 <hr class="big">
 
 ## Further reading: 
-- [GOV.UK - Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats)
-- [An Accessible Word Document Checklist](https://www.abrightclearweb.com/accessible-word-document-checklist/)
-- [How to publish on GOV.UK - Document accessiblity](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/accessible-pdfs)
-- [How to Make Your Presentations Accessible to All](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) - W3C resource
-- [SCULPT - Shaping your documents and content for accessible and inclusive practice](https://www.worcestershire.gov.uk/sculpt) - Great resource from the Worcestershire county council
-- [Presentations - Readability Guidelines](https://readabilityguidelines.co.uk/audiences-devices-channels/presentations/) - by Content Design London
-- [Make your PowerPoint presentations accessible to people with disabilities](https://support.microsoft.com/en-gb/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-us&rs=en-gb&ad=gb) - Microsoft support
+- <a href="https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats" target="_blank">GOV.UK - Accessible communication formats</a>
+- <a href="https://www.abrightclearweb.com/accessible-word-document-checklist" target="_blank">An Accessible Word Document Checklist</a>
+- <a href="https://www.gov.uk/guidance/how-to-publish-on-gov-uk/accessible-pdfs" target="_blank">How to publish on GOV.UK - Document accessiblity</a>
+- <a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations" target="_blank">How to Make Your Presentations Accessible to All</a> - W3C resource
+- <a href="https://www.worcestershire.gov.uk/sculpt" target="_blank">SCULPT - Shaping your documents and content for accessible and inclusive practice</a> - Great resource from the Worcestershire county council
+- <a href="https://readabilityguidelines.co.uk/audiences-devices-channels/presentations" target="_blank">Presentations - Readability Guidelines</a> - by Content Design London
+- <a href="https://support.microsoft.com/en-gb/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-us&rs=en-gb&ad=gb" target="_blank">Make your PowerPoint presentations accessible to people with disabilities</a> - Microsoft support
 
 {% include feedback.html %}
 <br>
 <a href="#" class="button">Back to top</a>
 
 <div>Last updated: {{site.time | date_to_string}}</div>
+
+<!-- 
+<a href="" target="_blank"></a>
+<p style="margin-bottom: 0">
+-->
