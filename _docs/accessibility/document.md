@@ -251,6 +251,7 @@ This will also be used by many people who are not native speakers, or are in a n
 <p style="margin-bottom: 0">Ideally, <strong>provide a transcript</strong> of your media, so people can either read it or use a screen reader to hear it:</p>
 - allow people to scan the content and see if they want to engage with it 
 - can be searched by people and search engines so better for SEO (Search Engine Optimisation)
+- this is the only way a deafblind person can engage with your content
 
 
 <p style="margin-bottom: 0"><strong>Audio descriptions</strong> speak out what is happening in the video so that it’s accessible to people with low vision. There are two ways to create audio descriptions:</p>
