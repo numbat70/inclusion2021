@@ -541,7 +541,7 @@ People with invisible disabilities regularly face problems in public places and 
 When you live with a chronic disease, your energy is limited. You will have bad days and good days. You need to pace yourself and plan ahead what you will be able to do that day. The <a href="https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory" target="_blank">Spoon Theory</a> was created by Christine Miserandino to explain to a friend how it felt to live with Lupus, making one spoon an energy unit: If you are healthy, you start your day with an unlimited number of spoons, but if you're not, you might start your day with 15 spoons on a 'good day'. Every thing you do will take away some spoons, and when they are gone, you can't do anyhting until the next day. 
 
 This video explains this quite well.
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/VFY81e396ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<iframe width="661" height="315" src="https://www.youtube.com/embed/7_9Nis6JqLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <blockquote class="info"><p><strong>The take away</strong>: don't assume someone can do something because they have done it the day before, they might be low on spoons...</p> </blockquote>
 
