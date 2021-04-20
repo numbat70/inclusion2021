@@ -146,7 +146,7 @@ If your participants are using video, it’s also good to describe any reactions
 
 If an audience member asks a question in the chat, make sure to read out the question before you answer.  
 
-A <a href="https://feather.ca/inclusion/describing/" target="_blank">good read about this, explaining how to audio describe your presentation</a>
+A <a href="https://feather.ca/inclusion/describing/" target="_blank">good read about this, explaining how to audio describe your presentation</a>.
 
 <hr class="small">
 
