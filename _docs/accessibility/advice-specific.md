@@ -188,11 +188,12 @@ More talks about ADHD during <a href="https://www.youtube.com/channel/UCsmRK5lDB
 
 ### Dyslexia
 
-h
+
 > 20% of entrepreneurs in the UK are dyslexic.
 > This is 5 times more than the general population.
 >
-> Source: <a href="ttps://www.amanet.org/articles/new-research-reveals-many-entrepreneurs-are-dyslexic" target="_blank">Source: Amanet.org Jan 2019</a>
+> Source: <a href="https://www.amanet.org/articles/new-research-reveals-many-entrepreneurs-are-dyslexic" target="_blank">Amanet.org Jan 2019</a>
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zafiGBrFkRM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
