@@ -188,6 +188,13 @@ More talks about ADHD during <a href="https://www.youtube.com/channel/UCsmRK5lDB
 
 ### Dyslexia
 
+h
+> 20% of entrepreneurs in the UK are dyslexic.
+> This is 5 times more than the general population.
+>
+> Source: <a href="ttps://www.amanet.org/articles/new-research-reveals-many-entrepreneurs-are-dyslexic" target="_blank">Source: Amanet.org Jan 2019</a>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zafiGBrFkRM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### General advice: do and don't
@@ -381,6 +388,8 @@ Some people with colour blindness won’t find any effect on their ability to us
 > Things to consider for colour-blind users include: 
 > - Making sure all text, buttons and other elements use strong colour contrast 
 > - Avoiding relying on colour alone to convey meaning 
+
+More on this: <a href="https://venngage.com/blog/color-blind-friendly-palette" target="_blank">How to Use Color Blind Friendly Palettes to Make Your Charts Accessible</a>
 
 <a href="#" class="button">Back to top</a>
 
