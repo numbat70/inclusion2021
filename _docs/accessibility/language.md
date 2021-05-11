@@ -62,7 +62,7 @@ We recommend taking the 'identity first’ approach when talking about neurodive
 - A person with ADHD 
 - A person with dyspraxia  
 
-You can also use the more general term, ‘neurodiverse people’, if you need to.  
+You can also use the more general term, ‘neurodivergent people’, if you need to.  
 
 > [More information about neurodiversity](/inclusion/accessibility/advice-specific/#neurodiversity)
 
@@ -70,7 +70,7 @@ You can also use the more general term, ‘neurodiverse people’, if you need t
 
 ### Cognitive impairments 
 
-There can be a lot of overlap between neurodiversity and cognitive impairments. We usually use ‘cognitive impairments’ to refer to specific impairments related to the brain – for example, memory loss, difficulty processing information, cognitive overload or difficulty understanding written language. Both neurodiverse and neurotypical people can experience cognitive impairments. This can be the result of a specific condition like Autism or ADHD, an injury or illness such as a stroke, or just related to ageing.   
+There can be a lot of overlap between neurodiversity and cognitive impairments. We usually use ‘cognitive impairments’ to refer to specific impairments related to the brain – for example, memory loss, difficulty processing information, cognitive overload or difficulty understanding written language. Both neurodivergent and neurotypical people can experience cognitive impairments. This can be the result of a specific condition like Autism or ADHD, an injury or illness such as a stroke, or just related to ageing.   
 
 We recommend saying ‘people with cognitive impairments’ as it’s simpler than ‘cognitively impaired people’.  
 

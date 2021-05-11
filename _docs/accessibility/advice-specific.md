@@ -45,7 +45,7 @@ Neurodiversity is an umbrella term that describes a wide range of conditions aff
 
 However, anyone can experience cognitive impairments – for example, as a result of ageing, injury or illness.  
 
-> Good steps to take to make sure your site or service is accessible to a wide range of neurodiverse users and users with cognitive impairments include: 
+> Good steps to take to make sure your site or service is accessible to a wide range of neurodivergent users and users with cognitive impairments include: 
 > - Writing in plain English – use simple language, avoid jargon and explain complicated terms  
 > - Making sure your site is compatible with screen readers [see the section on Blindness for more information](#blindness-and-visual-impairments)   
 > - Providing alternative versions of content – for example in a video version or an easy-read version 
@@ -99,7 +99,7 @@ Dont create a wall of text.</li>
   </ul>
   </li>
 <li style="border-bottom: solid 1px #F2CA27 ; padding: 1em 0;"><strong>Listen properly</strong><br>
-Sometime, neurodiverse people don’t speak with enough intention so you might not realise something they told you is really important to them. So listen carefully.</li>
+Sometime, neurodivergent people don’t speak with enough intention so you might not realise something they told you is really important to them. So listen carefully.</li>
 
 <li style="border-bottom: solid 1px #F2CA27 ; padding: 1em 0;"><strong>People might not know what they need</strong><br>
 By asking them what they need (sitting at the front or at the back, having a break now or later etc…) you force them to actually think about what they need and to communicate it to you.</li>
