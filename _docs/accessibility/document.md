@@ -140,9 +140,17 @@ Make sure you add links as a hyperlink to text within your document. This ‘anc
 
 ### Checking a Word document for accessibility   
 
-The Microsoft word toolbar with the Check Accessibility functionality highlighted in red.Microsoft Word has a built-in accessibility checker. Go to the review tab and click **‘Check accessibility’**. This will highlight errors such as missing alt text or low contrast text and help you fix them. 
+Microsoft Word has a built-in accessibility checker. In the toolbar, you will find the Check Accessibility functionality highlighted in red in the picture below.
 
 ![screenshot of the part of the menu where you can find the check accessiblity menu](/inclusion/accessibility/files/access-check-word.png)
+
+
+- Go to the **Review** tab
+- Select **‘Check accessibility’**
+- A panel will open on the right of your document
+- This will highlight errors such as missing alt text or low contrast text and help you fix them
+
+
 
 Good article about word document: <a href="https://www.abrightclearweb.com/accessible-word-document-checklist" target="_blank">An Accessible Word Document Checklist</a>
 
